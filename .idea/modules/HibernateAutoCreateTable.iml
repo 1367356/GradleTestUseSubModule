@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="HibernateAutoCreateTable" external.linked.project.path="$MODULE_DIR$/../../HibernateAutoCreateTable" external.root.project.path="$MODULE_DIR$/../../HibernateAutoCreateTable" external.system.id="GRADLE" external.system.module.group="com.li" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../HibernateAutoCreateTable">
+      <excludeFolder url="file://$MODULE_DIR$/../../HibernateAutoCreateTable/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../HibernateAutoCreateTable/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../HibernateAutoCreateTable/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
