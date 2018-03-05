@@ -2,10 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e3b5ae-7ba6-4e94-a06c-a1a4a86c90c0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/SpringBootMainApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application-dev.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/图片/捕获.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/讲解.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Archive.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Area.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Courier.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/FixedArea.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Standard.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/SubArchive.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/SubArea.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/TakeTime.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Vehicle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/page/PageBean.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/Menu.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/Permission.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/Role.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/DeliveryInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/InOutStorageInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/SignInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/TransitInfo.java" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_main.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_test.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/workspace-id.txt.lock" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/workspace-id.txt.lock" />
+      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -50,73 +75,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeliveryInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/DeliveryInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransitInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/TransitInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            <state relative-caret-position="243">
+              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application.properties">
+      <file leaf-file-name="InOutStorageInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/InOutStorageInfo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application-dev.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application-dev.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MySQL5Dialect.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.0.12.Final/bf593c18eacdead181ff26b4997d7ba8fcab93bd/hibernate-core-5.0.12.Final-sources.jar!/org/hibernate/dialect/MySQL5Dialect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/User.java">
+        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-              <folding>
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#772#773#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
-                <element signature="e#926#927#0" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
-                <element signature="e#1014#1015#0" expanded="true" />
-                <element signature="e#1046#1047#0" expanded="true" />
-                <element signature="e#1074#1075#0" expanded="true" />
-                <element signature="e#1116#1117#0" expanded="true" />
-                <element signature="e#1150#1151#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Permission.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/Permission.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,26 +149,9 @@
         <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/SpringBootMainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="讲解.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/讲解.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="捕获.PNG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/图片/捕获.PNG">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -539,8 +546,8 @@
       <map>
         <entry key="$USER_HOME$/.gradle/init.gradle" value="3855063258" />
         <entry key="$PROJECT_DIR$" value="6078659516135" />
-        <entry key="$PROJECT_DIR$/HibernateAutoCreateTable" value="6078660730751" />
-        <entry key="$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle" value="3826850017" />
+        <entry key="$PROJECT_DIR$/HibernateAutoCreateTable" value="6078663600716" />
+        <entry key="$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle" value="1834895294" />
         <entry key="$PROJECT_DIR$/HibernateAutoCreateTable/gradle/wrapper/gradle-wrapper.properties" value="975608090" />
         <entry key="$PROJECT_DIR$/HibernateAutoCreateTable/settings.gradle" value="1503159986" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2216484103" />
@@ -751,19 +758,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle" />
         <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application-dev.properties" />
         <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/SpringBootMainApplication.java" />
         <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/SpringBootMainApplication.java" />
         <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/User.java" />
         <option value="$PROJECT_DIR$/HibernateAutoCreateTable/讲解.txt" />
+        <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/base/Standard.java" />
+        <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/take_delivery/WayBill.java" />
+        <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Courier.java" />
+        <option value="$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle" />
+        <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/take_delivery/Order.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="152" />
-    <option name="y" value="11" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="1606" />
     <option name="height" value="1030" />
   </component>
@@ -818,6 +829,7 @@
       <recent name="com.li" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\HibernateAutoCreateTable\src\main\java\com\li\model" />
       <recent name="D:\software\github\github下载\GradleTestUseSubModule\HibernateAutoCreateTable\图片" />
     </key>
   </component>
@@ -1016,27 +1028,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="11" width="1606" height="1030" extended-state="1" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35131896" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26505235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21727468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26258993" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5167866" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09162304" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21727468" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -1057,34 +1068,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.0.12.Final/bf593c18eacdead181ff26b4997d7ba8fcab93bd/hibernate-core-5.0.12.Final-sources.jar!/org/hibernate/dialect/MySQL5Dialect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application-dev.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1102,35 +1089,27 @@
         <state relative-caret-position="297">
           <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding>
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1116#1117#0" expanded="true" />
-            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
+            <element signature="e#524#525#0" expanded="false" />
+            <element signature="e#552#553#0" expanded="false" />
+            <element signature="e#587#588#0" expanded="false" />
+            <element signature="e#618#619#0" expanded="false" />
+            <element signature="e#666#667#0" expanded="false" />
+            <element signature="e#706#707#0" expanded="false" />
+            <element signature="e#741#742#0" expanded="false" />
+            <element signature="e#772#773#0" expanded="false" />
+            <element signature="e#820#821#0" expanded="false" />
+            <element signature="e#860#861#0" expanded="false" />
+            <element signature="e#895#896#0" expanded="false" />
+            <element signature="e#926#927#0" expanded="false" />
+            <element signature="e#974#975#0" expanded="false" />
+            <element signature="e#1014#1015#0" expanded="false" />
+            <element signature="e#1046#1047#0" expanded="false" />
+            <element signature="e#1074#1075#0" expanded="false" />
+            <element signature="e#1116#1117#0" expanded="false" />
+            <element signature="e#1150#1151#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/SpringBootMainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,6 +1122,270 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/base/SubArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/transit/InOutStorageInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/base/TakeTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/system/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/transit/SignInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/transit/TransitInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/take_delivery/Promotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/system/Permission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/base/Standard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/domain/take_delivery/WayBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/TakeTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/SubArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Standard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/FixedArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/SubArchive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Archive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Courier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="50" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/DeliveryInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/take_delivery/Promotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/InOutStorageInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/Permission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/take_delivery/WorkBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/take_delivery/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="52" column="33" lean-forward="false" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/take_delivery/WayBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/SpringBootMainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/TransitInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding />
         </state>
       </provider>
