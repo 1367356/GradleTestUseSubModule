@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="elasticSearchAndIkTest_main" target="1.8" />
+      <module name="elasticSearchAndIkTest_test" target="1.8" />
       <module name="GradleTestUseSubModule_main" target="1.8" />
       <module name="GradleTestUseSubModule_test" target="1.8" />
       <module name="HibernateAutoCreateTable_main" target="1.8" />

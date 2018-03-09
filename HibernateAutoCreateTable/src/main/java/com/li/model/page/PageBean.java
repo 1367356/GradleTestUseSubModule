@@ -1,6 +1,5 @@
 package com.li.model.page;
 
-import top.kylewang.bos.domain.take_delivery.Promotion;
 
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlSeeAlso;
@@ -12,7 +11,7 @@ import java.util.List;
  * 2018/1/6 0006 10:51
  */
 @XmlRootElement(name = "pageBean")
-@XmlSeeAlso({Promotion.class})
+//@XmlSeeAlso({Promotion.class})
 public class PageBean<T> {
 
     /**

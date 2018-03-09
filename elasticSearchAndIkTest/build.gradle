@@ -1,0 +1,18 @@
+group 'com.li'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile('org.elasticsearch:elasticsearch:6.0.0',
+            'org.elasticsearch.client:transport:6.0.0',
+            'com.alibaba:fastjson:1.2.44',
+            group: 'junit', name: 'junit', version: '4.12')
+    testCompile group: 'junit', name: 'junit', version: '4.12'   //只作用于test目录下
+}

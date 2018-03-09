@@ -1,0 +1,1 @@
+使用vertx框架对elasticsearch进行测试。
