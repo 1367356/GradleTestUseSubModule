@@ -8,6 +8,8 @@
       <module name="GradleTestUseSubModule_test" target="1.8" />
       <module name="HibernateAutoCreateTable_main" target="1.8" />
       <module name="HibernateAutoCreateTable_test" target="1.8" />
+      <module name="java8AndJava9_main" target="1.8" />
+      <module name="java8AndJava9_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

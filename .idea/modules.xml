@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest.iml" group="elasticSearchAndIkTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_main.iml" group="elasticSearchAndIkTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_test.iml" group="elasticSearchAndIkTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8AndJava9.iml" filepath="$PROJECT_DIR$/.idea/modules/java8AndJava9.iml" group="java8AndJava9" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_main.iml" group="java8AndJava9" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_test.iml" group="java8AndJava9" />
     </modules>
   </component>
 </project>

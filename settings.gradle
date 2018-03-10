@@ -1,3 +1,4 @@
 rootProject.name = 'GradleTestUseSubModule'
 include 'elasticSearchAndIkTest'
+include 'java8AndJava9'
 

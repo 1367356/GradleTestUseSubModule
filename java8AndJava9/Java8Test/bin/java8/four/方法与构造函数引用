@@ -1,0 +1,56 @@
+四、方法与构造函数引用
+
+前一节中的代码还可以通过静态方法引用来表示：
+
+
+复制代码 代码如下:
+
+
+Converter<String, Integer> converter = Integer::valueOf;
+Integer converted = converter.convert("123");
+System.out.println(converted);   // 123
+
+Java 8 允许你使用 :: 关键字来传递方法或者构造函数引用，上面的代码展示了如何引用一个静态方法，我们也可以引用一个对象的方法：
+
+复制代码 代码如下:
+
+
+ converter = something::startsWith;
+String converted = converter.convert("Java");
+System.out.println(converted);    // "J"
+
+接下来看看构造函数是如何使用::关键字来引用的，首先我们定义一个包含多个构造函数的简单类：
+
+复制代码 代码如下:
+
+
+class Person {
+    String firstName;
+    String lastName;
+
+    Person() {}
+
+    Person(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+}
+
+接下来我们指定一个用来创建Person对象的对象工厂接口：
+
+复制代码 代码如下:
+
+
+interface PersonFactory<P extends Person> {
+    P create(String firstName, String lastName);
+}
+
+这里我们使用构造函数引用来将他们关联起来，而不是实现一个完整的工厂：
+
+复制代码 代码如下:
+
+
+PersonFactory<Person> personFactory = Person::new;
+Person person = personFactory.create("Peter", "Parker");
+
+我们只需要使用 Person::new 来获取Person类构造函数的引用，Java编译器会自动根据PersonFactory.create方法的签名来选择合适的构造函数。
