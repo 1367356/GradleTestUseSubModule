@@ -4,7 +4,6 @@ import static org.elasticsearch.common.xcontent.XContentFactory.*;
 
 import org.elasticsearch.action.DocWriteResponse;
 import org.elasticsearch.action.admin.indices.mapping.put.PutMappingRequest;
-import org.elasticsearch.action.admin.indices.mapping.put.PutMappingResponse;
 import org.elasticsearch.action.bulk.BulkItemResponse;
 import org.elasticsearch.action.bulk.BulkRequestBuilder;
 import org.elasticsearch.action.bulk.BulkResponse;
@@ -16,7 +15,6 @@ import org.elasticsearch.common.transport.TransportAddress;
 import org.elasticsearch.common.xcontent.XContentBuilder;
 import org.elasticsearch.common.xcontent.XContentFactory;
 import org.elasticsearch.transport.client.PreBuiltTransportClient;
-import org.junit.Before;
 import org.junit.Test;
 
 import java.io.IOException;
@@ -26,8 +24,8 @@ import java.util.Date;
 public class Es6Test1 {
     private static TransportClient client;
 
-    @Before
-    public void getClient() {
+
+    public TransportClient getClient() {
         // TODO Auto-generated method stub
         try {
             Settings settings = Settings.builder().put("cluster.name", "my-esLearn").build();
@@ -36,7 +34,7 @@ public class Es6Test1 {
             client = new PreBuiltTransportClient(settings)
                     .addTransportAddress(new TransportAddress(InetAddress.getByName("127.0.0.1"), 9300));
 
-
+                return client;
 
             //设置集群名称
 
@@ -52,6 +50,7 @@ public class Es6Test1 {
         } catch (Exception e) {
             e.printStackTrace();
         }
+        return null;
     }
     //获取单条数据
     @Test
