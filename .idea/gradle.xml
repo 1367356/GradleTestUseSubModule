@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ShrioAndSpringBoot" />
             <option value="$PROJECT_DIR$/elasticSearchAndIkTest" />
             <option value="$PROJECT_DIR$/java8AndJava9" />
           </set>

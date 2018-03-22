@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable.iml" filepath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_main.iml" group="HibernateAutoCreateTable" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_test.iml" group="HibernateAutoCreateTable" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot.iml" filepath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot.iml" group="ShrioAndSpringBoot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_main.iml" group="ShrioAndSpringBoot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_test.iml" group="ShrioAndSpringBoot" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest.iml" group="elasticSearchAndIkTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_main.iml" group="elasticSearchAndIkTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_test.iml" group="elasticSearchAndIkTest" />
