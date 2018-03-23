@@ -2,104 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e3b5ae-7ba6-4e94-a06c-a1a4a86c90c0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_alibaba_druid_1_0_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_1_9_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_jstl_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_35.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_accessors_smart_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_json_smart_2_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_ehcache_ehcache_core_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_activemq_activemq_broker_5_14_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_activemq_activemq_client_5_14_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_activemq_activemq_openwire_legacy_5_14_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_pool2_2_4_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_core_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_ehcache_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_spring_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_web_1_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jdt_ecj_3_12_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_fusesource_hawtbuf_hawtbuf_1_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_3_6_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_1_10_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_mybatis_3_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_devtools_1_5_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_activemq_1_5_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_cache_1_5_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_support_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jms_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_messaging_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_main.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/desc.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/SpringBootShrioApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/controller/LoginController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/controller/TestController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/dao/Mapper/UserMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/dao/Module.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/dao/Role.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/dao/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/service/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/service/impl/UserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/web/AuthRealm.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/web/CredentialsMatcher.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/web/DruidConfiguation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/web/ShiroConfiguration.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/applicatio_bak.approperty" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/jsp/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/jsp/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/mybatis/mapper/UserMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/mybatis/mybatis-config.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/shrio.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/static/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/webapp/WEB-INF/jsp/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/test/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/javaConcurrency.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/javaConcurrency/javaConcurrency_main.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/javaConcurrency/javaConcurrency_test.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/javaConcurrency/CountDownLatch.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_main.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/workspace-id.txt.lock" afterPath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/workspace-id.txt.lock" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -117,6 +32,9 @@
     <ignored path="$PROJECT_DIR$/ShrioAndSpringBoot/.gradle/" />
     <ignored path="$PROJECT_DIR$/ShrioAndSpringBoot/build/" />
     <ignored path="$PROJECT_DIR$/ShrioAndSpringBoot/out/" />
+    <ignored path="$PROJECT_DIR$/javaConcurrency/.gradle/" />
+    <ignored path="$PROJECT_DIR$/javaConcurrency/build/" />
+    <ignored path="$PROJECT_DIR$/javaConcurrency/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +78,7 @@
       <file leaf-file-name="SpringBootShrioApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/SpringBootShrioApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="297">
               <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -174,7 +92,7 @@
       <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
+            <state relative-caret-position="324">
               <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="e#499#500#0" expanded="true" />
@@ -186,84 +104,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/controller/TestController.java">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/static/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/build.gradle">
+        <entry file="file://$PROJECT_DIR$/javaConcurrency/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/static/index.html">
+      <file leaf-file-name="CountDownLatch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/javaConcurrency/CountDownLatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectStreamClass.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/io/ObjectStreamClass.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <caret line="42" column="54" lean-forward="false" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="54" />
+              <folding>
+                <element signature="e#3294#3484#0" expanded="true" />
+                <element signature="e#3483#3484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Serializable.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/io/Serializable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/application.yml">
+      <file leaf-file-name="CountDownLatch.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/concurrent/CountDownLatch.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="202">
+              <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+              <folding>
+                <element signature="e#1194#1195#0" expanded="true" />
+                <element signature="e#1237#1238#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/jsp/index.jsp">
+      <file leaf-file-name="AbstractQueuedSynchronizer.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/concurrent/locks/AbstractQueuedSynchronizer.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/webapp/WEB-INF/jsp/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/jsp/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="applicatio_bak.approperty" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/applicatio_bak.approperty">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-              <folding />
+            <state relative-caret-position="94">
+              <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="46" />
+              <folding>
+                <element signature="e#1168#1169#0" expanded="true" />
+                <element signature="e#1201#1202#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -320,6 +245,10 @@
               <ExternalProjectPojo>
                 <option name="name" value=":java8AndJava9" />
                 <option name="path" value="$PROJECT_DIR$/java8AndJava9" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":javaConcurrency" />
+                <option name="path" value="$PROJECT_DIR$/javaConcurrency" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -1157,22 +1086,154 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/javaConcurrency">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':javaConcurrency'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':javaConcurrency'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':javaConcurrency'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':javaConcurrency'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':javaConcurrency'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':javaConcurrency'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':javaConcurrency'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':javaConcurrency'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':javaConcurrency'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/javaConcurrency" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="modificationStamps">
       <map>
         <entry key="$USER_HOME$/.gradle/init.gradle" value="3855063258" />
-        <entry key="$PROJECT_DIR$" value="10642510590219" />
+        <entry key="$PROJECT_DIR$" value="12164674210945" />
         <entry key="$PROJECT_DIR$/HibernateAutoCreateTable" value="6078663600716" />
         <entry key="$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle" value="1834895294" />
         <entry key="$PROJECT_DIR$/HibernateAutoCreateTable/gradle/wrapper/gradle-wrapper.properties" value="975608090" />
         <entry key="$PROJECT_DIR$/HibernateAutoCreateTable/settings.gradle" value="1503159986" />
-        <entry key="$PROJECT_DIR$/ShrioAndSpringBoot/build.gradle" value="2787480567" />
+        <entry key="$PROJECT_DIR$/ShrioAndSpringBoot/build.gradle" value="3788260428" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2216484103" />
         <entry key="$PROJECT_DIR$/elasticSearchAndIkTest/build.gradle" value="526323054" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="975608090" />
         <entry key="$PROJECT_DIR$/java8AndJava9/build.gradle" value="2216484103" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="3357839708" />
+        <entry key="$PROJECT_DIR$/javaConcurrency/build.gradle" value="870901821" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1495385315" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1221,6 +1282,13 @@
                     <value>
                       <ExternalModuleBuildClasspathPojo>
                         <option name="path" value="$PROJECT_DIR$/java8AndJava9" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/javaConcurrency">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/javaConcurrency" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
@@ -1413,7 +1481,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application-dev.properties" />
         <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/SpringBootMainApplication.java" />
         <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/SpringBootMainApplication.java" />
@@ -1463,6 +1530,8 @@
         <option value="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/jsp/index.jsp" />
         <option value="$PROJECT_DIR$/ShrioAndSpringBoot/build.gradle" />
         <option value="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/CountDownLatch.java" />
+        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/javaConcurrency/CountDownLatch.java" />
       </list>
     </option>
   </component>
@@ -1473,11 +1542,10 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="441" />
-    <option name="y" value="55" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="546" />
     <option name="width" value="1276" />
-    <option name="height" value="1027" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1497,7 +1565,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -1509,69 +1576,43 @@
             <path>
               <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
               <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ShrioAndSpringBoot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
               <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ShrioAndSpringBoot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
               <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ShrioAndSpringBoot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ShrioAndSpringBoot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
               <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ShrioAndSpringBoot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
               <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ShrioAndSpringBoot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ShrioAndSpringBoot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="ShrioAndSpringBoot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="javaConcurrency" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -1879,12 +1920,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297362" sideWeight="0.49785408" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35131896" sideWeight="0.49570817" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17865707" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2529976" sideWeight="0.2414163" order="7" side_tool="true" content_ui="tabs" />
@@ -1894,12 +1934,13 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22182254" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24034335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24356224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17985612" sideWeight="0.7752146" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08959228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28916308" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28916308" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4388489" sideWeight="0.8690987" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1908,7 +1949,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297362" sideWeight="0.49785408" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17985612" sideWeight="0.7752146" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35131896" sideWeight="0.49570817" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1921,48 +1962,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.0.0/e63664f93b4e16eee66f2e2662e1b32378d5d914/elasticsearch-6.0.0-sources.jar!/org/elasticsearch/action/bulk/BulkItemResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="61" column="41" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java8AndJava9/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java8AndJava9/Java8Test/bin/test/four/Four.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java8AndJava9/Java8Test/src/java8/eight/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java8AndJava9/Java8Test/src/java8/eight/VisitInterfaceDefaultMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="83" column="44" lean-forward="false" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java8AndJava9/Java8Test/src/java8/eight/访问默认方法">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6422">
-          <caret line="114" column="34" lean-forward="false" selection-start-line="114" selection-start-column="34" selection-end-line="114" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java8AndJava9/Java8Test/src/java8/four/MethodAndConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -2052,182 +2051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3024">
           <caret line="172" column="24" lean-forward="false" selection-start-line="172" selection-start-column="13" selection-end-line="172" selection-end-column="24" />
-          <folding>
-            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1517832771462" expanded="false" signature="133:2219" ph="..." />
-            <marker date="1517832771462" expanded="false" signature="3584:3595" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="3619:3625" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="3656:3771" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="3809:5210" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="5311:5445" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="5578:6100" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="6340:7954" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="6873:6943" ph="run() → {" />
-            <marker date="1517832771462" expanded="false" signature="7047:7070" ph="}" />
-            <marker date="1517832771462" expanded="false" signature="8223:8234" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="8275:8281" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="8315:8326" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="8367:8373" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="8403:8551" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="8653:9018" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="9053:9064" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9088:9094" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="9152:9325" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="9419:9645" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="9678:9689" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9721:9727" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="9767:10149" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="10241:10392" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="10652:12356" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="12473:12612" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="12661:12826" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="12926:14436" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="14524:14739" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="14878:15460" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="15496:16285" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="16319:16935" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="16987:16998" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="17032:17038" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="17077:17635" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="17674:17685" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="17724:17730" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="17765:17776" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="17842:17848" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="17884:17895" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="17972:17978" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="18021:18387" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="18434:18445" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="18490:18496" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="18554:19312" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="18681:18755" ph="run() → {" />
-            <marker date="1517832771462" expanded="false" signature="19289:19304" ph="}" />
-            <marker date="1517832771462" expanded="true" signature="19391:19535" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="19616:19753" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="19847:20000" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="20109:20359" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="20486:20804" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="20931:21054" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="21145:21266" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="21353:21495" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="21584:21728" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="21830:21984" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="22101:22387" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="22522:22871" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="23006:23129" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="23187:23392" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="23434:23623" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="23675:24255" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="24452:24875" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="24945:25714" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="25760:26373" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="26428:26735" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="26846:27423" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="27516:27527" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="27590:27596" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="27643:28072" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="28226:28311" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="28416:29007" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="29072:30261" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="30332:30440" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="30516:31257" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="31320:31918" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="31967:33767" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="33834:34098" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="34169:34872" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="34959:35432" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="35508:35808" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="35923:36783" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="36884:37388" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="37463:37993" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="38047:38300" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="38357:38613" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="38695:38965" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="39289:39743" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="39789:40256" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="40360:40371" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="40451:40457" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="40519:40728" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="40769:41399" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="40837:40903" ph="run() → {" />
-            <marker date="1517832771462" expanded="false" signature="41362:41381" ph="}" />
-            <marker date="1517832771462" expanded="true" signature="41435:41558" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="41593:42363" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="41841:41911" ph="run() → {" />
-            <marker date="1517832771462" expanded="false" signature="42015:42038" ph="}" />
-            <marker date="1517832771462" expanded="true" signature="42408:43056" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="43089:43270" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="43318:43410" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="43472:43633" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="43700:43817" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="43891:43902" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="43941:43947" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="44023:44224" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="44266:44277" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="44344:44350" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="44425:44550" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="44634:44794" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="44845:44936" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="44988:45416" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="45482:46496" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="46570:46642" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="46682:46693" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="46720:46726" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="46804:46869" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="46921:47166" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="47220:47349" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="47362:47506" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="47548:48011" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="47872:48005" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="48045:49668" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="48306:48317" ph="{}" />
-            <marker date="1517832771462" expanded="true" signature="48392:48665" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="48817:48916" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="49020:49119" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="49235:49334" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="49351:49662" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="49721:51193" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="49880:50563" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="50592:50607" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="50690:50700" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="50733:50748" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="50803:50813" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="50841:50856" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="50939:50949" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="50987:51002" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="51029:51039" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="51065:51080" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="51097:51107" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="51139:51154" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="51177:51187" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="51224:56363" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="51340:51355" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="51364:51374" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="51406:51677" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="51708:51723" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="51749:51759" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="51791:52114" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="52151:52275" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="52321:52451" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="52495:52778" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="52836:53072" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="53122:53431" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="53453:53468" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="53487:53497" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="53527:53542" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="53568:53578" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="53606:53918" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="53972:54246" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="54286:54464" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="54541:54730" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="54762:55259" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="55296:56034" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="56063:56078" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="56098:56108" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="56180:56357" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="56408:56945" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="56887:56902" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="56929:56939" ph=" }" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2247,89 +2070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1517832771462" expanded="false" signature="133:696" ph="..." />
-            <marker date="1517832771462" expanded="true" signature="733:751" ph="/**...*/" />
-            <marker date="1517832771462" expanded="true" signature="1279:1472" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="1478:1496" ph="/**...*/" />
-            <marker date="1517832771462" expanded="false" signature="1544:1555" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="1575:1581" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="1612:1953" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="2008:2026" ph="/**...*/" />
-            <marker date="1517832771462" expanded="true" signature="2090:2264" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="2325:2343" ph="/**...*/" />
-            <marker date="1517832771462" expanded="true" signature="2404:2572" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="2578:2596" ph="/**...*/" />
-            <marker date="1517832771462" expanded="true" signature="2668:2686" ph="/**...*/" />
-            <marker date="1517832771462" expanded="true" signature="2740:2979" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="3030:3048" ph="/**...*/" />
-            <marker date="1517832771462" expanded="false" signature="3107:3118" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="3152:3158" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="3164:3182" ph="/**...*/" />
-            <marker date="1517832771462" expanded="false" signature="3236:3247" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="3288:3294" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="3334:3345" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="3382:3388" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="3438:3449" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="3488:3494" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="3558:3751" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="3793:3804" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="3874:3880" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="3928:4120" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="4163:4444" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="4492:4767" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="4804:4815" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="4877:4883" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="4924:5181" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="5222:5433" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="5482:5700" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="5740:5751" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="5806:5812" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="5865:5876" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="5937:5943" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="5993:6212" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="6253:6264" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="6320:6326" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="6368:6379" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="6436:6442" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="6496:6980" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="7047:7543" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="7582:7593" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="7667:7673" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="7726:8062" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="8113:8352" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="8358:8376" ph="/**...*/" />
-            <marker date="1517832771462" expanded="true" signature="8453:8692" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="8733:8744" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="8808:8814" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="8864:8875" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="8934:8940" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="8946:8964" ph="/**...*/" />
-            <marker date="1517832771462" expanded="true" signature="9033:9519" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="9558:9569" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9630:9636" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="9642:9660" ph="/**...*/" />
-            <marker date="1517832771462" expanded="true" signature="9722:9924" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="9930:9948" ph="/**...*/" />
-            <marker date="1517832771462" expanded="true" signature="10008:10214" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="10269:10833" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="10883:11931" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="11237:11315" ph="run() → {" />
-            <marker date="1517832771462" expanded="false" signature="11411:11438" ph="}" />
-            <marker date="1517832771462" expanded="true" signature="11985:13061" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="12351:12429" ph="run() → {" />
-            <marker date="1517832771462" expanded="false" signature="12529:12556" ph="}" />
-            <marker date="1517832771462" expanded="false" signature="13096:13107" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="13165:13171" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="13177:13195" ph="/**...*/" />
-            <marker date="1517832771462" expanded="true" signature="13200:13232" ph="@{...}" />
-            <marker date="1517832771462" expanded="true" signature="13292:13722" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="13772:13783" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="13834:13840" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="13933:13944" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="13991:13997" ph=" }" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2512,14 +2252,14 @@
     <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/SpringBootShrioApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="297">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2531,7 +2271,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="324">
           <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="e#499#500#0" expanded="true" />
@@ -2545,7 +2285,64 @@
     <entry file="file://$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaConcurrency/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/concurrent/CountDownLatch.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding>
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1237#1238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/concurrent/locks/AbstractQueuedSynchronizer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="e#1168#1169#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/javaConcurrency/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/io/ObjectStreamClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="42" column="54" lean-forward="false" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="54" />
+          <folding>
+            <element signature="e#3294#3484#0" expanded="true" />
+            <element signature="e#3483#3484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/io/Serializable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="29" />
           <folding />
         </state>
       </provider>

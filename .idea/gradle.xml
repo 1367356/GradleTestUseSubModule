@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/ShrioAndSpringBoot" />
             <option value="$PROJECT_DIR$/elasticSearchAndIkTest" />
             <option value="$PROJECT_DIR$/java8AndJava9" />
+            <option value="$PROJECT_DIR$/javaConcurrency" />
           </set>
         </option>
       </GradleProjectSettings>

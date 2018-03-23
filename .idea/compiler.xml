@@ -10,6 +10,8 @@
       <module name="HibernateAutoCreateTable_test" target="1.8" />
       <module name="java8AndJava9_main" target="1.8" />
       <module name="java8AndJava9_test" target="1.8" />
+      <module name="javaConcurrency_main" target="1.8" />
+      <module name="javaConcurrency_test" target="1.8" />
       <module name="ShrioAndSpringBoot_main" target="1.8" />
       <module name="ShrioAndSpringBoot_test" target="1.8" />
     </bytecodeTargetLevel>

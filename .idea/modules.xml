@@ -17,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8AndJava9.iml" filepath="$PROJECT_DIR$/.idea/modules/java8AndJava9.iml" group="java8AndJava9" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_main.iml" group="java8AndJava9" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_test.iml" group="java8AndJava9" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaConcurrency.iml" filepath="$PROJECT_DIR$/.idea/modules/javaConcurrency.iml" group="javaConcurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaConcurrency/javaConcurrency_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javaConcurrency/javaConcurrency_main.iml" group="javaConcurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaConcurrency/javaConcurrency_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javaConcurrency/javaConcurrency_test.iml" group="javaConcurrency" />
     </modules>
   </component>
 </project>
