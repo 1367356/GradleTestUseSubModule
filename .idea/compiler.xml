@@ -14,6 +14,14 @@
       <module name="javaConcurrency_test" target="1.8" />
       <module name="ShrioAndSpringBoot_main" target="1.8" />
       <module name="ShrioAndSpringBoot_test" target="1.8" />
+      <module name="SpringBootFtp_main" target="1.8" />
+      <module name="SpringBootFtp_test" target="1.8" />
+      <module name="SpringBootHtml_main" target="1.8" />
+      <module name="SpringBootHtml_test" target="1.8" />
+      <module name="SpringBootJsp_main" target="1.8" />
+      <module name="SpringBootJsp_test" target="1.8" />
+      <module name="txtReversePrint_main" target="1.8" />
+      <module name="txtReversePrint_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

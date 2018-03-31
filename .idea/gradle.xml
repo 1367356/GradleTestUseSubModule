@@ -9,9 +9,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ShrioAndSpringBoot" />
+            <option value="$PROJECT_DIR$/SpringBootFtp" />
+            <option value="$PROJECT_DIR$/SpringBootHtml" />
+            <option value="$PROJECT_DIR$/SpringBootJsp" />
             <option value="$PROJECT_DIR$/elasticSearchAndIkTest" />
             <option value="$PROJECT_DIR$/java8AndJava9" />
             <option value="$PROJECT_DIR$/javaConcurrency" />
+            <option value="$PROJECT_DIR$/txtReversePrint" />
           </set>
         </option>
       </GradleProjectSettings>

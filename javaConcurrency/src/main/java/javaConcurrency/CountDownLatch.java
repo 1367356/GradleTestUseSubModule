@@ -19,9 +19,5 @@ public class CountDownLatch {
     }
     public static void test1() {
 
-        byte[] b = new byte[10];
-        b[0]=1;
-        b[2]=2;
-
     }
 }

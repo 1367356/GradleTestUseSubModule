@@ -3,4 +3,8 @@ include 'elasticSearchAndIkTest'
 include 'java8AndJava9'
 include 'ShrioAndSpringBoot'
 include 'javaConcurrency'
+include 'txtReversePrint'
+include 'SpringBootJsp'
+include 'SpringBootHtml'
+include 'SpringBootFtp'
 

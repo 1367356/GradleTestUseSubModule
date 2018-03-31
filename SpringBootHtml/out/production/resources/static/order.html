@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>xx信息查询</title>
+</head>
+
+<body>
+<div class="main pusher">
+    <form class="ui form vertical segment form-search">
+        <img src="/yujinxiang.jpg"  alt="上海鲜花港 - 郁金香" />  <!--加载图片-->
+        <div class="fields">
+            <div class="sixCl wide field js_query_seq">
+                <label>订单号</label>
+                <input type="text" maxlength="50" name="orderNo" id="orderNo" placeholder="">
+            </div>
+            <!--https://blog.csdn.net/dreamweaver_zhou/article/details/79203297-->
+            <div class="sixCl wide field js_query_btype">
+                <label>排序字段</label>
+                <select name="sortFiled" id="sortFiled">
+                    <option value="order_no">订单号</option>
+                </select>
+            </div>
+
+            <div>
+                <label></label>
+                <input type="button" value="搜索" id="btSearch" class="ui right floated positive button btn-search"/>
+            </div>
+
+        </div>
+    </form>
+
+    <div class="table-container">
+        <table class="ui nine column table celled table-result" id="table-result">
+            <thead>
+            <tr>
+                <th>hotelSeq</th>
+                <th>酒店名称</th>
+            </tr>
+            </thead>
+
+            <tbody id="tbody-result">
+            </tbody>
+
+        </table>
+    </div>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.0.js"></script>
+<script type="text/javascript" src="./js/cheatorder.js"></script>
+<!--<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>-->
+
+</div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+springboot框架处理html，js等文件

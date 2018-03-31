@@ -1,0 +1,47 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath('org.springframework.boot:spring-boot-gradle-plugin:1.5.9.RELEASE')
+    }
+}
+group "com.li"
+version "1.0-SNAPSHOT"
+apply plugin: "java"                           //java 插件
+apply plugin: "org.springframework.boot"   //spring boot 插件
+apply plugin: "io.spring.dependency-management"
+
+apply plugin: "application"   //应用
+mainClassName = "com.li.SpringBootShrioApplication"
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile("org.springframework.boot:spring-boot-starter-web",
+            "org.springframework.boot:spring-boot-starter-activemq",
+            "org.springframework.boot:spring-boot-starter-test",
+            "org.springframework.boot:spring-boot-starter-cache",
+            "org.springframework.boot:spring-boot-devtools",
+            "org.springframework.boot:spring-boot-starter-freemarker",
+
+//            <!--
+//            包含支持UI模版（Velocity，FreeMarker，JasperReports），
+//            邮件服务，
+//            脚本服务(JRuby)，
+//            缓存Cache（EHCache），
+//            任务计划Scheduling（uartz）。
+//            -->
+
+//                    <!-- tomcat 的支持.-->
+            'org.springframework.boot:spring-boot-starter-tomcat',
+            'org.apache.tomcat.embed:tomcat-embed-jasper',
+            'javax.servlet:javax.servlet-api',
+            'javax.servlet:jstl'
+
+    )
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

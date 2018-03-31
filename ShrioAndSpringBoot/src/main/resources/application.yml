@@ -6,7 +6,7 @@ spring:
     password: 1367356
   mvc:
     view:
-      prefix: /jsp/
+      prefix: /WEB-INF/jsp/
       suffix: .jsp
 #  jpa:
 #    show-sql: true
