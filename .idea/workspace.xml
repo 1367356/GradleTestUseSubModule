@@ -2,148 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e3b5ae-7ba6-4e94-a06c-a1a4a86c90c0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_core_2_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateDataTable.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateDataTable/HibernateAutoCreateDataTable.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/SpringBootShrio.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/SpringBootShrio2.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/SpringBootShrioManage.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/SpringBootShrioPermission.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/SpringBootShrioPermission/SpringBootShrioPermission_main.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/SpringBootShrioPermission/SpringBootShrioPermission_test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/utils/CreateDirctory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/SpringBootShrioApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/service/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/log4j2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/logs/debug.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/logs/info.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/logs/log.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/logs/warn.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/static/admin/home.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/static/visitor/login.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/FileCrawler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/Indexer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/desc.txt" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_alibaba_druid_1_0_18.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_main.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ShrioAndSpringBoot/ShrioAndSpringBoot_test.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/SpringBootHtml/SpringBootHtml_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/SpringBootHtml/SpringBootHtml_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileChanges/last-build.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileContent/fileContent.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/taskHistory/fileSnapshots.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/taskHistory/taskHistory.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/buildOutputCleanup/built.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/buildOutputCleanup/cache.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/buildOutputCleanup/cache.properties.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/workspace-id.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/.gradle/workspace-id.txt.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/build.gradle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/build/libs/HibernateAutoCreateTable-1.0-SNAPSHOT.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/gradlew" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/gradlew.bat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/SpringBootMainApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/model/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/model/base/Archive.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/model/base/Area.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/model/base/Courier.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/model/base/FixedArea.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/model/base/Standard.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/model/base/SubArchive.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/model/base/SubArea.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/model/base/TakeTime.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/classes/com/li/model/base/Vehicle.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/resources/application-dev.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/out/production/resources/application.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/settings.gradle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/SpringBootMainApplication.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/User.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Archive.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Area.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Courier.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/FixedArea.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Standard.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/SubArchive.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/SubArea.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/TakeTime.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/Vehicle.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/page/PageBean.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/Menu.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/Permission.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/Role.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/system/User.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/DeliveryInfo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/InOutStorageInfo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/SignInfo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/transit/TransitInfo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application-dev.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/resources/application.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/src/test/java/test/Test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/图片/捕获.PNG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/HibernateAutoCreateTable/讲解.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/build.gradle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/desc.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/SpringBootShrioApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/controller/LoginController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/controller/TestController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/dao/Mapper/UserMapper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/dao/Module.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/dao/Role.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/dao/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/service/UserService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/service/impl/UserServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/web/AuthRealm.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/web/CredentialsMatcher.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/web/DruidConfiguation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/classes/com/li/web/ShiroConfiguration.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/resources/applicatio_bak.approperty" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/resources/application.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/resources/jsp/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/resources/jsp/login.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/resources/mybatis/mapper/UserMapper.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/resources/mybatis/mybatis-config.xml" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/mybatis/mybatis-config.xml" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/resources/shrio.sql" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/shrio.sql" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/out/production/resources/static/index.html" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/static/user/index.html" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/SpringBootShrioApplication.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/controller/LoginController.java" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/controller/LoginController.java" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/controller/TestController.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/dao/Mapper/UserMapper.java" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/dao/Mapper/UserMapper.java" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/dao/Module.java" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/dao/pojo/Module.java" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/dao/Role.java" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/dao/pojo/Role.java" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/dao/User.java" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/dao/pojo/User.java" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/service/UserService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/service/impl/UserServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/web/AuthRealm.java" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/web/AuthRealm.java" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/web/CredentialsMatcher.java" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/web/CredentialsMatcher.java" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/web/DruidConfiguation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/java/com/li/web/ShiroConfiguration.java" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/web/ShiroConfiguration.java" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/applicatio_bak.approperty" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/jsp/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/jsp/login.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/mybatis/mapper/UserMapper.xml" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/mybatis/mapper/UserMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/mybatis/mybatis-config.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/shrio.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/resources/static/index.html" afterPath="$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/static/admin/admin.html" />
-      <change beforePath="$PROJECT_DIR$/ShrioAndSpringBoot/src/main/webapp/WEB-INF/jsp/login.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SpringBootHtml/out/production/classes/com/li/controller/LoginController.class" afterPath="$PROJECT_DIR$/SpringBootHtml/out/production/classes/com/li/controller/LoginController.class" />
-      <change beforePath="$PROJECT_DIR$/SpringBootHtml/src/main/java/com/li/controller/LoginController.java" afterPath="$PROJECT_DIR$/SpringBootHtml/src/main/java/com/li/controller/LoginController.java" />
-      <change beforePath="$PROJECT_DIR$/elasticSearchAndIkTest/out/production/classes/elasticsearchTest/Es6Test1.class" afterPath="$PROJECT_DIR$/elasticSearchAndIkTest/out/production/classes/elasticsearchTest/Es6Test1.class" />
-      <change beforePath="$PROJECT_DIR$/javaConcurrency/out/production/classes/chapter01/UnsafeSequenceTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter01/UnsafeSequenceTest.java" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter01/UnsafeSequenceTest.java" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -261,58 +128,116 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SpringBootShrioApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/SpringBootShrioApplication.java">
+      <file leaf-file-name="FileCrawler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/FileCrawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="324">
+              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
               <folding>
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FtpUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/utils/FtpUtil.java">
+      <file leaf-file-name="Indexer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/Indexer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="297">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="desc.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/desc.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AllDrectorysUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/utils/AllDrectorysUtil.java">
+      <file leaf-file-name="TestHarness.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class5/TestHarness.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="837">
+              <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+              <folding>
+                <element signature="e#723#1194#0" expanded="true" />
+                <element signature="e#1193#1194#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Harness.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class5/Harness.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FTPListAllFiles.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/utils/FTPListAllFiles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2997">
-              <caret line="120" column="25" lean-forward="false" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CreateDirctory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/utils/CreateDirctory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
-                <element signature="e#15179#15180#0" expanded="true" />
-                <element signature="e#15208#15209#0" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="desc.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class5/desc.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/lang/Thread.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="79" column="45" lean-forward="false" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Formula.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8AndJava9/Java8Test/src/java8/one/Formula.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LambdaExpresion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8AndJava9/Java8Test/src/java8/two/LambdaExpresion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -2570,13 +2495,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HibernateAutoCreateTable/src/main/java/com/li/model/base/WayBill.java" />
-        <option value="$PROJECT_DIR$/SpringBootShrio/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/SpringBootShrioManagement/src/main/java/li/dao/Module.java" />
-        <option value="$PROJECT_DIR$/SpringBootShrio/src/main/java/java/com/li/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/SpringBootShrioManagement/build.gradle" />
-        <option value="$PROJECT_DIR$/SpringBootShrioManagement/src/main/java/li/SpringBootShrioApplication.java" />
-        <option value="$PROJECT_DIR$/SpringBootShrioMan/src/main/java/com/li/controller/controller/TestController.java" />
         <option value="$PROJECT_DIR$/SpringBootShrioMan/src/main/java/com/li/controller/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/SpringBootShrioMan/src/main/java/com/li/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/SpringBootShrioMan/src/main/java/com/li/web/AuthRealm.java" />
@@ -2621,6 +2539,13 @@
         <option value="$PROJECT_DIR$/HibernateAutoCreateDataTable/src/main/java/com/li/model/transit/WayBill.java" />
         <option value="$PROJECT_DIR$/HibernateAutoCreateDataTable/src/main/java/com/li/model/transit/TransitInfo.java" />
         <option value="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/utils/CreateDirctory.java" />
+        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/Main.java" />
+        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/Indexer.java" />
+        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/FileCrawler.java" />
+        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/desc.txt" />
+        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class5/Harness.java" />
+        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class5/TestHarness.java" />
+        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class5/desc.txt" />
       </list>
     </option>
   </component>
@@ -2631,9 +2556,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="823" />
-    <option name="y" value="42" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="286" />
+    <option name="y" value="34" />
     <option name="width" value="1276" />
     <option name="height" value="1106" />
   </component>
@@ -2690,6 +2615,95 @@
               <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
               <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java8AndJava9" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java8AndJava9" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Java8Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java8AndJava9" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Java8Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java8AndJava9" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Java8Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java8AndJava9" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Java8Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java8AndJava9" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Java8Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="two" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javaConcurrency" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter05" type="462c0819:PsiDirectoryNode" />
+              <item name="class5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -2712,9 +2726,12 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.li.model.transit" />
-      <recent name="com.li.model.base" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\javaConcurrency\src\main\java\chapter05" />
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\HibernateAutoCreateDataTable" />
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\HibernateAutoCreateDataTable\src\test\java" />
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\HibernateAutoCreateDataTable\src\main\resources" />
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\HibernateAutoCreateDataTable\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.li.controller" />
@@ -2723,12 +2740,9 @@
       <recent name="com.li.dao.Mapper" />
       <recent name="com.li" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\HibernateAutoCreateDataTable" />
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\HibernateAutoCreateDataTable\src\test\java" />
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\HibernateAutoCreateDataTable\src\main\resources" />
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\HibernateAutoCreateDataTable\src\main\java" />
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\SpringBootShrioPermission\src\main\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.li.model.transit" />
+      <recent name="com.li.model.base" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2743,7 +2757,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FTPListAllFiles">
+  <component name="RunManager" selected="Application.TestHarness">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -2770,14 +2784,14 @@
       <module name="SpringBootFtp_main" />
       <envs />
     </configuration>
-    <configuration name="SpringBootHtmlApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.li.*" />
+          <option name="PATTERN" value="chapter05.class3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.SpringBootHtmlApplication" />
+      <option name="MAIN_CLASS_NAME" value="chapter05.class3.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -2786,7 +2800,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SpringBootShrioMan_main" />
+      <module name="javaConcurrency_main" />
       <envs />
     </configuration>
     <configuration name="SpringBootMainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -2827,14 +2841,14 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="SpringBootShrioManaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestHarness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.li.*" />
+          <option name="PATTERN" value="chapter05.class5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.SpringBootShrioManaApplication" />
+      <option name="MAIN_CLASS_NAME" value="chapter05.class5.TestHarness" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -2843,7 +2857,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SpringBootShrioMana_main" />
+      <module name="javaConcurrency_main" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2934,18 +2948,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.SpringBootShrioApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SpringBootHtmlApplication (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SpringBootShrioManaApplication" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SpringBootMainApplication" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FTPListAllFiles" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SpringBootMainApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FTPListAllFiles" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestHarness" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FTPListAllFiles" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SpringBootShrioApplication" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SpringBootMainApplication" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SpringBootShrioManaApplication" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SpringBootHtmlApplication (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestHarness" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FTPListAllFiles" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SpringBootShrioApplication" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SpringBootMainApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -3007,35 +3021,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297362" sideWeight="0.49570817" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24820144" sideWeight="0.46995708" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17865707" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04796163" sideWeight="0.44796136" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.382494" sideWeight="0.45225322" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04796163" sideWeight="0.5520386" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.382494" sideWeight="0.5477468" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22901678" sideWeight="0.49356222" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22182254" sideWeight="0.49570817" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13680257" sideWeight="0.8016997" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22049356" sideWeight="0.8016997" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2266187" sideWeight="0.78701717" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27145922" sideWeight="0.49373883" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19259657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40407673" sideWeight="0.7285408" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36211032" sideWeight="0.7253219" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24624464" sideWeight="0.19830029" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20503597" sideWeight="0.49570817" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3138412" sideWeight="0.49348533" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2266187" sideWeight="0.78701717" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24820144" sideWeight="0.46995708" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3138412" sideWeight="0.50651467" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54196644" sideWeight="0.4892704" order="1" side_tool="false" content_ui="tabs" />
@@ -3046,7 +3061,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/Main.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/Main.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -3055,20 +3084,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioManagement/src/main/resources/applicatio_bak.approperty" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioMana/src/main/java/com/li/web/ShiroConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioManagement/src/main/java/com/li/SpringBootShrioApplication.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioMana/src/main/java/com/li/SpringBootShrioManaApplication.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/li/web/ShiroConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/li/dao/Mapper/UserMapper.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/li/service/UserService.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/li/dao/pojo/User.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/li/SpringBootShrioApplication.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/li/web/AuthRealm.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/li/web/CredentialsMatcher.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/li/service/impl/UserServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/li/controller/LoginController.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/li/dao/pojo/Role.java" />
     <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/dao/Mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -3239,8 +3254,8 @@
         <state relative-caret-position="189">
           <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="39" />
           <folding>
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="false" />
+            <element signature="e#508#509#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3271,12 +3286,247 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/utils/CreateDirctory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="378">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
           <folding>
-            <element signature="e#15179#15180#0" expanded="true" />
-            <element signature="e#15208#15209#0" expanded="true" />
+            <element signature="e#15179#15180#0" expanded="false" />
+            <element signature="e#15208#15209#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.13/4bba65cfdaa38e16e40ab5134651ac751e384c5f/aspectjweaver-1.8.13-sources.jar!/org/aspectj/util/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="490" column="58" lean-forward="false" selection-start-line="490" selection-start-column="58" selection-end-line="490" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/io/FileFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/concurrent/LinkedBlockingDeque.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517832771462" expanded="false" signature="144:614" ph="..." />
+            <marker date="1517832771462" expanded="true" signature="1092:1103" ph=" { " />
+            <marker date="1517832771462" expanded="true" signature="1120:1126" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="1169:1452" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="1515:2089" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="2155:2603" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="2668:3116" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="3146:3690" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="3719:4262" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="4314:4728" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="4763:4877" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="4911:5024" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="5064:5506" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="5545:5986" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="6049:6502" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="6564:7016" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="7110:7860" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="7953:8702" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="8731:8906" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="8934:9108" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="9135:9357" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="9383:9604" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="9659:10003" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="10057:10400" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="10479:11018" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="11096:11627" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="11653:11828" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="11853:12027" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="12054:12301" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="12327:12572" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="12628:13254" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="13309:13934" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="13967:14023" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="14057:14068" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="14096:14102" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="14160:14195" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="14284:14340" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="14363:14374" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="14400:14406" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="14427:14438" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="14462:14468" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="14518:14558" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="14632:14682" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="14706:14717" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="14740:14746" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="14767:14778" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="14802:14808" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="14845:15072" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="15124:15135" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="15173:15179" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="15242:15945" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="15975:15986" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="16006:16012" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="16032:16043" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="16069:16075" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="16115:16126" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="16166:16172" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="16196:16407" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="16450:17033" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="17065:17494" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="17533:18180" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="18211:19039" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="19065:19597" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="19632:19643" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="19680:19686" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="19731:19742" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="19789:19795" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="19836:19847" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="19899:19905" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="19980:20358" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="20455:20750" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="20814:23253" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="21103:21413" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="21498:21928" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="21953:22267" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="22301:22316" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="22341:22351" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="22377:22660" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="22691:23247" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="23330:23635" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="23363:23378" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="23386:23396" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="23445:23460" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="23497:23507" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="23587:23602" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="23619:23629" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="23702:23998" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="23725:23740" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="23748:23758" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="23807:23822" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="23860:23870" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="23950:23965" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="23982:23992" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="24067:29183" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="24322:24406" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="24442:24457" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="24473:24483" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="24526:26514" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="26579:27820" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="27882:29102" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="29140:29155" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="29167:29177" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="29216:29387" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="29339:29354" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="29371:29381" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8AndJava9/Java8Test/src/java8/one/接口的默认方法">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8AndJava9/Java8Test/src/java8/one/Formula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8AndJava9/Java8Test/src/java8/two/LambdaExpresion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/Indexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/FileCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class3/desc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="79" column="45" lean-forward="false" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class5/TestHarness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <element signature="e#723#1194#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class5/Harness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter05/class5/desc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
