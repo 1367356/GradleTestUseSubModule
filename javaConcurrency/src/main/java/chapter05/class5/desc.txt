@@ -1,0 +1,3 @@
+countDownLatch是一个闭锁
+创建一个CountDownLatch对象，初始化一个计数器值，直到countDown()将计数器值减到0,才会执行await()。
+可以用于某个服务在其依赖的所有其它服务都已经启动之后才启动。例如依赖的一项服务启动，就countDown()一次。
