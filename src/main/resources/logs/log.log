@@ -1,0 +1,20 @@
+18:01:36.771 INFO  com.li.controller.LoginController 33 loginUser - hlhdidi
+18:01:36.780 WARN  com.li.controller.LoginController 34 loginUser - org.apache.shiro.authc.UsernamePasswordToken - hlhdidi, rememberMe=false
+18:01:36.783 WARN  com.li.web.AuthRealm 31 doGetAuthenticationInfo - hlhdidi
+18:01:36.783 WARN  com.li.service.impl.UserServiceImpl 18 findUserByName - hlhdidi
+18:01:36.842 WARN  com.li.web.AuthRealm 33 doGetAuthenticationInfo - hlhdidi
+18:01:36.846 WARN  com.li.web.CredentialsMatcher 18 doCredentialsMatch - 123
+18:01:36.847 WARN  com.li.web.CredentialsMatcher 21 doCredentialsMatch - 123
+18:01:36.854 WARN  com.li.controller.LoginController 41 loginUser - success
+18:01:42.632 INFO  com.li.controller.LoginController 33 loginUser - null
+18:01:42.633 WARN  com.li.controller.LoginController 34 loginUser - org.apache.shiro.authc.UsernamePasswordToken - null, rememberMe=false
+18:01:42.635 WARN  com.li.web.AuthRealm 31 doGetAuthenticationInfo - null
+18:01:42.636 WARN  com.li.service.impl.UserServiceImpl 18 findUserByName - null
+18:01:44.910 INFO  com.li.controller.LoginController 33 loginUser - hlhdidi
+18:01:44.912 WARN  com.li.controller.LoginController 34 loginUser - org.apache.shiro.authc.UsernamePasswordToken - hlhdidi, rememberMe=false
+18:01:44.913 WARN  com.li.web.AuthRealm 31 doGetAuthenticationInfo - hlhdidi
+18:01:44.914 WARN  com.li.service.impl.UserServiceImpl 18 findUserByName - hlhdidi
+18:01:44.918 WARN  com.li.web.AuthRealm 33 doGetAuthenticationInfo - hlhdidi
+18:01:44.919 WARN  com.li.web.CredentialsMatcher 18 doCredentialsMatch - 123
+18:01:44.920 WARN  com.li.web.CredentialsMatcher 21 doCredentialsMatch - 123
+18:01:44.921 WARN  com.li.controller.LoginController 41 loginUser - success

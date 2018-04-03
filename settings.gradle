@@ -1,10 +1,12 @@
 rootProject.name = 'GradleTestUseSubModule'
 include 'elasticSearchAndIkTest'
 include 'java8AndJava9'
-include 'ShrioAndSpringBoot'
+//include 'SpringBootShrio'
 include 'javaConcurrency'
 include 'txtReversePrint'
 include 'SpringBootJsp'
 include 'SpringBootHtml'
 include 'SpringBootFtp'
+include 'SpringBootShrioPermission'
+include 'HibernateAutoCreateDataTable'
 

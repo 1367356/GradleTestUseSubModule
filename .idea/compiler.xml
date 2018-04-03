@@ -6,8 +6,8 @@
       <module name="elasticSearchAndIkTest_test" target="1.8" />
       <module name="GradleTestUseSubModule_main" target="1.8" />
       <module name="GradleTestUseSubModule_test" target="1.8" />
-      <module name="HibernateAutoCreateTable_main" target="1.8" />
-      <module name="HibernateAutoCreateTable_test" target="1.8" />
+      <module name="HibernateAutoCreateDataTable_main" target="1.8" />
+      <module name="HibernateAutoCreateDataTable_test" target="1.8" />
       <module name="java8AndJava9_main" target="1.8" />
       <module name="java8AndJava9_test" target="1.8" />
       <module name="javaConcurrency_main" target="1.8" />
@@ -20,6 +20,8 @@
       <module name="SpringBootHtml_test" target="1.8" />
       <module name="SpringBootJsp_main" target="1.8" />
       <module name="SpringBootJsp_test" target="1.8" />
+      <module name="SpringBootShrioPermission_main" target="1.8" />
+      <module name="SpringBootShrioPermission_test" target="1.8" />
       <module name="txtReversePrint_main" target="1.8" />
       <module name="txtReversePrint_test" target="1.8" />
     </bytecodeTargetLevel>

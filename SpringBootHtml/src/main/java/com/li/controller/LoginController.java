@@ -13,7 +13,7 @@ public class LoginController {
 
     @RequestMapping("/login")
     public String login() {
-        return "login";
+        return "/order.html";
     }
     @RequestMapping("/test2")
     public String test2() {
