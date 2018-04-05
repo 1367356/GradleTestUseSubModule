@@ -11,6 +11,7 @@ import org.apache.shiro.authz.SimpleAuthorizationInfo;
 import org.apache.shiro.realm.AuthorizingRealm;
 import org.apache.shiro.subject.PrincipalCollection;
 import org.springframework.beans.factory.annotation.Autowired;
+import redis.clients.jedis.Jedis;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,6 +22,8 @@ public class AuthRealm extends AuthorizingRealm {
     Logger logger = LogManager.getLogger(AuthRealm.class);
     @Autowired
     private UserServiceImpl userService;
+    JedisPoolUtil jpu=new JedisPoolUtil();
+    private Jedis jedis=jpu.getJedis();
 
     //认证.登录
     @Override
@@ -28,9 +31,26 @@ public class AuthRealm extends AuthorizingRealm {
         UsernamePasswordToken utoken=(UsernamePasswordToken) token;//获取用户输入的token
         String username = utoken.getUsername();
 
-        logger.warn(username);
-        User user = userService.findUserByName(username);  //使用mybatis从数据库中得到用户
-        logger.warn(user.getUsername());
+        User user;
+        byte[] byt=jedis.get(username.getBytes());
+        Object obj=null;
+        if (byt!=null && byt.length != 0) {
+            obj=new Serialize().unserizlize(byt);
+        }
+        if(obj!=null && obj instanceof User){
+//            return (User)obj;
+            logger.debug("走redis");
+            user=(User)obj;
+        }else {
+            user = userService.findUserByName(username);  //使用mybatis从数据库中得到用户
+            if(user!=null){
+                logger.debug("走mybatis");
+                jedis.set(username.getBytes(), new Serialize().serialize(user));
+            }
+        }
+//        logger.warn(username);
+//        //User user = userService.findUserByName(username);  //使用mybatis从数据库中得到用户，也可以通过redis存放用户名和密码。
+//        logger.warn(user.getUsername());
 
         return new SimpleAuthenticationInfo(user, user.getPassword(),this.getClass().getName());//放入shiro.调用CredentialsMatcher检验密码
     }

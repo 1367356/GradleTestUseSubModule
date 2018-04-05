@@ -1,8 +1,9 @@
 package com.li.dao.pojo;
 
+import java.io.Serializable;
 import java.util.Set;
 
-public class Module {
+public class Module implements Serializable{
     private Integer mid;
     private String mname;
     private Set<Role> roles;

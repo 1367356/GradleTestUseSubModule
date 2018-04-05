@@ -24,6 +24,7 @@ public class LoginController {
     public String loginhtml() {
         return "/visitor/login.html";
     }
+
     @RequestMapping(value = "/loginUser")
     public String loginUser(String username,String password,HttpSession session) {
         UsernamePasswordToken usernamePasswordToken=new UsernamePasswordToken(username,password);
@@ -37,16 +38,15 @@ public class LoginController {
             //每个Realm都能在必要时对提交的AuthenticationTokens作出反应
             //所以这一步在调用login(token)方法时,它会走到MyRealm.doGetAuthenticationInfo()方法中,具体验证方式详见此方法
 
-            subject.login(usernamePasswordToken);   //完成登录
+            subject.login(usernamePasswordToken);   //完成登录，重点将会调用shrio去验证
             logger.warn("success");
             User user=(User) subject.getPrincipal();
 
             session.setAttribute("user", user);
-            return "/user/index.html";
+            return "/user/index.html";  //首页
         } catch(Exception e) {
             return "/visitor/login.html";//返回登录页面
         }
-
     }
     @RequestMapping("/logOut")
     public String logOut(HttpSession session) {

@@ -25,11 +25,11 @@ public class ShiroConfiguration {
         bean.setSecurityManager(manager);
         //配置访问权限
         LinkedHashMap<String, String> filterChainDefinitionMap=new LinkedHashMap<>();
-        filterChainDefinitionMap.put("/loginUser", "anon");
-        filterChainDefinitionMap.put("/logOut*","logout");
+        filterChainDefinitionMap.put("/loginUser", "anon");    //无需验证的资源，静态资源放行，可以减少验证次数。
+        filterChainDefinitionMap.put("/logOut*","logout");   //shrio自带登出，当访问这个url时，退出登录。
         filterChainDefinitionMap.put("/visitor/*", "anon");  //游客资源
 
-        filterChainDefinitionMap.put("/**", "authc");//表示需要认证才可以访问
+        filterChainDefinitionMap.put("/**", "authc");//表示需要认证才可以访问，被拦截之后shrio SecurityManager就验证，通过则放行，不过则登录。
 //        filterChainDefinitionMap.put("/*.*", "authc");
         //配置登录的url和登录成功的url
         bean.setLoginUrl("/login");  //校验不通过，就返回/login

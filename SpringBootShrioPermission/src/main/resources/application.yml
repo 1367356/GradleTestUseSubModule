@@ -31,6 +31,8 @@ spring:
 #  jaxrs:
 #    component-scan: true
 #
+server:
+  port: 8081
 mybatis:
   mapper-locations: classpath:mybatis/mapper/*.xml   #Mapper所在的配置文件路径，进行扫描
   config-location: classpath:mybatis/mybatis-config.xml  # mybaits-config文件

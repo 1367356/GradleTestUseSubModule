@@ -11,7 +11,7 @@ public class CredentialsMatcher extends SimpleCredentialsMatcher {
 
     Logger logger = LogManager.getLogger(CredentialsMatcher.class);
     @Override
-    public boolean doCredentialsMatch(AuthenticationToken token, AuthenticationInfo info) {
+    public boolean doCredentialsMatch(AuthenticationToken token, AuthenticationInfo info) {  //将 AuthenticationToken和Authenticationinfo传入。
         UsernamePasswordToken utoken=(UsernamePasswordToken) token;
         //获得用户输入的密码:(可以采用加盐(salt)的方式去检验)
         String inPassword = new String(utoken.getPassword());

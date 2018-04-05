@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringBootForum" />
+      </profile>
+    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="elasticSearchAndIkTest_main" target="1.8" />
       <module name="elasticSearchAndIkTest_test" target="1.8" />
@@ -14,6 +22,7 @@
       <module name="javaConcurrency_test" target="1.8" />
       <module name="ShrioAndSpringBoot_main" target="1.8" />
       <module name="ShrioAndSpringBoot_test" target="1.8" />
+      <module name="SpringBootForum" target="1.8" />
       <module name="SpringBootFtp_main" target="1.8" />
       <module name="SpringBootFtp_test" target="1.8" />
       <module name="SpringBootHtml_main" target="1.8" />
