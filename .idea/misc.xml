@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../spring-boot-forum-master/spring-boot-forum-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../springBoot-master/springBoot-master/springboot-springSecurity4/pom.xml" />
+        <option value="$PROJECT_DIR$/../springBoot-master/springBoot-master/springboot-springSecurity2/pom.xml" />
       </list>
     </option>
   </component>

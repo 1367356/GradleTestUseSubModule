@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-security" />
+        <module name="springboot-springSecurity4" />
         <module name="SpringBootForum" />
       </profile>
     </annotationProcessing>
@@ -22,13 +24,19 @@
       <module name="javaConcurrency_test" target="1.8" />
       <module name="ShrioAndSpringBoot_main" target="1.8" />
       <module name="ShrioAndSpringBoot_test" target="1.8" />
+      <module name="springboot-security" target="1.8" />
+      <module name="springboot-springSecurity4" target="1.8" />
       <module name="SpringBootForum" target="1.8" />
       <module name="SpringBootFtp_main" target="1.8" />
       <module name="SpringBootFtp_test" target="1.8" />
+      <module name="SpringBootHeadImageApplication_main" target="1.8" />
+      <module name="SpringBootHeadImageApplication_test" target="1.8" />
       <module name="SpringBootHtml_main" target="1.8" />
       <module name="SpringBootHtml_test" target="1.8" />
       <module name="SpringBootJsp_main" target="1.8" />
       <module name="SpringBootJsp_test" target="1.8" />
+      <module name="SpringBootSecurity_main" target="1.8" />
+      <module name="SpringBootSecurity_test" target="1.8" />
       <module name="SpringBootShrioPermission_main" target="1.8" />
       <module name="SpringBootShrioPermission_test" target="1.8" />
       <module name="txtReversePrint_main" target="1.8" />

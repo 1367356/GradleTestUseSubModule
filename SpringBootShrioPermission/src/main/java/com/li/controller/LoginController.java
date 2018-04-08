@@ -39,6 +39,7 @@ public class LoginController {
             //所以这一步在调用login(token)方法时,它会走到MyRealm.doGetAuthenticationInfo()方法中,具体验证方式详见此方法
 
             subject.login(usernamePasswordToken);   //完成登录，重点将会调用shrio去验证
+//            subject.isPermitted("");  授权
             logger.warn("success");
             User user=(User) subject.getPrincipal();
 

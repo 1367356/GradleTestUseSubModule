@@ -9,4 +9,6 @@ include 'SpringBootHtml'
 include 'SpringBootFtp'
 include 'SpringBootShrioPermission'
 include 'HibernateAutoCreateDataTable'
+include 'SpringBootSecurity'
+include 'SpringBootHeadImageApplication'
 

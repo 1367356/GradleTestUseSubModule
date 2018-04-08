@@ -10,8 +10,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/HibernateAutoCreateDataTable" />
             <option value="$PROJECT_DIR$/SpringBootFtp" />
+            <option value="$PROJECT_DIR$/SpringBootHeadImageApplication" />
             <option value="$PROJECT_DIR$/SpringBootHtml" />
             <option value="$PROJECT_DIR$/SpringBootJsp" />
+            <option value="$PROJECT_DIR$/SpringBootSecurity" />
             <option value="$PROJECT_DIR$/SpringBootShrioPermission" />
             <option value="$PROJECT_DIR$/elasticSearchAndIkTest" />
             <option value="$PROJECT_DIR$/java8AndJava9" />

@@ -1,8 +1,0 @@
-20:28:58.793 INFO  com.li.controller.LoginController 34 loginUser - null
-20:28:58.801 WARN  com.li.controller.LoginController 35 loginUser - org.apache.shiro.authc.UsernamePasswordToken - null, rememberMe=false
-20:29:08.693 INFO  com.li.controller.LoginController 34 loginUser - hlhdidi
-20:29:08.694 WARN  com.li.controller.LoginController 35 loginUser - org.apache.shiro.authc.UsernamePasswordToken - hlhdidi, rememberMe=false
-20:29:08.708 DEBUG com.li.web.AuthRealm 42 doGetAuthenticationInfo - 走redis
-20:29:08.711 WARN  com.li.web.CredentialsMatcher 18 doCredentialsMatch - 123
-20:29:08.712 WARN  com.li.web.CredentialsMatcher 21 doCredentialsMatch - 123
-20:29:08.713 WARN  com.li.controller.LoginController 42 loginUser - success
