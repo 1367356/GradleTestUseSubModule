@@ -28,6 +28,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootShrioPermission.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootShrioPermission.iml" group="SpringBootShrioPermission" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootShrioPermission/SpringBootShrioPermission_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootShrioPermission/SpringBootShrioPermission_main.iml" group="SpringBootShrioPermission" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootShrioPermission/SpringBootShrioPermission_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootShrioPermission/SpringBootShrioPermission_test.iml" group="SpringBootShrioPermission" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThinkingInJava.iml" filepath="$PROJECT_DIR$/.idea/modules/ThinkingInJava.iml" group="ThinkingInJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThinkingInJava/ThinkingInJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ThinkingInJava/ThinkingInJava_main.iml" group="ThinkingInJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThinkingInJava/ThinkingInJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ThinkingInJava/ThinkingInJava_test.iml" group="ThinkingInJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codingForOffer.iml" filepath="$PROJECT_DIR$/.idea/modules/codingForOffer.iml" group="codingForOffer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codingForOffer/codingForOffer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/codingForOffer/codingForOffer_main.iml" group="codingForOffer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codingForOffer/codingForOffer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/codingForOffer/codingForOffer_test.iml" group="codingForOffer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest.iml" group="elasticSearchAndIkTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_main.iml" group="elasticSearchAndIkTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_test.iml" group="elasticSearchAndIkTest" />
@@ -37,6 +43,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaConcurrency.iml" filepath="$PROJECT_DIR$/.idea/modules/javaConcurrency.iml" group="javaConcurrency" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaConcurrency/javaConcurrency_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javaConcurrency/javaConcurrency_main.iml" group="javaConcurrency" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaConcurrency/javaConcurrency_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javaConcurrency/javaConcurrency_test.iml" group="javaConcurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/niuKe.iml" filepath="$PROJECT_DIR$/.idea/modules/niuKe.iml" group="niuKe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/niuKe/niuKe_main.iml" filepath="$PROJECT_DIR$/.idea/modules/niuKe/niuKe_main.iml" group="niuKe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/niuKe/niuKe_test.iml" filepath="$PROJECT_DIR$/.idea/modules/niuKe/niuKe_test.iml" group="niuKe" />
       <module fileurl="file://$PROJECT_DIR$/../springBoot-master/springBoot-master/springboot-springSecurity2/springboot-security.iml" filepath="$PROJECT_DIR$/../springBoot-master/springBoot-master/springboot-springSecurity2/springboot-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springBoot-master/springBoot-master/springboot-springSecurity4/springboot-springSecurity4.iml" filepath="$PROJECT_DIR$/../springBoot-master/springBoot-master/springboot-springSecurity4/springboot-springSecurity4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/txtReversePrint.iml" filepath="$PROJECT_DIR$/.idea/modules/txtReversePrint.iml" group="txtReversePrint" />

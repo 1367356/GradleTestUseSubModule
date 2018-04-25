@@ -1,4 +1,4 @@
-package chaptor07;
+package chapter07;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

@@ -1,0 +1,17 @@
+group 'com.li'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+//sourceCompatibility:指定编译编译.java文件的jdk版本
+//targetCompatibility：确保class文件与targetCompatibility指定版本，或者更新的java虚拟机兼容，
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

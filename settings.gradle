@@ -11,4 +11,7 @@ include 'SpringBootShrioPermission'
 include 'HibernateAutoCreateDataTable'
 include 'SpringBootSecurity'
 include 'SpringBootHeadImageApplication'
+include 'ThinkingInJava'
+include 'niuKe'
+include 'codingForOffer'
 
