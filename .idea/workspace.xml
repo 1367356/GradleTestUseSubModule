@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e3b5ae-7ba6-4e94-a06c-a1a4a86c90c0" name="Default" comment="spring boot forum论坛测试完成">
-      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question13.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question14.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question15.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question16.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question17.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question18.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question19.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question20.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question21.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question22.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question23.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question24.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question25.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question26.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/ZuiDaZiShuZU.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/niuKe/niuKe_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/niuKe/niuKe_main.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/codingForOffer/out/production/classes/com/li/Question12.class" afterPath="$PROJECT_DIR$/codingForOffer/out/production/classes/com/li/Question12.class" />
-      <change beforePath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question12.java" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question12.java" />
+      <change beforePath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question19.java" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question19.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/NianHuiQiangWanOu.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/NianHuiQiangWanOu.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -481,104 +483,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Question10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question10.java">
+      <file leaf-file-name="FinTechExam.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FinTechExam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="219">
+              <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question11.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question11.java">
+      <file leaf-file-name="YongHuXiHao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/YongHuXiHao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="301">
+              <caret line="55" column="47" lean-forward="false" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question12.java">
+      <file leaf-file-name="ZuiDaZiShuZU.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/ZuiDaZiShuZU.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="53" column="57" lean-forward="true" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+            <state relative-caret-position="1809">
+              <caret line="67" column="19" lean-forward="false" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
               <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#2025#2026#0" expanded="true" />
+                <element signature="e#2056#2057#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question13.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question13.java">
+      <file leaf-file-name="Question25.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="216">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question14.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question14.java">
+      <file leaf-file-name="Question26.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question26.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="496">
+              <caret line="47" column="11" lean-forward="false" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question15.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question15.java">
+      <file leaf-file-name="My01BeiBao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/My01BeiBao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="405">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question16.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question16.java">
+      <file leaf-file-name="Question23.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question23.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="219">
+              <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question17.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question17.java">
+      <file leaf-file-name="NianHuiQiangWanOu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/NianHuiQiangWanOu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="219">
+              <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question18.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question18.java">
+      <file leaf-file-name="FaHongBaoTestCase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FaHongBaoTestCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="34" column="106" lean-forward="false" selection-start-line="34" selection-start-column="106" selection-end-line="34" selection-end-column="106" />
+            <state relative-caret-position="135">
+              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Question19.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question19.java">
+      <file leaf-file-name="Question24.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="882">
+              <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -3562,14 +3564,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter14/Program14Point2.java" />
-        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter14/Program14Point6.java" />
-        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter14/Program14Point7.java" />
-        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter14/Program14Point10.java" />
-        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter14/Program14Point11.java" />
-        <option value="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter14/Program14Point14.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/build.gradle" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter20/class01/UseCase.java" />
         <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter20/class01/PasswordUtils.java" />
         <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter20/class01/Test.java" />
         <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter20/class02/UseCaseTracker.java" />
@@ -3590,7 +3584,6 @@
         <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class14/PerferencesDemo.java" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/Main.java" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/BuXiangChuCaiHR.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/NianHuiQiangWanOu.java" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FaHongBaoTestCase.java" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/text" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/YongHuXiHao.java" />
@@ -3613,6 +3606,15 @@
         <option value="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question17.java" />
         <option value="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question18.java" />
         <option value="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question19.java" />
+        <option value="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question20.java" />
+        <option value="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question21.java" />
+        <option value="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question22.java" />
+        <option value="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question23.java" />
+        <option value="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question24.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/NianHuiQiangWanOu.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/ZuiDaZiShuZU.java" />
+        <option value="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question25.java" />
+        <option value="$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question26.java" />
       </list>
     </option>
   </component>
@@ -3723,6 +3725,51 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="li" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="li" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="li" type="462c0819:PsiDirectoryNode" />
+              <item name="zhaoshangyinhang" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -3781,51 +3828,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Question15.test">
+  <component name="RunManager" selected="JUnit.ZuiDaZiShuZU.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="BeiBao01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.li.zhaoshangyinhang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.zhaoshangyinhang.BeiBao01" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="niuKe_main" />
-      <envs />
-    </configuration>
-    <configuration name="My01BeiBao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.li.zhaoshangyinhang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.zhaoshangyinhang.My01BeiBao" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="niuKe_main" />
-      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -3916,6 +3925,56 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="Question22.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.li.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="codingForOffer_main" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.li" />
+      <option name="MAIN_CLASS_NAME" value="com.li.Question22" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ZuiDaZiShuZU.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.li.jinRiTouTiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="niuKe_main" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.li.jinRiTouTiao" />
+      <option name="MAIN_CLASS_NAME" value="com.li.jinRiTouTiao.ZuiDaZiShuZU" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -3989,19 +4048,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BeiBao01" />
-      <item index="1" class="java.lang.String" itemvalue="Application.My01BeiBao" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Question12.test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Question14.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Question15.test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Question12.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Question14.test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Question15.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Question22.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ZuiDaZiShuZU.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Question15.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Question14.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Question12.test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.My01BeiBao" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BeiBao01" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ZuiDaZiShuZU.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Question22.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Question15.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Question14.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Question12.test" />
       </list>
     </recent_temporary>
   </component>
@@ -4030,35 +4089,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Question14_test - 2018.04.26 at 09h 38m 46s.xml">
-      <configuration name="Question14.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZU_test - 2018.04.26 at 17h 29m 09s.xml">
+      <configuration name="ZuiDaZiShuZU.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question14_test - 2018.04.26 at 09h 40m 26s.xml">
-      <configuration name="Question14.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZU_test - 2018.04.26 at 18h 05m 44s.xml">
+      <configuration name="ZuiDaZiShuZU.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question14_test - 2018.04.26 at 09h 40m 45s.xml">
-      <configuration name="Question14.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZU_test - 2018.04.26 at 18h 05m 56s.xml">
+      <configuration name="ZuiDaZiShuZU.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question14_test - 2018.04.26 at 09h 40m 48s.xml">
-      <configuration name="Question14.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZU_test - 2018.04.26 at 18h 51m 34s.xml">
+      <configuration name="ZuiDaZiShuZU.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question14_test - 2018.04.26 at 09h 45m 33s.xml">
-      <configuration name="Question14.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZU_test - 2018.04.26 at 18h 52m 42s.xml">
+      <configuration name="ZuiDaZiShuZU.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question14_test - 2018.04.26 at 09h 45m 44s.xml">
-      <configuration name="Question14.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZU_test - 2018.04.26 at 18h 53m 24s.xml">
+      <configuration name="ZuiDaZiShuZU.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question15_test - 2018.04.26 at 10h 01m 14s.xml">
-      <configuration name="Question15.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZU_test - 2018.04.26 at 18h 54m 13s.xml">
+      <configuration name="ZuiDaZiShuZU.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question15_test - 2018.04.26 at 10h 01m 36s.xml">
-      <configuration name="Question15.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZU_test - 2018.04.26 at 19h 08m 31s.xml">
+      <configuration name="ZuiDaZiShuZU.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question15_test - 2018.04.26 at 10h 02m 17s.xml">
-      <configuration name="Question15.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZU_test - 2018.04.26 at 19h 08m 35s.xml">
+      <configuration name="ZuiDaZiShuZU.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question15_test - 2018.04.26 at 10h 04m 18s.xml">
-      <configuration name="Question15.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZU_test - 2018.04.26 at 19h 09m 23s.xml">
+      <configuration name="ZuiDaZiShuZU.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -4079,14 +4138,14 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22422062" sideWeight="0.46781117" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2589928" sideWeight="0.55633044" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3057554" sideWeight="0.17006437" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.264988" sideWeight="0.17972103" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.050965667" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3057554" sideWeight="0.8299356" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.264988" sideWeight="0.82027894" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22901678" sideWeight="0.49356222" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22182254" sideWeight="0.49570817" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23712446" sideWeight="0.8016997" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19045064" sideWeight="0.8016997" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2266187" sideWeight="0.78701717" order="9" side_tool="false" content_ui="tabs" />
@@ -4094,7 +4153,7 @@
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17006437" sideWeight="0.49373883" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19259657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26258993" sideWeight="0.7693133" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43405277" sideWeight="0.75965667" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24624464" sideWeight="0.19830029" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -4170,8 +4229,14 @@
           <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question22.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="38" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -4184,69 +4249,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.11/1b6214469321068fe4d58157768e1e039479fa1/logback-core-1.1.11-sources.jar!/ch/qos/logback/core/rolling/helper/FileFilterUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/com/sun/org/apache/bcel/internal/util/ClassPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/mchange/mchange-commons-java/0.2.11/mchange-commons-java-0.2.11.jar!/com/mchange/io/impl/StartsWithFilenameFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/mchange/mchange-commons-java/0.2.11/mchange-commons-java-0.2.11.jar!/com/mchange/io/impl/SuffixFilenameFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.4.4/groovy-2.4.4.jar!/groovyjarjarantlr/build/ANTLR.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/plugin.jar!/sun/plugin/AppletViewer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar!/javassist/JarDirClassPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.4.12/groovy-2.4.12.jar!/groovyjarjarantlr/build/ANTLR.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.0/mybatis-3.4.0.jar!/org/apache/ibatis/javassist/JarDirClassPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt/ecj/3.12.3/ade950992eb3caf6ab4f1a88706c755f0bf213d9/ecj-3.12.3.jar!/org/eclipse/jdt/internal/compiler/batch/Main.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -4363,6 +4365,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -4370,24 +4375,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="72" lean-forward="false" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/NianHuiQiangWanOu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="74" column="32" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FaHongBaoTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -4410,14 +4397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/YongHuXiHao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1647">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="67" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/BeiBao01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -4430,22 +4409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FinTechExam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/My01BeiBao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -4463,7 +4426,7 @@
         <state relative-caret-position="216">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -4473,10 +4436,10 @@
         <state relative-caret-position="270">
           <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="false" />
+            <element signature="e#225#226#0" expanded="false" />
+            <element signature="e#443#444#0" expanded="false" />
+            <element signature="e#481#482#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -4518,8 +4481,8 @@
         <state relative-caret-position="189">
           <caret line="53" column="57" lean-forward="true" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
           <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="false" />
+            <element signature="e#161#162#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -4574,8 +4537,133 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question19.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="81">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#637#638#0" expanded="false" />
+            <element signature="e#704#705#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1517798409102" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517798409102" expanded="true" signature="277:284" ph="{}" />
+            <marker date="1517798409102" expanded="true" signature="327:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="60" column="48" lean-forward="false" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#370#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FaHongBaoTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FinTechExam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/YongHuXiHao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="55" column="47" lean-forward="false" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/My01BeiBao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/NianHuiQiangWanOu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/ZuiDaZiShuZU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1809">
+          <caret line="67" column="19" lean-forward="false" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <folding>
+            <element signature="e#2025#2026#0" expanded="true" />
+            <element signature="e#2056#2057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingForOffer/src/main/java/com/li/Question26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="47" column="11" lean-forward="false" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
           <folding />
         </state>
       </provider>

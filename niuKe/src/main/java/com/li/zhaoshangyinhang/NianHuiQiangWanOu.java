@@ -1,6 +1,6 @@
 package com.li.zhaoshangyinhang;
 
-import org.junit.Test;
+
 
 import java.util.Scanner;
 
