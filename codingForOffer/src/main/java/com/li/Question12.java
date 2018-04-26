@@ -50,7 +50,7 @@ public class Question12 {
 //            return;
 //        }
         for (int i = 0; i < 10; i++) {
-            number[index + 1]=  i;
+                number[index + 1]=  i;
             print1ToNDigitsRecursively(number,n,index+1);
         }
     }
