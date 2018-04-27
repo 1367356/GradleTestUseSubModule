@@ -45,6 +45,27 @@ public class Question26 {
     }
 
     /**
-     * 第三步：
+     * 第三步：拆分链表
      */
+    public ComplexListNode reconnectNodes(ComplexListNode head) {
+        ComplexListNode node=head;
+        ComplexListNode cloneHead=null;
+        ComplexListNode cloneNode=null;
+        if (node != null) {
+            cloneHead=cloneNode=node.next;
+            cloneNode=cloneNode.next;
+            node.next=cloneNode.next;
+            node=node.next;
+        }
+        return cloneHead;
+    }
+
+    /**
+     * 整合
+     */
+    public ComplexListNode clone(ComplexListNode head) {
+        cloneNodes(head);
+        connectSiblingNodes(head);
+        return reconnectNodes(head);
+    }
 }
