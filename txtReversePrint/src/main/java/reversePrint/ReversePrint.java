@@ -33,14 +33,7 @@ public class ReversePrint {
                 System.out.println("finished");
             }
         }
-//        while((data=b.readLine())!=null || line%2==0 || line%3==0)
-//        {
-//            line++;
-//            if(line%2!=0){
-//                continue;
-//            }
-//            temp.add(data);
-//        }
+
         for(int i=temp.size()-1;i>=0;i--)
         {
             String str=(String)temp.get(i);
