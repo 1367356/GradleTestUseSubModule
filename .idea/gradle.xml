@@ -8,7 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AlgorithmIntroduction" />
             <option value="$PROJECT_DIR$/HibernateAutoCreateDataTable" />
+            <option value="$PROJECT_DIR$/JavaChengXuYuanMianShiBaoDian" />
             <option value="$PROJECT_DIR$/SpringBootFtp" />
             <option value="$PROJECT_DIR$/SpringBootHeadImageApplication" />
             <option value="$PROJECT_DIR$/SpringBootHtml" />

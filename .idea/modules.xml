@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction.iml" filepath="$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction.iml" group="AlgorithmIntroduction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction/AlgorithmIntroduction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction/AlgorithmIntroduction_main.iml" group="AlgorithmIntroduction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction/AlgorithmIntroduction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction/AlgorithmIntroduction_test.iml" group="AlgorithmIntroduction" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTestUseSubModule.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTestUseSubModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../github涓嬭浇/GradleTestUseSubModule/.idea/modules/SpringBootShrio/GradleTestUseSubModule-SpringBootShrio.iml" filepath="$PROJECT_DIR$/../../github涓嬭浇/GradleTestUseSubModule/.idea/modules/SpringBootShrio/GradleTestUseSubModule-SpringBootShrio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTestUseSubModule_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTestUseSubModule_main.iml" group="GradleTestUseSubModule" />
@@ -11,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/../../github涓嬭浇/GradleTestUseSubModule/.idea/modules/HibernateAutoCreateDataTable/HibernateAutoCreateDataTable_test.iml" filepath="$PROJECT_DIR$/../../github涓嬭浇/GradleTestUseSubModule/.idea/modules/HibernateAutoCreateDataTable/HibernateAutoCreateDataTable_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_main.iml" group="HibernateAutoCreateTable" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateTable_test.iml" group="HibernateAutoCreateTable" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaChengXuYuanMianShiBaoDian.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaChengXuYuanMianShiBaoDian.iml" group="JavaChengXuYuanMianShiBaoDian" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaChengXuYuanMianShiBaoDian/JavaChengXuYuanMianShiBaoDian_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaChengXuYuanMianShiBaoDian/JavaChengXuYuanMianShiBaoDian_main.iml" group="JavaChengXuYuanMianShiBaoDian" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaChengXuYuanMianShiBaoDian/JavaChengXuYuanMianShiBaoDian_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaChengXuYuanMianShiBaoDian/JavaChengXuYuanMianShiBaoDian_test.iml" group="JavaChengXuYuanMianShiBaoDian" />
       <module fileurl="file://$PROJECT_DIR$/../spring-boot-forum-master/spring-boot-forum-master/SpringBootForum.iml" filepath="$PROJECT_DIR$/../spring-boot-forum-master/spring-boot-forum-master/SpringBootForum.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootFtp.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootFtp.iml" group="SpringBootFtp" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootFtp/SpringBootFtp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootFtp/SpringBootFtp_main.iml" group="SpringBootFtp" />

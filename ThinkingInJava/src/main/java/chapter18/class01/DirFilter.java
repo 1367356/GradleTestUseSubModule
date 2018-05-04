@@ -15,4 +15,5 @@ public class DirFilter implements FilenameFilter {
     public boolean accept(File file, String s) {
         return pattern.matcher(s).matches();
     }
+    File file;
 }

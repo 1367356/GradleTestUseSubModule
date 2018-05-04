@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":JavaChengXuYuanMianShiBaoDian" external.linked.project.path="$MODULE_DIR$/../../JavaChengXuYuanMianShiBaoDian" external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="com.li" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../JavaChengXuYuanMianShiBaoDian">
+      <excludeFolder url="file://$MODULE_DIR$/../../JavaChengXuYuanMianShiBaoDian/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../JavaChengXuYuanMianShiBaoDian/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../JavaChengXuYuanMianShiBaoDian/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

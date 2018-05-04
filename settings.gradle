@@ -14,4 +14,6 @@ include 'SpringBootHeadImageApplication'
 include 'ThinkingInJava'
 include 'niuKe'
 include 'codingForOffer'
+include 'AlgorithmIntroduction'
+include 'JavaChengXuYuanMianShiBaoDian'
 

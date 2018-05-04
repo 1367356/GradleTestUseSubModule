@@ -1,9 +1,9 @@
-package chapter18.class11;
+package chapter18.class12;
 
 import java.io.*;
 import java.util.Random;
 
-public class Worm implements Serializable {
+public class Worm extends Alien {
 
     private static Random random = new Random();
     private Data[] d = {new Data(random.nextInt()),new Data(random.nextInt()),new Data(random.nextInt())};
