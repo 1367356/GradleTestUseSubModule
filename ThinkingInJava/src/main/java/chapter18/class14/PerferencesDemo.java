@@ -15,7 +15,7 @@ public class PerferencesDemo {
         pres.putBoolean("boolean",true);
 
         //获取
-        int companions = pres.getInt("companions", 0);
+        int companions = pres.getInt("companions", 0);  //0是该项为空时的默认值。
 
         for (String key : pres.keys()) {
 

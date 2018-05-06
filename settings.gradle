@@ -16,4 +16,6 @@ include 'niuKe'
 include 'codingForOffer'
 include 'AlgorithmIntroduction'
 include 'JavaChengXuYuanMianShiBaoDian'
+include 'SpringBootImageUploadAndDisplay'
+include 'SpringBootSpringSecurityPermission'
 

@@ -41,12 +41,16 @@
       <module name="SpringBootHeadImageApplication_test" target="1.8" />
       <module name="SpringBootHtml_main" target="1.8" />
       <module name="SpringBootHtml_test" target="1.8" />
+      <module name="SpringBootImageUploadAndDisplay_main" target="1.8" />
+      <module name="SpringBootImageUploadAndDisplay_test" target="1.8" />
       <module name="SpringBootJsp_main" target="1.8" />
       <module name="SpringBootJsp_test" target="1.8" />
       <module name="SpringBootSecurity_main" target="1.8" />
       <module name="SpringBootSecurity_test" target="1.8" />
       <module name="SpringBootShrioPermission_main" target="1.8" />
       <module name="SpringBootShrioPermission_test" target="1.8" />
+      <module name="SpringBootSpringSecurityPermission_main" target="1.8" />
+      <module name="SpringBootSpringSecurityPermission_test" target="1.8" />
       <module name="ThinkingInJava_main" target="1.8" />
       <module name="ThinkingInJava_test" target="1.8" />
       <module name="txtReversePrint_main" target="1.8" />
