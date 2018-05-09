@@ -1,7 +1,18 @@
 import java.util.HashSet;
+import java.util.Scanner;
 import java.util.Set;
 
 public class Test {
+
+    @org.junit.Test
+    public void test1() {
+        Scanner scanner = new Scanner(System.in);
+        int i = scanner.nextInt();
+        int i1 = scanner.nextInt();
+        System.out.println(i);
+        System.out.println(i1);
+    }
+
 
     @org.junit.Test
     public void test() {

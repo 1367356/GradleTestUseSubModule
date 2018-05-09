@@ -121,7 +121,6 @@ public class YongHuXiHao {
             return max;
         }
 
-
 //            int[] userLike = (int[]) list.get(1);  //用户喜好
 //            Map map = new HashMap();
 //            for(int i=0;i<userLike.length;i++) {
@@ -164,6 +163,57 @@ public class YongHuXiHao {
 //
 //        }
 
+    /**
+     * 通过30%
+     */
+    public void test() {
+        Scanner scanner = new Scanner(System.in);
+        String ns=scanner.nextLine().toString();
+        int n=Integer.parseInt(ns);
+
+        String s=scanner.nextLine().toString();
+        String[] arr=s.split(" ");
+
+        Map<String, List<Integer>> likeMap = new HashMap<>();
+        for (int i = 0; i < arr.length; i++) {
+            if (likeMap.containsKey(arr[i])) {
+                List<Integer> integerList = likeMap.get(arr[i]);
+                integerList.add(i+1);
+                likeMap.put(arr[i], integerList);
+            }else{
+                List initList = new ArrayList();
+                initList.add(i+1);
+                likeMap.put(arr[i], initList);
+            }
+        }
 
 
+        String userNums=scanner.nextLine().toString();
+        int userNum=Integer.parseInt(userNums);
+
+        for(int i=0;i<userNum;i++){
+            String userData=scanner.nextLine().toString();
+            String[] userArr=userData.split(" ");
+            int start=Integer.parseInt(userArr[0]);
+            int end=Integer.parseInt(userArr[1]);
+
+            int count=0;
+
+
+            List<Integer> integers = likeMap.get(userArr[2]);
+            for (int j = 0; j < integers.size(); j++) {
+                Integer integer = integers.get(j);
+                if (integer <= end && integer >= start) {
+                    count++;
+                }
+            }
+
+//            for(int j=start;j<end;j++){
+//                if(arr[j]==userArr[2]){
+//                    count++;
+//                }
+//            }
+            System.out.println(count);
+        }
+    }
 }

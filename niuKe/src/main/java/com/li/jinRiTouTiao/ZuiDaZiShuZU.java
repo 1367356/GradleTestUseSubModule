@@ -1,6 +1,5 @@
 package com.li.jinRiTouTiao;
 
-import org.junit.Test;
 
 /**
  * \最大子数组
@@ -77,7 +76,6 @@ public class ZuiDaZiShuZU {
         return  a>b?a:b;
     }
 
-    @Test
     public void test() {
         int[] arr = {3, 5, 3, 2, 4, 3,-34, 1,3,4,3,2,3,5};
         int max=maxSubArray1(arr);
