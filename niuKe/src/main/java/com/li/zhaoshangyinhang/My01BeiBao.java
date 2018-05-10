@@ -11,6 +11,8 @@ public class My01BeiBao {
             sums[i][0] = values[i];
         }
 
+        //sums[i][j]表示当可以放入前i件物品且背包容量为j时的最大价值。
+
         for (int i = 1; i < values.length; i++) {
             for (int j = 1; j < v+1; j++) {
                 if(j<weights[i]){
