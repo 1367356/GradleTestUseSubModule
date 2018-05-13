@@ -2,11 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e3b5ae-7ba6-4e94-a06c-a1a4a86c90c0" name="Default" comment="spring boot forum论坛测试完成">
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/DaFuWongYouXi.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/LingQian.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/niuKe/niuKe_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/niuKe/niuKe_main.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class01/Generator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class01/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/CollectionData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/CollectionDataGeneration.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/CollectionDataTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/FillingLists.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/MapData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/MapDataTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/Pair.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class03/CollectionMethods.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class04/Unsupported.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class05/Lists.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class06/SortedSetDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class06/TypeForSets.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class07/Deque.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class07/DequeTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class07/ToDoList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class08/AssociativeArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/CountedString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/Groundhog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/Groundhog2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/MapEntry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/Prediction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/SimpleHashMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/SpringDetector.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/StringHashCode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class10/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class10/TestParam.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/FailFast.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/ListSortSearch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/ReadOnly.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/Synchronization.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/Utilities.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/QuNaEr/BiaoDaShiHeFaPanDuan.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/ZuiDaJuXingMianJi.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/ZuiDaZiLianXuZiFuChuan.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/My01BeiBao.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/My01BeiBao.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/meiTuan/LingQian.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/meiTuan/LingQian.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/LingQian.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/LingQian.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -488,105 +523,122 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="YongHuXiHao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/YongHuXiHao.java">
+      <file leaf-file-name="HashMap.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/HashMap.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-638">
-              <caret line="166" column="12" lean-forward="false" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="My01BeiBao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/My01BeiBao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DaFuWongYouXi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/DaFuWongYouXi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="27">
+              <caret line="177" column="5" lean-forward="true" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="5" />
               <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#3315#3316#0" expanded="true" />
+                <element signature="e#3354#3355#0" expanded="true" />
+                <element signature="e#4443#4444#0" expanded="true" />
+                <element signature="e#4480#4481#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LingQian.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/LingQian.java">
+      <file leaf-file-name="StringHashCode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/StringHashCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="34" column="42" lean-forward="true" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+            <state relative-caret-position="243">
+              <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NianHuiQiangWanOu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/NianHuiQiangWanOu.java">
+      <file leaf-file-name="CountedString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/CountedString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="999">
-              <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="54" />
+            <state relative-caret-position="279">
+              <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#234#242#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class10/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <folding>
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestParam.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class10/TestParam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FaHongBaoTestCase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FaHongBaoTestCase.java">
+      <file leaf-file-name="ListSortSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/ListSortSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="397">
+              <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#271#279#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadOnly.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/ReadOnly.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="17" column="79" lean-forward="false" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuXiangChuCaiHR.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/BuXiangChuCaiHR.java">
+      <file leaf-file-name="Synchronization.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/Synchronization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-162">
-              <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="116">
+              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FinTechExam.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FinTechExam.java">
+      <file leaf-file-name="FailFast.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/FailFast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
-              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="278">
+              <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingleSelect3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/aliBaBa/SingleSelect3.java">
+      <file leaf-file-name="Utilities.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/Utilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZuiDaZiShuZU.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/ZuiDaZiShuZU.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="297">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -599,9 +651,9 @@
         <option value="HTML File" />
         <option value="XHTML File" />
         <option value="SQL Script" />
-        <option value="Interface" />
         <option value="AnnotationType" />
         <option value="HTML4 File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -4267,46 +4319,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class10/FileLocking.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class10/LockingMappedFiles.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/Data.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class11/GZIPCompress.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class11/ZipCompress.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/Alien.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/FreezeAlien.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/ThawAlien.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/Blip1.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/Blip2.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/Blips.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/Logon.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/SerialCtl.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/MyWorld.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class11/Worm.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class12/Worm.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/build.gradle" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class13/Person.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class13/People.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter18/class14/PerferencesDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/test.html" />
-        <option value="$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li.java" />
-        <option value="$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/ImageUploadAndDisplay.java" />
-        <option value="$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/controller/ImageUploadAndDisplay.java" />
-        <option value="$PROJECT_DIR$/SpringBootImageUploadAndDisplay/build.gradle" />
-        <option value="$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/controller/ImageUploadAndDisplayController.java" />
-        <option value="$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/service/StorageServiceImpl.java" />
-        <option value="$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/SpringBootSpringSecurityApplilcation.java" />
-        <option value="$PROJECT_DIR$/SpringBootSpringSecurityPermission/build.gradle" />
-        <option value="$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/service/UserService.java" />
-        <option value="$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/security/MyUserDetailsService.java" />
-        <option value="$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/security/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/model/User.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/Main.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/ZuiDaZiShuZU.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/Main.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/NiuNiuZhaoGongZuo.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/test/java/Test.java" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/Bei3ZhengChu.java" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/AnZhiLuDeng.java" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/MiLuDeNiuNiu.java" />
@@ -4318,6 +4330,46 @@
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/DaFuWongYouXi.java" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/My01BeiBao.java" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/LingQian.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/ZuiDaJuXingMianJi.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/ZuiDaZiShuZhu.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/ZuiDaZiLianXuZiFuChuan.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/Main.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/QuNaEr/BiaoDaShiHeFaPanDuan.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/Class01.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class01/Test.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/FillingLists.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class01/Generator.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/CollectionData.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/CollectionDataTest.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/CollectionDataGeneration.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/Pair.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/MapData.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/MapDataTest.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class03/CollectionMethods.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class04/Unsupported.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/Lists.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class05/Lists.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class06/TypeForSets.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class06/SortedSetDemo.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class07/ToDoList.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class07/Deque.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class07/DequeTest.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class08/AssociativeArray.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/Groundhog.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/Prediction.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/SpringDetector.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/Groundhog2.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/MapEntry.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/SimpleHashMap.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/StringHashCode.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/CountedString.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class10/Test.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class10/TestParam.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/Utilities.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/ListSortSearch.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/ReadOnly.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/Synchronization.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/FailFast.java" />
       </list>
     </option>
   </component>
@@ -4334,9 +4386,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="752" />
-    <option name="y" value="38" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="109" />
+    <option name="y" value="90" />
     <option name="width" value="1276" />
     <option name="height" value="1030" />
   </component>
@@ -4384,7 +4436,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -4392,226 +4443,13 @@
               <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
               <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="meiTuan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootShrioPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootSpringSecurityPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootSpringSecurityPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootSpringSecurityPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootSpringSecurityPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootSpringSecurityPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootSpringSecurityPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootSpringSecurityPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootSpringSecurityPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SpringBootSpringSecurityPermission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -4629,8 +4467,12 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\software\github\github下载\spring-boot-forum-master\spring-boot-forum-master\src\main\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter17.class10" />
+      <recent name="chapter18.class01" />
+      <recent name="chapter05.class5" />
+      <recent name="com.li.model.transit" />
+      <recent name="com.li.model.base" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\software\github\github下载\GradleTestUseSubModule\SpringBootSpringSecurityPermission\src\main\java\com\li" />
@@ -4646,11 +4488,8 @@
       <recent name="com.li.controller" />
       <recent name="chapter18.class09" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="chapter18.class01" />
-      <recent name="chapter05.class5" />
-      <recent name="com.li.model.transit" />
-      <recent name="com.li.model.base" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\software\github\github下载\spring-boot-forum-master\spring-boot-forum-master\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -4665,7 +4504,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LingQian">
+  <component name="RunManager" selected="Application.ListSortSearch">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -4673,14 +4512,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="DaFuWongYouXi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CountedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.li.meiTuan.*" />
+          <option name="PATTERN" value="chapter17.class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.meiTuan.DaFuWongYouXi" />
+      <option name="MAIN_CLASS_NAME" value="chapter17.class09.CountedString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -4689,17 +4528,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="niuKe_main" />
+      <module name="ThinkingInJava_main" />
       <envs />
     </configuration>
-    <configuration name="LingQian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ListSortSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.li.meiTuan.*" />
+          <option name="PATTERN" value="chapter17.class11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.meiTuan.LingQian" />
+      <option name="MAIN_CLASS_NAME" value="chapter17.class11.ListSortSearch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -4708,17 +4547,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="niuKe_main" />
+      <module name="ThinkingInJava_main" />
       <envs />
     </configuration>
-    <configuration name="SingleSelect3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.li.aliBaBa.*" />
+          <option name="PATTERN" value="chapter17.class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.aliBaBa.SingleSelect3" />
+      <option name="MAIN_CLASS_NAME" value="chapter17.class09.SimpleHashMap" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -4727,31 +4566,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="niuKe_main" />
+      <module name="ThinkingInJava_main" />
       <envs />
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Test1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="niuKe_test" />
-      <envs />
-    </configuration>
-    <configuration name="YongHuXiHao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SpringDetector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.li.jinRiTouTiao.*" />
+          <option name="PATTERN" value="chapter17.class09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.jinRiTouTiao.YongHuXiHao" />
+      <option name="MAIN_CLASS_NAME" value="chapter17.class09.SpringDetector" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -4760,7 +4585,26 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="niuKe_main" />
+      <module name="ThinkingInJava_main" />
+      <envs />
+    </configuration>
+    <configuration name="StringHashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chapter17.class09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chapter17.class09.StringHashCode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThinkingInJava_main" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -4850,19 +4694,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.YongHuXiHao" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SingleSelect3" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DaFuWongYouXi" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LingQian" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SpringDetector" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SimpleHashMap" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StringHashCode" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CountedString" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ListSortSearch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LingQian" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DaFuWongYouXi" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SingleSelect3" />
-        <item index="3" class="java.lang.String" itemvalue="Application.YongHuXiHao" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ListSortSearch" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CountedString" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StringHashCode" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SimpleHashMap" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SpringDetector" />
       </list>
     </recent_temporary>
   </component>
@@ -4891,35 +4735,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Question49_test - 2018.05.01 at 09h 05m 39s.xml">
-      <configuration name="Question49.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiLianXuZiFuChuan_test - 2018.05.10 at 21h 04m 36s.xml">
+      <configuration name="ZuiDaZiLianXuZiFuChuan.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question49_test - 2018.05.01 at 09h 06m 09s.xml">
-      <configuration name="Question49.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiLianXuZiFuChuan_test - 2018.05.10 at 21h 07m 02s.xml">
+      <configuration name="ZuiDaZiLianXuZiFuChuan.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question49_test - 2018.05.01 at 09h 07m 58s.xml">
-      <configuration name="Question49.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiLianXuZiFuChuan_test - 2018.05.10 at 21h 07m 06s.xml">
+      <configuration name="ZuiDaZiLianXuZiFuChuan.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question49_test - 2018.05.01 at 09h 08m 13s.xml">
-      <configuration name="Question49.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiLianXuZiFuChuan_test - 2018.05.10 at 21h 14m 27s.xml">
+      <configuration name="ZuiDaZiLianXuZiFuChuan.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question49_test - 2018.05.01 at 09h 08m 26s.xml">
-      <configuration name="Question49.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiLianXuZiFuChuan_test - 2018.05.10 at 21h 14m 48s.xml">
+      <configuration name="ZuiDaZiLianXuZiFuChuan.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Question49_test - 2018.05.01 at 09h 13m 02s.xml">
-      <configuration name="Question49.test" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZhu_test - 2018.05.10 at 20h 39m 24s.xml">
+      <configuration name="ZuiDaZiShuZhu.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test1 - 2018.05.07 at 09h 12m 40s.xml">
-      <configuration name="Test.test1" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZhu_test - 2018.05.10 at 20h 42m 00s.xml">
+      <configuration name="ZuiDaZiShuZhu.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test1 - 2018.05.07 at 09h 13m 33s.xml">
-      <configuration name="Test.test1" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZhu_test - 2018.05.10 at 20h 42m 08s.xml">
+      <configuration name="ZuiDaZiShuZhu.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test1 - 2018.05.07 at 09h 15m 33s.xml">
-      <configuration name="Test.test1" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZhu_test - 2018.05.10 at 20h 46m 49s.xml">
+      <configuration name="ZuiDaZiShuZhu.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_test1 - 2018.05.07 at 09h 17m 08s.xml">
-      <configuration name="Test.test1" configurationId="JUnit" />
+    <history-entry file="ZuiDaZiShuZhu_test - 2018.05.10 at 20h 52m 36s.xml">
+      <configuration name="ZuiDaZiShuZhu.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -4932,7 +4776,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297362" sideWeight="0.49570817" order="6" side_tool="false" content_ui="tabs" />
@@ -4940,21 +4784,21 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23114355" sideWeight="0.45826378" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2589928" sideWeight="0.55633044" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3141487" sideWeight="0.27950644" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3968825" sideWeight="0.291309" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22800429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3141487" sideWeight="0.72049356" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3968825" sideWeight="0.708691" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22901678" sideWeight="0.49356222" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22182254" sideWeight="0.49570817" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21030043" sideWeight="0.79119086" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21298283" sideWeight="0.79119086" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07027897" sideWeight="0.49373883" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19259657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37290168" sideWeight="0.68186694" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30095923" sideWeight="0.67113733" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19045064" sideWeight="0.20880914" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -5069,12 +4913,24 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/LingQian.java</url>
-          <line>32</line>
+          <line>35</line>
           <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/ZuiDaZiLianXuZiFuChuan.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/Main.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="62" />
+      <option name="time" value="72" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -5087,390 +4943,532 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SpringBootFtp/build.gradle">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootImageUploadAndDisplay/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="26" column="60" lean-forward="false" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-boot-forum-master/spring-boot-forum-master/src/main/java/com/qingwenwei/web/dto/UserSettingsDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/controller/ImageUploadAndDisplayController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/service/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/service/StorageService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/nio/file/FileSystem.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/nio/file/Paths.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/nio/file/FileSystems.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="105" column="42" lean-forward="false" selection-start-line="105" selection-start-column="42" selection-end-line="105" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/service/StorageServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="59" column="33" lean-forward="false" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootImageUploadAndDisplay/src/main/java/com/li/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="72" column="92" lean-forward="false" selection-start-line="72" selection-start-column="92" selection-end-line="72" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/static/user/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/SpringBootShrioApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/Model.java" />
-    <entry file="file://$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/SpringBootSpringSecurityApplilcation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootSpringSecurityPermission/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="28" column="48" lean-forward="false" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/web/AuthRealm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="63" column="18" lean-forward="false" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/java/com/li/dao/pojo/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootShrioPermission/src/main/resources/shrio.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="60" column="35" lean-forward="false" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/security/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="62" column="48" lean-forward="false" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="24" column="71" lean-forward="false" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBootSpringSecurityPermission/src/main/java/com/li/security/MyUserDetailsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FinTechExam2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/NiuNiuZhaoGongZuo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="44" column="22" lean-forward="false" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/Bei3ZhengChu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/AnZhiLuDeng.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="47" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/MiLuDeNiuNiu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1971">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/ShuDui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/test/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/test/java/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/ShouChuan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/aliBaBa/SingleSelect3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/ZuiDaZiShuZU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/YongHuXiHao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-638">
-          <caret line="166" column="12" lean-forward="false" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/NianHuiQiangWanOu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="999">
-          <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FaHongBaoTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/BuXiangChuCaiHR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/FinTechExam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state relative-caret-position="513">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/DaFuWongYouXi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="621">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="false" />
+            <element signature="e#165#166#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoshangyinhang/My01BeiBao.java">
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/regex/Pattern.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="1161">
+          <caret line="69" column="33" lean-forward="false" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/LingQian.java">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/QuNaEr/BiaoDaShiHeFaPanDuan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="34" column="42" lean-forward="true" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        <state relative-caret-position="243">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/Class01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class01/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/FillingLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class01/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/CollectionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/CollectionDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/CollectionDataGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/MapData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="75" column="58" lean-forward="false" selection-start-line="75" selection-start-column="58" selection-end-line="75" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1506#1507#0" expanded="true" />
+            <element signature="e#1577#1578#0" expanded="true" />
+            <element signature="e#1736#1737#0" expanded="true" />
+            <element signature="e#1786#1787#0" expanded="true" />
+            <element signature="e#1845#1846#0" expanded="true" />
+            <element signature="e#1892#1893#0" expanded="true" />
+            <element signature="e#1928#1929#0" expanded="true" />
+            <element signature="e#2001#2002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/Collections.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="4378" column="17" lean-forward="false" selection-start-line="4378" selection-start-column="17" selection-end-line="4378" selection-end-column="17" />
+          <folding>
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1599#1600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class02/MapDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="183" column="9" lean-forward="false" selection-start-line="176" selection-start-column="15" selection-end-line="183" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class03/CollectionMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/Collection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/lang/Iterable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class04/Unsupported.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="30" column="62" lean-forward="false" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/LinkedList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class05/Lists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class06/TypeForSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/Set.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/7.0.1/fee43cbaf69f0a6610997ba77ac63e2c4f416ff4/lucene-core-7.0.1-sources.jar!/org/apache/lucene/index/ReadersAndUpdates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="792" column="23" lean-forward="false" selection-start-line="792" selection-start-column="23" selection-end-line="792" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.4/652e324406c304df9e75ea1ac460d0abb791795f/mybatis-3.4.4-sources.jar!/org/apache/ibatis/mapping/ResultMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="244" column="9" lean-forward="false" selection-start-line="244" selection-start-column="9" selection-end-line="244" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#9428#9429#0" expanded="false" />
+            <element signature="e#9458#9459#0" expanded="false" />
+            <element signature="e#9504#9505#0" expanded="false" />
+            <element signature="e#9537#9538#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.0.0/e63664f93b4e16eee66f2e2662e1b32378d5d914/elasticsearch-6.0.0-sources.jar!/org/elasticsearch/search/lookup/SourceLookup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="173" column="11" lean-forward="true" selection-start-line="173" selection-start-column="11" selection-end-line="173" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#5407#5408#0" expanded="false" />
+            <element signature="e#5459#5460#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class06/SortedSetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class07/ToDoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class07/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class07/DequeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/Prediction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/Groundhog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class08/AssociativeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="47" column="45" lean-forward="true" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#443#473#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/Map.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/SpringDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/Groundhog2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/MapEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/AbstractMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="226" column="34" lean-forward="true" selection-start-line="226" selection-start-column="34" selection-end-line="226" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/SimpleHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/HashMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="177" column="5" lean-forward="true" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="5" />
+          <folding>
+            <element signature="e#3315#3316#0" expanded="true" />
+            <element signature="e#3354#3355#0" expanded="true" />
+            <element signature="e#4443#4444#0" expanded="true" />
+            <element signature="e#4480#4481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/StringHashCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class09/CountedString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#234#242#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class10/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class10/TestParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/ListSortSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#271#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/ReadOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="17" column="79" lean-forward="false" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/Synchronization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/chapter17/class11/FailFast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
