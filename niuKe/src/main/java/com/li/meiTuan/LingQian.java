@@ -1,13 +1,12 @@
 package com.li.meiTuan;
 
-import org.junit.Test;
 
 /**
  * 拼凑整钱
  * 给你六种面额 1、5、10、20、50、100 元的纸币，假设每种币值的数量都足够多，编写程序求组成N元（N为0~10000的非负整数）的不同组合的个数。
  */
 public class LingQian {
-    public static void main(String[] args){
+    public static void main1(String[] args){
 
         //N是容量
         int N=40;
@@ -57,10 +56,8 @@ public class LingQian {
         System.out.println(sums[values.length-1][N]);
     }
 
-    //测试通过
-    @Test
-    public void count() {
-        int[] values = {1,5,10,20,50,100};  //面额
+    public static void main(String[] args){
+           int[] values = {1,5,10,20,50,100};  //面额
         int N=8845;
         long[] dp = new long[N+1];
         dp[0]=1;
@@ -69,6 +66,21 @@ public class LingQian {
                     if (i>=values[j]){
                         dp[i]=dp[i]+dp[i-values[j]]; //第values[0]件物品，i容量
                     }
+            }
+        }
+        System.out.println(dp[N]);
+    }
+    //测试通过
+    public  void count() {
+        int[] values = {1, 5, 10, 20, 50, 100};  //面额
+        int N = 8845;
+        long[] dp = new long[N + 1];
+        dp[0] = 1;
+        for (int j = 0; j < values.length; j++) {
+            for (int i = values[j]; i <= N; i++) {
+                if (i >= values[j]) {
+                    dp[i] = dp[i] + dp[i - values[j]]; //第values[0]件物品，i容量
+                }
             }
         }
         System.out.println(dp[N]);

@@ -5,6 +5,9 @@ import javax.swing.plaf.synth.SynthTabbedPaneUI;
 import java.io.ObjectStreamClass;
 
 public class CountDownLatch {
+    public CountDownLatch(int i) {
+    }
+
     public static void main(String[] args){
         long timeMillis1 = System.currentTimeMillis();
 

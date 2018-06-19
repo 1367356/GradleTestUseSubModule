@@ -18,6 +18,8 @@
       <module name="codingForOffer_test" target="1.8" />
       <module name="elasticSearchAndIkTest_main" target="1.8" />
       <module name="elasticSearchAndIkTest_test" target="1.8" />
+      <module name="GradleTestUseSubModule-HibernateAutoCreateDataTable_main" target="1.8" />
+      <module name="GradleTestUseSubModule-HibernateAutoCreateDataTable_test" target="1.8" />
       <module name="GradleTestUseSubModule_main" target="1.8" />
       <module name="GradleTestUseSubModule_test" target="1.8" />
       <module name="HibernateAutoCreateDataTable_main" target="1.8" />
@@ -28,12 +30,22 @@
       <module name="JavaChengXuYuanMianShiBaoDian_test" target="1.8" />
       <module name="javaConcurrency_main" target="1.8" />
       <module name="javaConcurrency_test" target="1.8" />
+      <module name="JavaVituralMachine_main" target="1.8" />
+      <module name="JavaVituralMachine_test" target="1.8" />
+      <module name="LeetCode_main" target="1.8" />
+      <module name="LeetCode_test" target="1.8" />
       <module name="niuKe_main" target="1.8" />
       <module name="niuKe_test" target="1.8" />
       <module name="ShrioAndSpringBoot_main" target="1.8" />
       <module name="ShrioAndSpringBoot_test" target="1.8" />
       <module name="springboot-security" target="1.8" />
       <module name="springboot-springSecurity4" target="1.8" />
+      <module name="SpringBootCKEditor_main" target="1.8" />
+      <module name="SpringBootCKEditor_test" target="1.8" />
+      <module name="SpringBootConfigurationExceptionHandler_main" target="1.8" />
+      <module name="SpringBootConfigurationExceptionHandler_test" target="1.8" />
+      <module name="SpringBootExcelReadAndWrite_main" target="1.8" />
+      <module name="SpringBootExcelReadAndWrite_test" target="1.8" />
       <module name="SpringBootForum" target="1.8" />
       <module name="SpringBootFtp_main" target="1.8" />
       <module name="SpringBootFtp_test" target="1.8" />
@@ -45,12 +57,16 @@
       <module name="SpringBootImageUploadAndDisplay_test" target="1.8" />
       <module name="SpringBootJsp_main" target="1.8" />
       <module name="SpringBootJsp_test" target="1.8" />
+      <module name="SpringBootScheuledThread_main" target="1.8" />
+      <module name="SpringBootScheuledThread_test" target="1.8" />
       <module name="SpringBootSecurity_main" target="1.8" />
       <module name="SpringBootSecurity_test" target="1.8" />
       <module name="SpringBootShrioPermission_main" target="1.8" />
       <module name="SpringBootShrioPermission_test" target="1.8" />
       <module name="SpringBootSpringSecurityPermission_main" target="1.8" />
       <module name="SpringBootSpringSecurityPermission_test" target="1.8" />
+      <module name="SpringBootUseModelAndThymeleaf_main" target="1.8" />
+      <module name="SpringBootUseModelAndThymeleaf_test" target="1.8" />
       <module name="ThinkingInJava_main" target="1.8" />
       <module name="ThinkingInJava_test" target="1.8" />
       <module name="txtReversePrint_main" target="1.8" />

@@ -61,7 +61,7 @@ public class FTPListAllFiles {
      */
     public void disConnection() throws IOException{
         if(this.ftp.isConnected()){
-            this.ftp.disconnect();
+            this.ftp.disconnect();          //未连接
         }
     }
 
@@ -75,7 +75,7 @@ public class FTPListAllFiles {
             String directory = pathName;
             //更换目录到当前目录
             this.ftp.changeWorkingDirectory(directory);
-            FTPFile[] files = this.ftp.listFiles();
+            FTPFile[] files = this.ftp.listFiles();  //文件名
             for(FTPFile file:files){
                 if(file.isFile()){
 //                    String n=new String(file.getName().getBytes("gbk"),"utf-8");

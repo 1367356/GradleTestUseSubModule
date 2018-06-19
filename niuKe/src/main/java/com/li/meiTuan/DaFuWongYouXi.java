@@ -1,6 +1,5 @@
 package com.li.meiTuan;
 
-import org.junit.Test;
 
 /**
  * 大富翁游戏，美团

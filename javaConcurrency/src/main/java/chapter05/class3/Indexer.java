@@ -16,7 +16,7 @@ public class Indexer implements Runnable {
             while (true) {
                 File take = queue.take();
                 String name = take.getName();
-                System.out.println("消费者"+name);
+                System.out.println("线程"+Thread.currentThread()+"消费者："+name);
             }
         } catch (InterruptedException e) {
             Thread.currentThread().interrupt();

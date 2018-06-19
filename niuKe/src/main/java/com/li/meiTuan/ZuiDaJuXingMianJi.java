@@ -1,7 +1,5 @@
 package com.li.meiTuan;
 
-import org.junit.Test;
-
 import java.util.Scanner;
 
 /**
@@ -22,7 +20,6 @@ public class ZuiDaJuXingMianJi {
     /**
      * 解法1：利用动态规划
      */
-    @Test
     public void test() {
 
         int[] arr={3,2,4,5,7,2};
@@ -42,7 +39,6 @@ public class ZuiDaJuXingMianJi {
     /**
      * 解法2
      */
-    @Test
     public void test2() {
         int[] arr={3,2,4,5,7,2};
         int maxValue=Integer.MIN_VALUE;

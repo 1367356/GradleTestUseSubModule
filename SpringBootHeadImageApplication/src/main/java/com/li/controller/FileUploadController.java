@@ -1,6 +1,7 @@
 package com.li.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
@@ -27,6 +28,7 @@ public class FileUploadController {
 
     public static final String ROOT = "d://upload-dir";
 
+
     private final ResourceLoader resourceLoader;
 
     @Autowired
@@ -46,6 +48,7 @@ public class FileUploadController {
         return "uploadForm";
     }
 
+    //http://localhost:8080/avatar/avatar1.png
     //显示图片的方法关键 匹配路径像 localhost:8080/b7c76eb3-5a67-4d41-ae5c-1642af3f8746.png
     @RequestMapping(method = RequestMethod.GET, value = "/avatar/{filename:.+}")
     @ResponseBody

@@ -34,7 +34,7 @@ public class FileCrawler implements Runnable{
                     crawl(entry);
                 }else {
                     String name = entry.getName();
-                    System.out.println("生产者"+name);
+                    System.out.println("线程："+Thread.currentThread()+"生产者："+name);
                     fileQueue.put(entry);
                 }
             }

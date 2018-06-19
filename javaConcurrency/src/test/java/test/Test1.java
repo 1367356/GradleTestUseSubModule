@@ -40,6 +40,6 @@ public class Test1 {
     }
 
     public void callable() {
-
+        StringBuilder stringBuilder;
     }
 }
