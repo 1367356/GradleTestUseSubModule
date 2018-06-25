@@ -4,6 +4,19 @@ package com.li;
  * 数组中的逆序对
  */
 public class Question36 {
+
+    public static void main(String[] args){
+        int[] data={3,1,2};
+        int[] copy = new int[data.length];
+        int start=0;
+        int end=data.length;
+
+        for (int i = 0; i < end; i++) {
+            copy[i] = data[i];
+        }
+        Question36 question36=new Question36();
+        question36.inversePairsCore(data,copy,start,end);
+    }
     public int inversePairs(int[] data, int length) {
         if (data == null || length < 0) {
             return 0;

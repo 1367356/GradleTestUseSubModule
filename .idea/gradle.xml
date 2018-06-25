@@ -9,10 +9,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AlgorithmIntroduction" />
+            <option value="$PROJECT_DIR$/DesignPattern" />
             <option value="$PROJECT_DIR$/HibernateAutoCreateDataTable" />
             <option value="$PROJECT_DIR$/JavaChengXuYuanMianShiBaoDian" />
             <option value="$PROJECT_DIR$/JavaVituralMachine" />
             <option value="$PROJECT_DIR$/LeetCode" />
+            <option value="$PROJECT_DIR$/RPCJavaImpletion" />
+            <option value="$PROJECT_DIR$/SpringAOPTheory" />
             <option value="$PROJECT_DIR$/SpringBootCKEditor" />
             <option value="$PROJECT_DIR$/SpringBootConfigurationExceptionHandler" />
             <option value="$PROJECT_DIR$/SpringBootExcelReadAndWrite" />
@@ -29,6 +32,7 @@
             <option value="$PROJECT_DIR$/ThinkingInJava" />
             <option value="$PROJECT_DIR$/codingForOffer" />
             <option value="$PROJECT_DIR$/elasticSearchAndIkTest" />
+            <option value="$PROJECT_DIR$/examForOffere" />
             <option value="$PROJECT_DIR$/java8AndJava9" />
             <option value="$PROJECT_DIR$/javaConcurrency" />
             <option value="$PROJECT_DIR$/niuKe" />

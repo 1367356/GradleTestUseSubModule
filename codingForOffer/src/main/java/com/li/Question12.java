@@ -1,16 +1,14 @@
 package com.li;
 
-import org.junit.Test;
 
 /**
  * 打印1到最大的n位数
  */
 public class Question12 {
 
-
-    @Test
-    public void test() {
-        print1ToMaxNDigits(2);
+    public static void main(String[] args){
+        Question12 question12=new Question12();
+        question12.print1ToMaxNDigits(2);
     }
 
     public void print1ToMaxNDigits(int n) {
@@ -38,17 +36,6 @@ public class Question12 {
             System.out.println();
             return;
         }
-//        if (index == n - 1) {
-//            if(number[0]!=0){
-//            System.out.print(number[0]);
-//            }
-//            for (int i = 1; i < n; i++) {
-//                System.out.print(number[i]);
-//            }
-//            System.out.println();
-//
-//            return;
-//        }
         for (int i = 0; i < 10; i++) {
                 number[index + 1]=  i;
             print1ToNDigitsRecursively(number,n,index+1);

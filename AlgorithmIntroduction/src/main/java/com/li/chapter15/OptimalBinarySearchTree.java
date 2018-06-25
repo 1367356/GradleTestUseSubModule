@@ -18,7 +18,7 @@ public class OptimalBinarySearchTree {
             w[i][i - 1] = q[i - 1];
         }
 
-        for (int l = 0; l < n; l++) {  //l 子树的长度,  设计到i,j两边的，一定要三层for循环。
+        for (int l = 0; l < n; l++) {  //l 子树的长度,  设计到i,j两边的，一定要三层for循环。 i,l,r三个变量
             for (int i = 1; i < n-l+1; i++) {  //子树的起点i
                 int j=i+l;  //终点 j
                 e[i][j]=Integer.MAX_VALUE;

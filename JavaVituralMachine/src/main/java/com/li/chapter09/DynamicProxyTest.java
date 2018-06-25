@@ -1,5 +1,6 @@
 package com.li.chapter09;
 
+
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
@@ -8,12 +9,19 @@ public class DynamicProxyTest {
     interface IHello{
         void sayHello();
     }
+    interface IHello2{
+        void sayHello2();
+    }
 
-    static class Hello implements IHello{
-
+    static class Hello implements IHello,IHello2{
         @Override
         public void sayHello() {
             System.out.println("Hello world");
+        }
+
+        @Override
+        public void sayHello2() {
+            System.out.println("Hello world 2");
         }
     }
 
@@ -35,6 +43,9 @@ public class DynamicProxyTest {
     public static void main(String[] args){
         IHello hello = (IHello) new DynamicProxy().bind(new Hello());   //
         hello.sayHello();
+
+        IHello2 hello2 = (IHello2) new DynamicProxy().bind(new Hello());   //
+        hello2.sayHello2();
     }
 
 }

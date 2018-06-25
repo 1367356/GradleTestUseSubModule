@@ -1,9 +1,26 @@
 package com.li.chapter06;
 
+import java.io.InputStream;
+import java.util.Arrays;
+import java.util.stream.IntStream;
+
 /**
  * 最大堆
  */
 public class Heapify {
+
+    public static void main(String[] args){
+        Heapify heapify=new Heapify();
+        int[] arr = {2, 3, 4, 32, 2, 54, 7, 32, 20};
+//        int[] arr = {4, 3, 5};
+        heapify.buildMaxHeapify(arr);
+        IntStream stream = Arrays.stream(arr);
+        stream.forEach(System.out::println);
+        System.out.println("堆排序");
+        heapify.heapSort(arr);
+        IntStream stream1 = Arrays.stream(arr);
+        stream1.forEach(System.out::println);
+    }
     /**
      * 最大堆的角标值
      */
@@ -12,11 +29,11 @@ public class Heapify {
     }
     //左孩子
     public int leftChild(int i) {
-        return 2*i;
+        return 2*i+1;
     }
     //右孩子
     public int rightChild(int i) {
-        return 2*i+1;
+        return 2*i+2;
     }
 
     /**
@@ -26,12 +43,12 @@ public class Heapify {
         int largest;
         int l = leftChild(i);
         int r = rightChild(i);
-        if (l<arr.length-1&&arr[i] < arr[l]) {
+        if (l<arr.length&&arr[i] < arr[l]) {
             largest=l;
         }else {
             largest=i;
         }
-        if (r<arr.length-1&&arr[largest] < arr[r]) {
+        if (r<arr.length&&arr[largest] < arr[r]) {
             largest=r;
         }
         if (largest != i) {
@@ -40,14 +57,13 @@ public class Heapify {
             arr[largest]=temp;
             maxHeapify(arr,largest);
         }
-        
     }
 
     /**
      * 构建最大堆
      */
     public void buildMaxHeapify(int[] arr) {
-        for (int i = arr.length/2; i >=0; i--) {
+        for (int i = arr.length/2-1; i >=0; i--) {
             maxHeapify(arr, i);
         }
     }
@@ -58,7 +74,7 @@ public class Heapify {
     public void heapSort(int[] arr) {
         int heapSize=arr.length;
         buildMaxHeapify(arr);
-        for (int i=arr.length/2;i>=2;i--) {
+        for (int i=arr.length/2;i>=1;i--) {
             int temp=arr[1];
             arr[1] = arr[i];
             arr[i]=temp;

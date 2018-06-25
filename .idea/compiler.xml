@@ -16,8 +16,12 @@
       <module name="AlgorithmIntroduction_test" target="1.8" />
       <module name="codingForOffer_main" target="1.8" />
       <module name="codingForOffer_test" target="1.8" />
+      <module name="DesignPattern_main" target="1.8" />
+      <module name="DesignPattern_test" target="1.8" />
       <module name="elasticSearchAndIkTest_main" target="1.8" />
       <module name="elasticSearchAndIkTest_test" target="1.8" />
+      <module name="examForOffere_main" target="1.8" />
+      <module name="examForOffere_test" target="1.8" />
       <module name="GradleTestUseSubModule-HibernateAutoCreateDataTable_main" target="1.8" />
       <module name="GradleTestUseSubModule-HibernateAutoCreateDataTable_test" target="1.8" />
       <module name="GradleTestUseSubModule_main" target="1.8" />
@@ -36,8 +40,12 @@
       <module name="LeetCode_test" target="1.8" />
       <module name="niuKe_main" target="1.8" />
       <module name="niuKe_test" target="1.8" />
+      <module name="RPCJavaImpletion_main" target="1.8" />
+      <module name="RPCJavaImpletion_test" target="1.8" />
       <module name="ShrioAndSpringBoot_main" target="1.8" />
       <module name="ShrioAndSpringBoot_test" target="1.8" />
+      <module name="SpringAOPTheory_main" target="1.8" />
+      <module name="SpringAOPTheory_test" target="1.8" />
       <module name="springboot-security" target="1.8" />
       <module name="springboot-springSecurity4" target="1.8" />
       <module name="SpringBootCKEditor_main" target="1.8" />

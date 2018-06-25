@@ -1,6 +1,5 @@
 package com.li;
 
-import org.junit.Test;
 
 /**
  * 调整数组顺序使奇数位位于偶数前面。
@@ -32,7 +31,6 @@ public class Question14 {
         return arr;
     }
 
-    @Test
     public void test() {
         int[] arr = {3, 43, 2, 3, 34, 23, 23, 432, 334};
         int[] sortArray=sortArray(arr);

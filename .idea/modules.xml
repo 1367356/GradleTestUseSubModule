@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction.iml" filepath="$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction.iml" group="AlgorithmIntroduction" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction/AlgorithmIntroduction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction/AlgorithmIntroduction_main.iml" group="AlgorithmIntroduction" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction/AlgorithmIntroduction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AlgorithmIntroduction/AlgorithmIntroduction_test.iml" group="AlgorithmIntroduction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern.iml" group="DesignPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern/DesignPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern/DesignPattern_main.iml" group="DesignPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPattern/DesignPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPattern/DesignPattern_test.iml" group="DesignPattern" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleTestUseSubModule.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleTestUseSubModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibernateAutoCreateDataTable/GradleTestUseSubModule-HibernateAutoCreateDataTable_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateDataTable/GradleTestUseSubModule-HibernateAutoCreateDataTable_main.iml" group="HibernateAutoCreateDataTable" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibernateAutoCreateDataTable/GradleTestUseSubModule-HibernateAutoCreateDataTable_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HibernateAutoCreateDataTable/GradleTestUseSubModule-HibernateAutoCreateDataTable_test.iml" group="HibernateAutoCreateDataTable" />
@@ -25,6 +28,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/modules/LeetCode.iml" group="LeetCode" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LeetCode/LeetCode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LeetCode/LeetCode_main.iml" group="LeetCode" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LeetCode/LeetCode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LeetCode/LeetCode_test.iml" group="LeetCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RPCJavaImpletion.iml" filepath="$PROJECT_DIR$/.idea/modules/RPCJavaImpletion.iml" group="RPCJavaImpletion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RPCJavaImpletion/RPCJavaImpletion_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RPCJavaImpletion/RPCJavaImpletion_main.iml" group="RPCJavaImpletion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RPCJavaImpletion/RPCJavaImpletion_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RPCJavaImpletion/RPCJavaImpletion_test.iml" group="RPCJavaImpletion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAOPTheory.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAOPTheory.iml" group="SpringAOPTheory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAOPTheory/SpringAOPTheory_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAOPTheory/SpringAOPTheory_main.iml" group="SpringAOPTheory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAOPTheory/SpringAOPTheory_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAOPTheory/SpringAOPTheory_test.iml" group="SpringAOPTheory" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootCKEditor.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootCKEditor.iml" group="SpringBootCKEditor" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootCKEditor/SpringBootCKEditor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootCKEditor/SpringBootCKEditor_main.iml" group="SpringBootCKEditor" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootCKEditor/SpringBootCKEditor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootCKEditor/SpringBootCKEditor_test.iml" group="SpringBootCKEditor" />
@@ -74,6 +83,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest.iml" group="elasticSearchAndIkTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_main.iml" group="elasticSearchAndIkTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchAndIkTest/elasticSearchAndIkTest_test.iml" group="elasticSearchAndIkTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/examForOffere.iml" filepath="$PROJECT_DIR$/.idea/modules/examForOffere.iml" group="examForOffere" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/examForOffere/examForOffere_main.iml" filepath="$PROJECT_DIR$/.idea/modules/examForOffere/examForOffere_main.iml" group="examForOffere" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/examForOffere/examForOffere_test.iml" filepath="$PROJECT_DIR$/.idea/modules/examForOffere/examForOffere_test.iml" group="examForOffere" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8AndJava9.iml" filepath="$PROJECT_DIR$/.idea/modules/java8AndJava9.iml" group="java8AndJava9" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_main.iml" group="java8AndJava9" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java8AndJava9/java8AndJava9_test.iml" group="java8AndJava9" />
