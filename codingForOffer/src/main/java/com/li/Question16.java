@@ -20,8 +20,6 @@ public class Question16 {
 
         while (head.next != null) {
             behind=head.next;
-
-
             head.next=pre;
 
             pre=head;

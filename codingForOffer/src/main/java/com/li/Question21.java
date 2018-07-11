@@ -18,7 +18,7 @@ public class Question21 {
 
         public void push(int o) {
             if (min < o) {
-                assistLinkedList.addFirst(o);
+                assistLinkedList.addFirst(o);  //如果加入4之前最小的值为2，那么添加四时，仍然向辅助链表中添加2
                 min=o;
             }else {
                 assistLinkedList.addFirst(min);

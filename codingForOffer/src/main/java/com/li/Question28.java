@@ -24,8 +24,8 @@ public class Question28 {
      * 使用递归对字符数组的全排列进行打印。
      * a和b换，打印出来一个，b和c换，再打印一个。
      * @param str
-     * @param begin
-     * @param index
+     * @param begin  起始字符，判断是否结束
+     * @param index  角标，作为本次递归的起始交换点
      */
     public void sortString(char[] str, char begin,int index) {
         if(begin=='0'){
@@ -36,7 +36,7 @@ public class Question28 {
                     str[index]= str[i];
                     str[i] = temp;
                     sortString(str,str[index+1],index+1);
-                    char temp1=str[index];
+                    char temp1=str[index];   //递归之后，把该次递归的字符，再交换回来，因为递归之后的字符数组还要供上层交换使用
                     str[index]= str[i];
                     str[i]=temp1;
             }

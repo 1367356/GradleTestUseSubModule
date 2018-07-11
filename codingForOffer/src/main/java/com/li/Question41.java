@@ -1,5 +1,9 @@
 package com.li;
 
+import org.junit.Test;
+
+import java.util.*;
+
 /**
  * 和为s的两个数字VS和为s连续正数序列
  */
@@ -73,4 +77,80 @@ public class Question41 {
         }
     }
 
+    /**
+     * 求数组三个数的和等于给定的一个数
+     */
+    public void threeNum(int[] arr, int k) {
+
+        Map<HashKey,Integer> map = new HashMap<>();
+        for (int i = 0; i < arr.length; i++) {
+            int temp = arr[i];
+            int sum=k-temp;
+            int start=0;
+            int end=arr.length-1;
+
+            while (start < end) {
+                if (start != i && end != i) {
+                    if (arr[start] + arr[end]>sum) {
+                        end--;
+                    }else if(arr[start] + arr[end]<sum) {
+                        start++;
+                    }else {
+                        System.out.println("start"+arr[start]);
+                        System.out.println("i"+arr[i]);
+                        System.out.println("end"+arr[end]);
+                        Set<Integer> set = new TreeSet();
+                        set.add(i);
+                        set.add(start);
+                        set.add(end);
+                        Iterator<Integer> iterator = set.iterator();
+                        HashKey hashKey = new HashKey(iterator.next(),iterator.next(),iterator.next());
+
+                        map.putIfAbsent(hashKey, 1);
+
+                        break;
+                    }
+                }else {
+                    if (start == i) {
+                        start++;
+                    }else {
+                        end--;
+                    }
+                }
+            }
+
+        }
+        System.out.println(map.size());
+    }
+
+    @Test
+    public void testThreeNum() {
+        int[] arr={1,2,4,7,8,9,14,16};
+        int k=20;
+        threeNum(arr,k);
+    }
+
+}
+
+
+class HashKey{
+    int start;
+    int end;
+    int i;
+
+    public HashKey(int start, int end, int i) {
+        this.start = start;
+        this.end = end;
+        this.i = i;
+    }
+
+    @Override
+    public int hashCode() {
+        return start+end+i;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        return start==((HashKey)o).start && end==((HashKey)o).end&&i==((HashKey)o).i;
+    }
 }

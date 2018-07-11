@@ -38,6 +38,22 @@ public class ProxyBeanutil implements InvocationHandler{
 
         //生成代理对象，并绑定代理方法
         return Proxy.newProxyInstance(obj.getClass().getClassLoader(), obj.getClass().getInterfaces(), _this);
+
+        /**
+         *  通过代理类工厂生产代理类实例，  com.sun.proxy.$Proxy下面的方法给到代理类中，真实对象方法给到代理类中。当调用真实对象方法时，会调用com.sun.proxy.$Proxy 父类中的invoke方法， 即 invocationHandler中的invoke方法。即下面的invoke方法
+         if (var16 == null) {
+         var16 = "com.sun.proxy.";
+         }
+
+         long var19 = nextUniqueNumber.getAndIncrement();
+         String var23 = var16 + "$Proxy" + var19;
+         byte[] var22 = ProxyGenerator.generateProxyClass(var23, var2, var17);
+
+         try {
+         return Proxy.defineClass0(var1, var23, var22, 0, var22.length);
+
+         》》》 public static byte[] generateProxyClass(final String var0, Class<?>[] var1, int var2)
+         */
     }
 
     /**

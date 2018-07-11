@@ -36,6 +36,8 @@
       <module name="javaConcurrency_test" target="1.8" />
       <module name="JavaVituralMachine_main" target="1.8" />
       <module name="JavaVituralMachine_test" target="1.8" />
+      <module name="JiShuanJiWangLuoZiDingXiangXia_main" target="1.8" />
+      <module name="JiShuanJiWangLuoZiDingXiangXia_test" target="1.8" />
       <module name="LeetCode_main" target="1.8" />
       <module name="LeetCode_test" target="1.8" />
       <module name="niuKe_main" target="1.8" />

@@ -1,5 +1,7 @@
 package com.li;
 
+import org.junit.Test;
+
 /**
  * 从1到n整数中1出现的次数。
  */
@@ -59,9 +61,15 @@ public class Question32 {
         int result = 1;
         for(int i = 0; i < n; i++){
             result *= 10;
-
         }
 
         return result;
+    }
+
+    @Test
+    public void test() {
+        int n=21345;
+        int number = NumberOf1Between1AndN_Solution(n);
+        System.out.println(number);
     }
 }

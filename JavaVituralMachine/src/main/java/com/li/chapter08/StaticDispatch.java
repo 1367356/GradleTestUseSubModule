@@ -5,14 +5,21 @@ package com.li.chapter08;
  */
 public class StaticDispatch {
     static abstract class Human{
+//        public void test() {
+//            System.out.println("test");
+//        }
 
     }
 
     static class Women extends Human{
 
+
     }
 
     static class man extends Human{
+//        public void test() {
+//            System.out.println("test");
+//        }
 
     }
     public void sayHello(Human human) {
@@ -28,7 +35,7 @@ public class StaticDispatch {
     }
 
     public static void main(String[] args){
-        Human human=new man();
+        man human=new man();
         Human women=new Women();
 
         StaticDispatch staticDispatch=new StaticDispatch();

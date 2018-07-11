@@ -4,6 +4,8 @@ import com.li.model.Role;
 import com.li.rule.Interceptor;
 import com.li.rule.ProxyBeanFactory;
 
+import java.lang.reflect.Method;
+
 /**
  * @program: GradleTestUseSubModule
  * @author: Yafei Li
@@ -16,11 +18,23 @@ public class GameMain {
 
         //获得bean对象的动态代理
         RoleService proxy = ProxyBeanFactory.getBean(roleService, interceptor);   // 获取一个代理对象，框架提供的，在author中，  将自己实现的拦截器提供给框架
+
         Role role=new Role((long) 1,"roleName","note");
 
         proxy.printRole(role);  //执行方法，author中的动态代理invoke执行 ，将要执行的方法织入到动态代理invoke响应的位置，前后固定的逻辑由interceptor执行。使人专注于业务。
 
         //从以上代码和结果可以看出，我们并没有显示的调用invoke()方法，但是这个方法确实执行了。下面就整个的过程进行分析一下：
        // https://blog.csdn.net/wang_1997/article/details/52450549
+        Method[] declaredMethods = proxy.getClass().getDeclaredMethods();  //proxy  已经有bean的方法，还有另外三个方法
+        for (Method method : declaredMethods) {
+            System.out.println(method.getName());
+            /**
+             * 结果
+             * equals
+             toString
+             hashCode
+             printRole
+             */
+        }
     }
 }

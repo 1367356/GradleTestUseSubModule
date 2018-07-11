@@ -43,13 +43,9 @@ public class LingQian {
                     }else {
 
                         sums[i][j]=sums[i-1][j]+sums[i][j-values[i]];
-//                        sums[i][j] = sums[i-1][j]+count;//sums[i][j - values[i]] + count;  //values[i]=1,代表多了一种方案,2*values[i],3*values[i]}
-                    }
+                   }
                 } else {
-//                    sums[i][j] = sums[i-1][j];  //总量相等，没有新面额时
-//                    sums[i][j] = sums[i][j - 1]>(sums[i-1][j]+count)?sums[i][j - 1]:(sums[i-1][j]+count);  //sums[i-1][j]+count  已经添加新面额了
-//                    sums[i][j] = sums[i-1][j]+count;
-                    sums[i][j]=sums[i-1][j]+sums[i][j-values[i]];
+                   sums[i][j]=sums[i-1][j]+sums[i][j-values[i]];
                 }
             }
         }
@@ -64,6 +60,7 @@ public class LingQian {
         for (int j = 0; j < values.length; j++) {
             for (int i = values[j]; i <= N; i++) {
                     if (i>=values[j]){
+                        //以前的是固定的，将新的添加上就行了
                         dp[i]=dp[i]+dp[i-values[j]]; //第values[0]件物品，i容量
                     }
             }
