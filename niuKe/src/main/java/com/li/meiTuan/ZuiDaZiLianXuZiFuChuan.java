@@ -1,10 +1,13 @@
 package com.li.meiTuan;
 
 
+import org.junit.Test;
+
 /**
  * 给出两个字符串（可能包含空格）,找出其中最长的公共连续子串,输出其长度。
  */
 public class ZuiDaZiLianXuZiFuChuan {
+    @Test
     public void test() {
 
         char[] arr1 = {'a','b','c','d','e'};
@@ -29,11 +32,6 @@ public class ZuiDaZiLianXuZiFuChuan {
                     arr[i][j]=arr[i-1][j-1]+1;
                     maxLength=Math.max(maxLength,arr[i][j]);
                 }
-//                  else if(arr[i-1][j]>=arr[i][j-1]){
-////                    arr[i][j]=arr[i-1][j];
-//                }else {
-////                    arr[i][j]=arr[i][j-1];
-//                }
             }
         }
 

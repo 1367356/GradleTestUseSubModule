@@ -1,11 +1,13 @@
 package chapter06;
 
+import chapter04.Person;
 import com.sun.javafx.geom.Rectangle;
 import com.sun.scenario.effect.FilterContext;
 import com.sun.scenario.effect.Filterable;
 import com.sun.scenario.effect.ImageData;
 
 import java.awt.*;
+import java.util.HashSet;
 import java.util.List;
 import java.util.concurrent.*;
 
@@ -33,7 +35,7 @@ public class Renderer {
                 }
             });
         }
-        rederText(source);  //渲染文本
+//        rederText(source);  //渲染文本
 
         try {
             for (int i = 0; i < images.size(); i++) {
@@ -46,11 +48,13 @@ public class Renderer {
         }
     }
 
-    private void rederImage(ImageData imageData) {
+    private void rederImage(ImageData imageData) throws ExecutionException, InterruptedException {
+
 
     }
 
-    private void rederText(CharSequence source) {
+    private void rederText(CharSequence source) throws ExecutionException, InterruptedException {
+
 
     }
 

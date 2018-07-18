@@ -10,10 +10,6 @@ public class Test {
     }
 
     public static void main(String[] args){
-        String abc = "abc";
-        System.out.println(abc);  //abc
 
-        abc = "def";             //def
-        System.out.println(abc);
     }
 }

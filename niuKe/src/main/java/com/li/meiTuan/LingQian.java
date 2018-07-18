@@ -41,7 +41,6 @@ public class LingQian {
                     if (j == values[i]) {  //遇到一种新面额和容量相等
                         sums[i][j] = sums[i-1][j] + 1;  //总量相等，没有新面额+1，
                     }else {
-
                         sums[i][j]=sums[i-1][j]+sums[i][j-values[i]];
                    }
                 } else {

@@ -1,5 +1,6 @@
 package com.li.chapter22;
 
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -24,7 +25,14 @@ public class BreathFirstSearch {
 
     //创建图
     public List<Node> createGraph() {
-        Scanner scanner = new Scanner(System.in);  //从控制台读取数据
+
+        Class clazz = this.getClass();
+        InputStream ins = clazz.getResourceAsStream("/data.txt");
+        Scanner scanner = new Scanner(ins);
+//        String s1 = scanner.nextLine();
+//        int n = Integer.parseInt(s1);
+//
+//        Scanner scanner = new Scanner(System.in);  //从控制台读取数据
         while (scanner.hasNextLine()) {
             String s=scanner.nextLine();  //读取一行数据，构建一个节点
             if (s.equals("999")) {  //中断标志
@@ -86,7 +94,7 @@ public class BreathFirstSearch {
             int length = getLength(u);  //得到与节点相邻的节点的大小
             Node v=u;
             for (int i = 0; i < length; i++) {
-                v=v.link;
+                v=v.link; //与v相邻的点
                 if (!nodeFound[v.key - 1]) {  ///如果v.key-1这个节点还没发现过
                     v.color = "GRAY";
                     v.d=u.d+1;

@@ -1,9 +1,7 @@
 package com.li.XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi;
 
-import org.junit.Test;
 
 import java.io.InputStream;
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;

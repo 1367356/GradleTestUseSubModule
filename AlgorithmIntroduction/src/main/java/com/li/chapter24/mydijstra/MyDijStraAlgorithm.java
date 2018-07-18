@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @program: GradleTestUseSubModule
  * @author: Yafei Li
  * @create: 2018-06-28 19:45
- *   自己编写迪杰斯特拉算法  ,解决图论及其应用 1.4节  a到b的最短路问题
+ *   杰斯特拉算法  ,解决电子科技大学图论及其应用 1.4节  a到b的最短路问题
  **/
 public class MyDijStraAlgorithm {
 
@@ -30,10 +30,10 @@ public class MyDijStraAlgorithm {
 //        int[] minDistance = new int[arrVertx.length];  //存储源点到各个节点的最短距离
 //        minDistance[vertx]=0;  //vertx到vertx的距离为0
 
-        for (int i = 0; i < arrVertx.length; i++) {  //遍历所有的点
+        for (int i = 0; i < arrVertx.length; i++) {  //每次得到一个与顶点距离最近的未发现的点
             int mindis=Integer.MAX_VALUE;
             int v=vertx;
-            for (int j = 0; j < arrVertx.length; j++) {
+            for (int j = 0; j < arrVertx.length; j++) {  //遍历与顶点相邻的点。
                 if (!isFound[j]) {
                     if (mindis > arrVertx[j]) {
                         mindis = arrVertx[j];
@@ -44,7 +44,7 @@ public class MyDijStraAlgorithm {
 
             isFound[v]=true;
 
-            for (int j = 0; j < arrVertx.length; j++) {
+            for (int j = 0; j < arrVertx.length; j++) {  //更新其它点
                 if (!isFound[j]) {
                     if (mindis + arrWeight[v][j] < arrVertx[j]) {  //vertx到v的距离加上v到j的距离
                         arrVertx[j]=mindis + arrWeight[v][j];

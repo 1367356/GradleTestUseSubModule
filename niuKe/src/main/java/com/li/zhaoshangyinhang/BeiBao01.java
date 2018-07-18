@@ -24,7 +24,7 @@ public class BeiBao01 {
     * 背包中依次装入其他的物品
     * */
     for(int i=1;i<5;i++){
-            for(int j=1;j<=c;j++){
+            for(int j=1;j<=c;j++){  //c总的容量
             if(j<w[i])m[i][j]=m[i-1][j]; //不装入背包
             else{
             if(m[i-1][j-w[i]]+v[i]>m[i-1][j]) m[i][j]=m[i-1][j-w[i]]+v[i]; //选择价值较大者
@@ -33,16 +33,16 @@ public class BeiBao01 {
     }
     }
              System.out.println("背包的最大价值为："+m[w.length-1][c]);
-                for(int i=4;i>=1;i--){
-                if(m[i][c]>m[i-1][c]){
+        for(int i=4;i>=1;i--){
+            if(m[i][c]>m[i-1][c]){
                 x[i]=1; //装入背包
                 c-=w[i]; //物品i装入背包之前背包的容量
-                }
-                else x[i]=0; //没有装入背包
-                }
-               System.out.print("装入背包的物品编号是：");
-               for(int i=0;i<5;i++){
-                if(x[i]==1) System.out.printf("%2d",(i+1));
             }
+            else x[i]=0; //没有装入背包
+        }
+        System.out.print("装入背包的物品编号是：");
+        for(int i=0;i<5;i++){
+            if(x[i]==1) System.out.printf("%2d",(i+1));
+        }
     }
 }
