@@ -1,7 +1,7 @@
 package com.li;
-
 import java.lang.management.GarbageCollectorMXBean;
 import java.lang.management.ManagementFactory;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -24,6 +24,23 @@ public class Test {
         systemClassLoader.loadClass("");
         for (int j = 0; j < 10; j++) {
             System.out.println(k++);
+        }
+    }
+
+    @org.junit.Test
+    public void test2() {
+
+        ArrayList arrayList = new ArrayList();
+        arrayList.add(3);
+        arrayList.add(4);
+        arrayList.add(5);
+        arrayList.add(6);
+
+        for (int i = 0; i < arrayList.size(); i++) {
+            arrayList.remove(new Integer(4));
+        }
+        for (int i = 0; i < arrayList.size(); i++) {
+            System.out.println(arrayList.get(i));
         }
     }
 }

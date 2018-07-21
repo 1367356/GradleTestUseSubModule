@@ -40,4 +40,5 @@ public class Role {
     public void setNote(String note) {
         this.note = note;
     }
+
 }

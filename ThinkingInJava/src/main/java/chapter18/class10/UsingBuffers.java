@@ -25,5 +25,9 @@ public class UsingBuffers {
         symmetricScramble(charBuffer);
         System.out.println(charBuffer.rewind());
         symmetricScramble(charBuffer);
+
+        ByteBuffer byteBuffer=ByteBuffer.wrap("hello".getBytes());
+        byteBuffer.put("abc".getBytes());
+        byteBuffer.get("abc".getBytes());
     }
 }

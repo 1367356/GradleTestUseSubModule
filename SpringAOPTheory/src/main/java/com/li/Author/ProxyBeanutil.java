@@ -1,5 +1,6 @@
 package com.li.Author;
 
+import com.li.Reader.RoleService;
 import com.li.rule.Interceptor;
 
 import java.lang.reflect.InvocationHandler;
@@ -13,15 +14,19 @@ import java.lang.reflect.Proxy;
  **/
 public class ProxyBeanutil implements InvocationHandler{
 
+
+
     //被代理的对象
     private Object obj;
+
     //reader（程序员）配置的拦截器
     private Interceptor interceptor=null;
+
 
     /**
      * 获取代理对象
      * @param obj  真实对象
-     * @param interceptor  配置的拦截器，传到该bean中
+     * @param interceptor  配置的拦截器，传到该bean中，  这比单纯的动态代理，多了一个拦截器。  这样程序员只需要实现一个拦截器就行了，不用自己实现动态代理了，因为动态代理太难了。
      * @param <T>  泛型
      * @return
      */
@@ -37,7 +42,9 @@ public class ProxyBeanutil implements InvocationHandler{
         //_this中含有obj,intercepter实现了Interceptor
 
         //生成代理对象，并绑定代理方法
-        return Proxy.newProxyInstance(obj.getClass().getClassLoader(), obj.getClass().getInterfaces(), _this);
+//        return Proxy.newProxyInstance(obj.getClass().getClassLoader(), obj.getClass().getInterfaces(), _this);
+        RoleService o = (RoleService) Proxy.newProxyInstance(obj.getClass().getClassLoader(), obj.getClass().getInterfaces(), _this);
+        return o;
 
         /**
          *  通过代理类工厂生产代理类实例，  com.sun.proxy.$Proxy下面的方法给到代理类中，真实对象方法给到代理类中。当调用真实对象方法时，会调用com.sun.proxy.$Proxy 父类中的invoke方法， 即 invocationHandler中的invoke方法。即下面的invoke方法
@@ -72,6 +79,7 @@ public class ProxyBeanutil implements InvocationHandler{
         boolean exceptionFlag=false;
         //before方法
         interceptor.before(obj);
+
 
         try {
             //反射原有方法

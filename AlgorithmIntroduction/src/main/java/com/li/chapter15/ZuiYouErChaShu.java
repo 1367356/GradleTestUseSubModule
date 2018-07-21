@@ -1,6 +1,7 @@
 package com.li.chapter15;
 
 public class ZuiYouErChaShu {
+
     public void optimalBinarySearchTree(float[] a,float[] b,float[][] m,int[][] s,float[][] w){
         int n=a.length-1;
         for(int i=0;i<=n;i++){//初始化构造无内部节点的情况

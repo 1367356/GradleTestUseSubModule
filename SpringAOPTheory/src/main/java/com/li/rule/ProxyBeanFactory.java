@@ -10,6 +10,8 @@ import com.li.Author.ProxyBeanutil;
  *  生成对象时，都用这样的一个类去生成对应的对象。
  *  getBean方法
  *  创建Bean
+ *
+ *  ProxyBeanFactory  作为客户端和框架的中介
  **/
 public class ProxyBeanFactory {
     public static <T> T getBean(T obj, Interceptor interceptor) {

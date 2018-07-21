@@ -14,5 +14,7 @@ public static void main(String[] args){
     Deque deque;//双端队列，工作密取。
 
     Integer integer;
+
+    StringBuffer stringBuffer;
 }
 }
