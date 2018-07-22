@@ -67,12 +67,14 @@ public class ErChaSouSuoShu {
                     root=root.leftChild;
                 }else {
                     System.out.println("二叉树中不包含该值");
+                    break;
                 }
             } else if (root.key < i) {
                 if (root.rightChild != null) {
                     root = root.rightChild;
                 } else {
                     System.out.println("二叉树中不包含该值");
+                    break;
                 }
             }else {   //找到要删除的节点
 
@@ -94,13 +96,14 @@ public class ErChaSouSuoShu {
                         }
                     }else {      //3.2：右子树中含有比右子节点更小的值。
                         System.out.println("删除的节点右子树中含有比右节点更小的值");
-                        Node minimumNode = minimumNode(root.rightChild);
-                        minimumNode.parentNode.leftChild=minimumNode.rightChild;
-                        minimumNode.rightChild=root.rightChild;
+                        Node minimumNode = minimumNode(root.rightChild);  //右子树的最小节点，取代删除节点的位置
+
+                        minimumNode.parentNode.leftChild=minimumNode.rightChild;   //将最小节点的右节点放到最下节点父节点的左节点处。
+                        minimumNode.rightChild=root.rightChild;  //最小节点的右节点为删除节点的右节点
                         if (root.parentNode.leftChild == root) {  //如果删除的节点是父节点的左子节点，那么将父节点的左子节点指向代替root的值
-                            root.parentNode.leftChild=root.rightChild;
+                            root.parentNode.leftChild=minimumNode;  //最小节点放到删除节点父节点的左孩子节点处
                         }else {
-                            root.parentNode.rightChild=root.rightChild;
+                            root.parentNode.rightChild=minimumNode;//最小节点放到删除节点父节点的右孩子节点处
                         }
                     }
 
@@ -139,7 +142,7 @@ public class ErChaSouSuoShu {
         Node node = erChaSouSuoShu.createErChaSouSuoShu();
         erChaSouSuoShu.mediumOrder(node);
          System.out.println("删除");
-        erChaSouSuoShu.delete(node,9);
+        erChaSouSuoShu.delete(node,5);
         erChaSouSuoShu.mediumOrder(node);
     }
 }
