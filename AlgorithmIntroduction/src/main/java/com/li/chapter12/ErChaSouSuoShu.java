@@ -106,7 +106,6 @@ public class ErChaSouSuoShu {
                             root.parentNode.rightChild=minimumNode;//最小节点放到删除节点父节点的右孩子节点处
                         }
                     }
-
                 }
                 break;
             }

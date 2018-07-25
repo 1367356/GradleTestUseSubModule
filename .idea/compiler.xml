@@ -16,6 +16,8 @@
       <module name="AlgorithmIntroduction_test" target="1.8" />
       <module name="codingForOffer_main" target="1.8" />
       <module name="codingForOffer_test" target="1.8" />
+      <module name="CreateMyFrameWork_main" target="1.8" />
+      <module name="CreateMyFrameWork_test" target="1.8" />
       <module name="DesignPattern_main" target="1.8" />
       <module name="DesignPattern_test" target="1.8" />
       <module name="elasticSearchAndIkTest_main" target="1.8" />
