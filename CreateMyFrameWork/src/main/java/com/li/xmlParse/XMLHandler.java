@@ -15,11 +15,11 @@ import java.util.List;
 /**
  * https://www.cnblogs.com/skynight/p/5540614.html
  */
-public class Utils {
+public class XMLHandler {
 
-//    public XMLHandler() {
-//        // TODO Auto-generated constructor stub
-//    }
+    public XMLHandler() {
+        // TODO Auto-generated constructor stub
+    }
 
     public String createXML(){
         String strXML = null;
@@ -135,13 +135,13 @@ public class Utils {
      * @param args
      */
     public static void main(String[] args) {
-//        // TODO Auto-generated method stub
-//        XMLHandler handler = new XMLHandler();
-//        String strXML=handler.createXML();
-//        System.out.println(strXML);
-//        handler.parserXML(strXML);
-//        System.out.println("-----------");
-//        handler.parserXMLbyXPath(strXML);
+        // TODO Auto-generated method stub
+        XMLHandler handler = new XMLHandler();
+        String strXML=handler.createXML();
+        System.out.println(strXML);
+        handler.parserXML(strXML);
+        System.out.println("-----------");
+        handler.parserXMLbyXPath(strXML);
     }
 
 }
