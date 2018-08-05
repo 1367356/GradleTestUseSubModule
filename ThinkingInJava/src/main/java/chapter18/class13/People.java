@@ -1,6 +1,9 @@
 package chapter18.class13;
 
-import nu.xom.*;
+import nu.xom.Builder;
+import nu.xom.Document;
+import nu.xom.Elements;
+import nu.xom.ParsingException;
 
 import java.io.IOException;
 import java.util.ArrayList;

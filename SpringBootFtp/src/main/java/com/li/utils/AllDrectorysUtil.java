@@ -4,12 +4,12 @@ import org.apache.commons.net.PrintCommandListener;
 import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPFile;
 import org.apache.commons.net.ftp.FTPReply;
+import org.apache.log4j.Logger;
 
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Iterator;
-import org.apache.log4j.Logger;
 /**
  * 列出FTP服务器上指定目录下面的所有文件
  * @author BenZhou mailto:zhouzb@qq.com

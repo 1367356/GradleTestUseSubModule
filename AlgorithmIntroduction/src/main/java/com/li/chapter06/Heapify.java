@@ -1,6 +1,5 @@
 package com.li.chapter06;
 
-import java.io.InputStream;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 

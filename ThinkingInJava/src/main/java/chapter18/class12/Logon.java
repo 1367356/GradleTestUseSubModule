@@ -1,6 +1,5 @@
 package chapter18.class12;
 
-import java.beans.Transient;
 import java.io.*;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;

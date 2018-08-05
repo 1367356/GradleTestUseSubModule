@@ -3,7 +3,6 @@ package chapter08.SecondTime.class3;
 import org.apache.logging.log4j.LogManager;
 
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.logging.Logger;
 
 /**
  * @program: GradleTestUseSubModule

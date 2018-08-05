@@ -1,7 +1,5 @@
 package chapter17.class02;
 
-import java.util.ArrayList;
-
 /**
  * 适配
  */

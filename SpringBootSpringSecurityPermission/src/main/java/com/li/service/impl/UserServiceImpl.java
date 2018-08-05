@@ -1,6 +1,5 @@
 package com.li.service.impl;
 
-import com.li.service.UserService;
 import com.qingwenwei.event.OnRegistrationCompleteEvent;
 import com.qingwenwei.persistence.dao.CommentMapper;
 import com.qingwenwei.persistence.dao.PostMapper;
@@ -9,7 +8,6 @@ import com.qingwenwei.persistence.model.Comment;
 import com.qingwenwei.persistence.model.Post;
 import com.qingwenwei.persistence.model.User;
 import com.qingwenwei.service.StorageService;
-import com.qingwenwei.service.UserService;
 import com.qingwenwei.web.dto.UserRegistrationDto;
 import com.qingwenwei.web.dto.UserSettingsDto;
 import org.apache.logging.log4j.LogManager;

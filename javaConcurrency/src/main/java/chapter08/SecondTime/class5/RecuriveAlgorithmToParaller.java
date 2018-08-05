@@ -4,7 +4,6 @@ import chapter06.Executor;
 import org.w3c.dom.NodeList;
 
 import javax.xml.bind.Element;
-import javax.xml.soap.Node;
 import java.util.Collection;
 import java.util.List;
 

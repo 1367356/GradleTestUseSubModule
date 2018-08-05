@@ -1,7 +1,6 @@
 package com.li.model;
 
 import java.io.Serializable;
-import java.sql.Timestamp;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashSet;

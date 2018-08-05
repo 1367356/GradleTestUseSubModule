@@ -1,6 +1,5 @@
 package com.li.service;
 
-import com.qingwenwei.persistence.model.User;
 import com.qingwenwei.web.dto.UserRegistrationDto;
 import com.qingwenwei.web.dto.UserSettingsDto;
 import org.apache.catalina.User;

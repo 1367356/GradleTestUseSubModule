@@ -59,6 +59,7 @@ public class ErChaSouSuoShu {
         }
     }
 
+
     public void delete(Node root,int i) {
         while (true) {
 

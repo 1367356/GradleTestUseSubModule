@@ -1,7 +1,5 @@
 package com.li.shenxinfu;
 
-import java.util.Scanner;
-
 /**
  * @program: GradleTestUseSubModule
  * @author: Yafei Li

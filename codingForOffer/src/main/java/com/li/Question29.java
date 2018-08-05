@@ -1,9 +1,5 @@
 package com.li;
 
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * 数组中出现次数超过一半的数字。
  */

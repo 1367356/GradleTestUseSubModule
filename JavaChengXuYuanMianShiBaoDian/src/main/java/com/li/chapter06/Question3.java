@@ -1,6 +1,8 @@
 package com.li.chapter06;
-import java.util.*;
-import java.io.*;
+
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.OutputStream;
 
 /**
  * 请给出一段代码描述字符串写入文件

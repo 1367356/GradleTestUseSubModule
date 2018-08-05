@@ -1,8 +1,5 @@
 package com.li.QuNaEr;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 /**
  * 表达式合法判断
  */

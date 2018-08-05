@@ -2,7 +2,6 @@ package chapter10.class1;
 
 import chapter04.Point;
 
-import java.awt.*;
 import java.util.HashSet;
 import java.util.Set;
 

@@ -1,8 +1,5 @@
 package chapter03;
 
-import java.util.concurrent.Executor;
-import java.util.concurrent.ThreadPoolExecutor;
-
 /**
  * @program: GradleTestUseSubModule
  * @author: Yafei Li

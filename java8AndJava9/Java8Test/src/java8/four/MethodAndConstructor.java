@@ -1,7 +1,5 @@
 package java8.four;
 
-import java.util.List;
-
 import java8.three.Converter;
 
 public class MethodAndConstructor {

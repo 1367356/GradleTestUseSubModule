@@ -1,13 +1,8 @@
 package chapter06;
 
-import chapter04.Person;
-import com.sun.javafx.geom.Rectangle;
-import com.sun.scenario.effect.FilterContext;
-import com.sun.scenario.effect.Filterable;
 import com.sun.scenario.effect.ImageData;
 
 import java.awt.*;
-import java.util.HashSet;
 import java.util.List;
 import java.util.concurrent.*;
 

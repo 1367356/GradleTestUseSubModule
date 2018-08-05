@@ -1,7 +1,6 @@
 package chapter03;
 
 import java.math.BigInteger;
-import java.util.Arrays;
 
 /**
  * 不可变对象

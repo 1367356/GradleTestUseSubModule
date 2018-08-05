@@ -2,8 +2,6 @@ package com.li;
 
 import org.junit.Test;
 
-import static jdk.nashorn.internal.objects.NativeMath.min;
-
 /**
  * 找到第1500个丑数
  */

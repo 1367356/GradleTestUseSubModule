@@ -1,25 +1,16 @@
 package com.li.service;
 
-import com.qingwenwei.event.OnRegistrationCompleteEvent;
 import com.qingwenwei.persistence.dao.CommentMapper;
 import com.qingwenwei.persistence.dao.PostMapper;
 import com.qingwenwei.persistence.dao.UserMapper;
-import com.qingwenwei.persistence.model.Comment;
-import com.qingwenwei.persistence.model.Post;
 import com.qingwenwei.persistence.model.User;
-import com.qingwenwei.service.StorageService;
-import com.qingwenwei.service.UserService;
-import com.qingwenwei.web.dto.UserRegistrationDto;
 import com.qingwenwei.web.dto.UserSettingsDto;
-import org.apache.log4j.LogManager;
-import org.apache.tomcat.util.net.openssl.ciphers.Authentication;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Service;
 
-import javax.servlet.http.HttpServletRequest;
-import java.sql.Timestamp;
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 @Service("userService")
 public class UserServiceImpl  {

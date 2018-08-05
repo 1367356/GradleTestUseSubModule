@@ -6,7 +6,10 @@ import com.li.xmlParse.MyXMLParse;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
 
 /**
  * @program: GradleTestUseSubModule

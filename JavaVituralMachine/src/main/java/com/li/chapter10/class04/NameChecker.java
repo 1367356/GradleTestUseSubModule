@@ -1,16 +1,10 @@
 package com.li.chapter10.class04;
 
-import com.sun.org.apache.regexp.internal.RE;
-import org.omg.CORBA.PUBLIC_MEMBER;
-
 import javax.annotation.processing.Messager;
 import javax.annotation.processing.ProcessingEnvironment;
 import javax.lang.model.element.*;
-import javax.lang.model.util.ElementScanner6;
 import javax.lang.model.util.ElementScanner8;
 import javax.tools.Diagnostic;
-import java.lang.reflect.Method;
-import java.util.EnumSet;
 
 /**
  * @program: GradleTestUseSubModule

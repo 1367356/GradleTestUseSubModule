@@ -1,6 +1,6 @@
 package com.li.shenxinfu;
 
-import java.util.*;
+import java.util.Scanner;
 
 /**
  * @program: GradleTestUseSubModule

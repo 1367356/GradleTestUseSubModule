@@ -1,8 +1,5 @@
 package chapter14;
 
-import com.sun.corba.se.impl.orbutil.concurrent.Sync;
-
-import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**

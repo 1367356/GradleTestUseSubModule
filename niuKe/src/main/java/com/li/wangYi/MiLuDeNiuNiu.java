@@ -1,6 +1,6 @@
 package com.li.wangYi;
 
-import java.util.*;
+import java.util.Scanner;
 
 /**
  * 迷路的牛牛

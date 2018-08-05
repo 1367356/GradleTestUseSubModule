@@ -1,7 +1,5 @@
 package elasticsearchTest;
 
-import static org.elasticsearch.common.xcontent.XContentFactory.*;
-
 import org.elasticsearch.action.DocWriteResponse;
 import org.elasticsearch.action.admin.indices.mapping.put.PutMappingRequest;
 import org.elasticsearch.action.bulk.BulkItemResponse;
@@ -20,6 +18,8 @@ import org.junit.Test;
 import java.io.IOException;
 import java.net.InetAddress;
 import java.util.Date;
+
+import static org.elasticsearch.common.xcontent.XContentFactory.jsonBuilder;
 
 public class Es6Test1 {
     private static TransportClient client;

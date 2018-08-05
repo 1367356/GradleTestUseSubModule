@@ -1,7 +1,5 @@
 package chapter08.SecondTime;
 
-import chapter06.Executor;
-
 import java.util.concurrent.Semaphore;
 
 /**

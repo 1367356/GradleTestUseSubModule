@@ -1,5 +1,6 @@
 package com.li.mySpringFrameWork.httpServerAsController;
 
+import com.li.mySpringFrameWork.utils.PackageUtils;
 import com.li.mySpringFrameWork.utils.RegisterControllerAnnotation;
 
 import java.io.BufferedReader;
@@ -19,6 +20,17 @@ public class HttpServer {
 
         //注册controller
         RegisterControllerAnnotation registerControllerAnnotation=new RegisterControllerAnnotation();
+
+        List<Class<?>> aClass = PackageUtils.getClass("com.li.mySpringFrameWork.httpServerAsController", true);
+        for (int i = 0; i < aClass.size(); i++) {
+            Class<?> aClass1 = aClass.get(i);
+            try {
+                registerControllerAnnotation.controllerPathInjectToMap(aClass1.getClass().newInstance());
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+
         registerControllerAnnotation.controllerPathInjectToMap(MyController.class);
         Map<String, Map<Method, Class>> controllerInjectToMap = registerControllerAnnotation.getControllerInjectToMap();
 

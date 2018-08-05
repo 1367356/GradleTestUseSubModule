@@ -1,7 +1,5 @@
 package com.li.rpc;
 
-import com.li.rpc.*;
-
 import java.io.IOException;
 import java.net.InetSocketAddress;
 

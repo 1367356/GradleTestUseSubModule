@@ -11,7 +11,6 @@ import org.elasticsearch.transport.client.PreBuiltTransportClient;
 
 import java.io.IOException;
 import java.net.InetAddress;
-import java.net.UnknownHostException;
 
 public class CreateIndex {
 

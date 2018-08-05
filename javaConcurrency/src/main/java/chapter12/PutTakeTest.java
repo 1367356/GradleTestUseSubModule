@@ -1,7 +1,5 @@
 package chapter12;
 
-import com.oracle.jrockit.jfr.Producer;
-import com.sun.scenario.effect.impl.prism.PrImage;
 import junit.framework.TestCase;
 
 import java.util.concurrent.BrokenBarrierException;

@@ -3,9 +3,7 @@ package com.li;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.List;
 
 /**
  * 栈的压入，弹出序列。

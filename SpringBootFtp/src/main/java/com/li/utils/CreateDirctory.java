@@ -1,20 +1,15 @@
 package com.li.utils;
 
-import java.io.BufferedInputStream;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.SocketException;
-import java.text.SimpleDateFormat;
-import java.util.Properties;
-
 import org.apache.commons.logging.Log;
 import org.apache.commons.net.ftp.FTP;
 import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPClientConfig;
 import org.apache.commons.net.ftp.FTPReply;
+
+import java.io.*;
+import java.net.SocketException;
+import java.text.SimpleDateFormat;
+import java.util.Properties;
 
 
 /**

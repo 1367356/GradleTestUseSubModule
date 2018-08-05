@@ -1,9 +1,5 @@
 package com.li.chapter08;
 
-import org.apache.tools.ant.taskdefs.Java;
-
-import java.lang.invoke.MethodType;
-
 /**
  * 动态分派
  */

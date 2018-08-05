@@ -2,8 +2,6 @@ package chapter18.class10;
 
 import java.nio.ByteBuffer;
 
-import static sun.misc.Version.println;
-
 /**
  * 获取基本类型
  */

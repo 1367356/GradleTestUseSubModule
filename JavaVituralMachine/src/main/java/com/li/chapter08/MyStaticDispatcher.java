@@ -1,7 +1,5 @@
 package com.li.chapter08;
 
-import org.junit.Test;
-
 /**
  * @program: GradleTestUseSubModule
  * @author: Yafei Li

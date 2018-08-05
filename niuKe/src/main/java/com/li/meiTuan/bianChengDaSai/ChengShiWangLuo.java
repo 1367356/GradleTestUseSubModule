@@ -1,7 +1,5 @@
 package com.li.meiTuan.bianChengDaSai;
 
-import com.li.XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi.NiuNiuYuNiuNiu;
-
 import java.io.InputStream;
 import java.util.Scanner;
 

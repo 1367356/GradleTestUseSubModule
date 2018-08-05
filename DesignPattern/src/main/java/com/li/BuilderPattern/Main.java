@@ -1,7 +1,5 @@
 package com.li.BuilderPattern;
 
-import com.li.ObservePattern.ConcreteSubject;
-
 /**
  * @program: GradleTestUseSubModule
  * @author: Yafei Li

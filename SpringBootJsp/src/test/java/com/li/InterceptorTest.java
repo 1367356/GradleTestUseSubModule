@@ -1,7 +1,5 @@
 package com.li;
 
-import org.omg.PortableInterceptor.Interceptor;
-
 /**
  * @program: GradleTestUseSubModule
  * @author: Yafei Li

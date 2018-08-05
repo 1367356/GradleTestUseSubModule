@@ -1,7 +1,5 @@
 package com.li.chapter06;
 
-import java.io.IOException;
-import java.io.ObjectInputStream;
 import java.util.Scanner;
 
 /**

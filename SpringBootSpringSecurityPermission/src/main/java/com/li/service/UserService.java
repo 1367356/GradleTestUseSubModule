@@ -1,11 +1,7 @@
 package com.li.service;
 
 import com.li.model.User;
-import com.qingwenwei.persistence.model.User;
-import com.qingwenwei.web.dto.UserRegistrationDto;
-import com.qingwenwei.web.dto.UserSettingsDto;
 
-import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
 public interface UserService {

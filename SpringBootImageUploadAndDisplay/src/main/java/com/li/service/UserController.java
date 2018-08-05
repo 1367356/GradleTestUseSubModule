@@ -2,7 +2,6 @@ package com.li.service;
 
 import com.qingwenwei.exception.BadRequestException;
 import com.qingwenwei.exception.ResourceNotFoundException;
-import com.qingwenwei.service.UserService;
 import com.qingwenwei.util.NewUserFormValidator;
 import com.qingwenwei.web.dto.UserRegistrationDto;
 import com.qingwenwei.web.dto.UserSettingsDto;

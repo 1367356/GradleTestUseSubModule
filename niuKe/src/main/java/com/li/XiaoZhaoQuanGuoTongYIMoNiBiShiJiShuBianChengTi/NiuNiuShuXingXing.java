@@ -1,9 +1,7 @@
 package com.li.XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi;
 
 import java.io.InputStream;
-import java.util.*;
-import java.util.function.Consumer;
-import java.util.function.Function;
+import java.util.Scanner;
 
 /**
  * https://www.nowcoder.com/test/question/done?tid=16413321&qid=171003

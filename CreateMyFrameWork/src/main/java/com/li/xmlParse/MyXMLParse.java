@@ -2,10 +2,7 @@ package com.li.xmlParse;
 
 import org.springframework.core.io.ClassPathResource;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+import java.io.*;
 
 /**
  * @program: GradleTestUseSubModule
@@ -23,7 +20,22 @@ public class MyXMLParse {
 
 
     public static String parse(String methodName) throws IOException {
+
+        ClassPathResource cpr = new ClassPathResource("./MyBatisXmlFile");
+        File file = cpr.getFile();
+
+        String path = file.getPath();
+        System.out.println(path);
+        File[] files = file.listFiles();
+        for (File file1 : files) {
+            System.out.println(file1.getName());
+        }
+//
+//
+//        System.out.println(file);
+
         ClassPathResource classPathResource = new ClassPathResource("/UserMapper.xml");
+
         InputStream inputStream = classPathResource.getInputStream();
         InputStreamReader reader = new InputStreamReader(inputStream);
         BufferedReader bufferedReader = new BufferedReader(reader);

@@ -1,8 +1,5 @@
 package com.li;
 
-import java.util.Iterator;
-import java.util.List;
-
 /**
  * 根据先序遍历和中序遍历重建二叉树。
  *

@@ -2,8 +2,6 @@ package com.li;
 
 import org.junit.Test;
 
-import javax.xml.bind.annotation.XmlRootElement;
-
 /**
  * 最小的k个数。输入n个整数，找出最小的k个数。
  */

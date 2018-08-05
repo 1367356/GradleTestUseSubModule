@@ -1,13 +1,13 @@
 package test.eight;
 
+import test.four.Person;
+
 import java.util.Comparator;
 import java.util.Optional;
 import java.util.concurrent.Future;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Supplier;
-
-import test.four.Person;
 
 public class Eight {
 

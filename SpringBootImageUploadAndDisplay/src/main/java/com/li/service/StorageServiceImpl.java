@@ -3,7 +3,6 @@ package com.li.service;
 import com.qingwenwei.exception.StorageException;
 import com.qingwenwei.persistence.dao.UserMapper;
 import com.qingwenwei.persistence.model.User;
-import com.qingwenwei.service.StorageService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

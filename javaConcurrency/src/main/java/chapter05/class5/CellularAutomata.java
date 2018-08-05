@@ -1,7 +1,5 @@
 package chapter05.class5;
 
-import javafx.concurrent.Worker;
-
 import java.util.concurrent.CyclicBarrier;
 
 /**

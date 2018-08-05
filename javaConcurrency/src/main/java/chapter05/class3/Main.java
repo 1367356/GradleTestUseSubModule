@@ -1,7 +1,6 @@
 package chapter05.class3;
 
 import java.io.File;
-import java.io.FileFilter;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingDeque;
 

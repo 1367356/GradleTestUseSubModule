@@ -1,3 +1,5 @@
+import java.util.concurrent.locks.AbstractQueuedSynchronizer;
+
 /**
  * @program: GradleTestUseSubModule
  * @author: Yafei Li
@@ -8,5 +10,7 @@ public class Test4 {
         String s = "a*B";
         char c = s.charAt(1);
         System.out.println(c);
+
+        AbstractQueuedSynchronizer abstractQueuedSynchronizer;
     }
 }

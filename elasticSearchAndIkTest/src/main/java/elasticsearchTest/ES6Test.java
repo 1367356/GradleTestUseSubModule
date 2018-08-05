@@ -4,8 +4,6 @@ import org.elasticsearch.action.get.GetResponse;
 import org.elasticsearch.client.transport.TransportClient;
 import org.elasticsearch.common.settings.Settings;
 import org.elasticsearch.transport.client.PreBuiltTransportClient;
-
-import java.net.InetAddress;
 //http://blog.csdn.net/zjcjava/article/details/78659721  下载对应版本的elasticsearch和client
 public class ES6Test {
     public static void main(String[] args) {
