@@ -9,8 +9,6 @@ public class BeiBao01 {
         selectVolAsVariable();
     }
 
-
-
     /**
      * 物品可以无限次使用
      */

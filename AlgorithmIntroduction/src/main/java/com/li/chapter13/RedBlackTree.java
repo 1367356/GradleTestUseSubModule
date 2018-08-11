@@ -165,6 +165,210 @@ public class RedBlackTree {
      * @param T  红黑树
      * @param deletedNode  删除节点
      */
+    public RedBlackTree rbDeleteNode(RedBlackTree T, Node deletedNode) {
+       Node backNode=deletedNode;
+        deletedNode= T.root;
+        while (deletedNode !=T.tail) {
+            if (backNode.value < deletedNode.value) {
+                deletedNode = deletedNode.leftChild;
+            } else if(backNode.value>deletedNode.value) {
+                deletedNode = deletedNode.rightChild;
+            }else {
+                break;
+            }
+        }
+
+        if (deletedNode.color == "RED" && deletedNode.rightChild == T.tail && deletedNode.leftChild == T.tail) { //删除红色叶子节点。
+//            deletedNode=T.tail; //将删除的节点直接删除即可，也就是置为T.tail
+            if (deletedNode == deletedNode.parent.leftChild) {  //被删除节点为父节点的左孩子。
+                deletedNode.parent.leftChild=T.tail;
+                deletedNode=T.tail;
+            }else {
+                deletedNode.parent.rightChild=T.tail;
+                deletedNode=T.tail;
+            }
+            return T;
+        }
+        if (deletedNode.color == "BLACK") {  //删除的节点为黑色
+            if (deletedNode.leftChild == T.tail && deletedNode.rightChild.color == "RED") { //删除节点的左子节点为空，右子节点的颜色为红色。
+                //直接将删除节点替换为右子节点，并将右子节点设为红色。
+                if (deletedNode == deletedNode.parent.leftChild) {  //被删除节点为父节点的左孩子。
+                    deletedNode.rightChild.color = "BLACK";
+                    deletedNode.parent.leftChild=deletedNode.rightChild;
+                    deletedNode.rightChild.parent=deletedNode.parent;
+                }else {
+                    deletedNode.rightChild.color = "BLACK";
+                    deletedNode.parent.rightChild=deletedNode.rightChild;
+                    deletedNode.rightChild.parent=deletedNode.parent;
+                }
+                return T;
+            }else if(deletedNode.rightChild == T.tail && deletedNode.leftChild.color == "RED"){
+                if (deletedNode == deletedNode.parent.leftChild) {  //被删除节点为父节点的左孩子。
+                    deletedNode.leftChild.color = "BLACK";
+                    deletedNode.parent.leftChild=deletedNode.rightChild;
+                    deletedNode.leftChild.parent=deletedNode.parent;
+                }else {
+                    deletedNode.leftChild.color = "BLACK";
+                    deletedNode.parent.rightChild=deletedNode.leftChild;
+                    deletedNode.leftChild.parent=deletedNode.parent;
+                }
+                return T;
+            }
+        }
+
+        if (deletedNode.color == "BLACK") {//删除节点的孩子节点都为黑色。  分5种情况。
+                if ( deletedNode==deletedNode.parent.leftChild && deletedNode.parent.rightChild.color == "RED") {  //兄弟节点为红色，情况1  ,  操作之后变为情况4
+                    deletedNode.parent.color = "RED";
+                    deletedNode.parent.rightChild.color = "BLACK";
+                    rightRotate(T, deletedNode.parent);
+                }else if(deletedNode==deletedNode.parent.rightChild && deletedNode.parent.leftChild.color == "RED"){  //情况1
+                    deletedNode.parent.color = "RED";
+                    deletedNode.parent.leftChild.color = "BLACK";
+                    leftRotate(T, deletedNode.parent);
+                }else if(deletedNode == deletedNode.parent.leftChild && deletedNode.parent.rightChild.rightChild.color == "RED"){  //情况2,  远侄子节点为红色
+                    deletedNode.parent.rightChild.color=deletedNode.parent.color;
+                    deletedNode.parent.color = "BLACK";
+                    deletedNode.parent.rightChild.rightChild.color = "BLACK";
+                    deletedNode=T.tail;
+                    leftRotate(T,deletedNode.parent);
+                }else if(deletedNode == deletedNode.parent.rightChild && deletedNode.parent.leftChild.leftChild.color == "RED"){  //情况2
+                    deletedNode.parent.leftChild.color=deletedNode.parent.color;
+                    deletedNode.parent.color = "BLACK";
+                    deletedNode.parent.leftChild.leftChild.color = "BLACK";
+                    deletedNode=T.tail;
+                    rightRotate(T,deletedNode.parent);
+                }else if(deletedNode == deletedNode.parent.rightChild && deletedNode.parent.leftChild.rightChild.color == "RED"){  //情况3,近侄子节点为红色
+                    deletedNode.parent.leftChild.color=deletedNode.parent.color;
+                    deletedNode.parent.color = "BLACK";
+                    deletedNode.parent.leftChild.rightChild.color = "BLACK";
+                    deletedNode=T.tail;
+                    rightRotate(T,deletedNode.parent);
+                }else if(deletedNode == deletedNode.parent.leftChild && deletedNode.parent.rightChild.leftChild.color == "RED"){  //情况3,近侄子节点为红色
+                    deletedNode.parent.rightChild.color=deletedNode.parent.color;
+                    deletedNode.parent.color = "BLACK";
+                    deletedNode.parent.rightChild.leftChild.color = "BLACK";
+                    deletedNode=T.tail;
+                    leftRotate(T,deletedNode.parent);
+                }
+
+            if (deletedNode.parent.color == "RED") {  //父节点为红色，情况4
+                //将父节点变为黑色，兄弟节点变为红色，自己删除。
+                deletedNode.parent.color = "BLACK";
+                if (deletedNode == deletedNode.parent.leftChild) {
+                    deletedNode.parent.rightChild.color = "RED";
+                }else {
+                    deletedNode.parent.rightChild.color = "RED";
+                }
+                return T;
+            }
+
+            if (deletedNode.parent.color == "BLACK") {   //情况5：父亲节点p，兄弟节点s和兄弟节点的两个孩子（只能为NULL节点）都为黑色的情况
+                if (deletedNode == deletedNode.parent.leftChild) {
+                    deletedNode.parent.rightChild.color = "RED";
+                }else {
+                    deletedNode.parent.rightChild.color = "RED";
+                }
+                deletedNode=T.tail;
+
+                return rbDeleteNodeFixUp(T,deletedNode.parent);
+
+            }
+        }
+        return null;
+    }
+
+    /**
+     * 修复
+     * @param T   红黑树
+     * @param deletedNode  删除节点的父节点
+     */
+    public RedBlackTree rbDeleteNodeFixUp(RedBlackTree T,Node deletedNode) {
+        if (deletedNode.color == "BLACK") {  //删除的节点为黑色
+            if (deletedNode.leftChild == T.tail && deletedNode.rightChild.color == "RED") { //删除节点的左子节点为空，右子节点的颜色为红色。
+                //直接将删除节点替换为右子节点，并将右子节点设为红色。
+                if (deletedNode == deletedNode.parent.leftChild) {  //被删除节点为父节点的左孩子。
+                    deletedNode.rightChild.color = "BLACK";
+                    leftRotate(T,deletedNode);
+                }else {
+                    deletedNode.rightChild.color = "BLACK";
+                    rightRotate(T,deletedNode);
+                }
+                return T;
+            }else if(deletedNode.rightChild == T.tail && deletedNode.leftChild.color == "RED"){
+                if (deletedNode == deletedNode.parent.leftChild) {  //被删除节点为父节点的左孩子。
+                    deletedNode.leftChild.color = "BLACK";
+                    rightRotate(T,deletedNode);
+                }else {
+                    deletedNode.leftChild.color = "BLACK";
+                    leftRotate(T,deletedNode);
+                }
+                return T;
+            }
+        }
+
+        if (deletedNode.color == "BLACK") {//删除节点的孩子节点都为黑色。  分5种情况。
+            if ( deletedNode==deletedNode.parent.leftChild && deletedNode.parent.rightChild.color == "RED") {  //兄弟节点为红色，情况1  ,  操作之后变为情况4
+                deletedNode.parent.color = "RED";
+                deletedNode.parent.rightChild.color = "BLACK";
+                rightRotate(T, deletedNode.parent);
+            }else if(deletedNode==deletedNode.parent.rightChild && deletedNode.parent.leftChild.color == "RED"){  //情况1
+                deletedNode.parent.color = "RED";
+                deletedNode.parent.leftChild.color = "BLACK";
+                leftRotate(T, deletedNode.parent);
+            }else if(deletedNode == deletedNode.parent.leftChild && deletedNode.parent.rightChild.rightChild.color == "RED"){  //情况2,  远侄子节点为红色
+                deletedNode.parent.rightChild.color=deletedNode.parent.color;
+                deletedNode.parent.color = "BLACK";
+                deletedNode.parent.rightChild.rightChild.color = "BLACK";
+//                deletedNode=T.tail;
+                leftRotate(T,deletedNode.parent);
+            }else if(deletedNode == deletedNode.parent.rightChild && deletedNode.parent.leftChild.leftChild.color == "RED"){  //情况2
+                deletedNode.parent.leftChild.color=deletedNode.parent.color;
+                deletedNode.parent.color = "BLACK";
+                deletedNode.parent.leftChild.leftChild.color = "BLACK";
+//                deletedNode=T.tail;
+                rightRotate(T,deletedNode.parent);
+            }else if(deletedNode == deletedNode.parent.rightChild && deletedNode.parent.leftChild.rightChild.color == "RED"){  //情况3,近侄子节点为红色
+                deletedNode.parent.leftChild.color=deletedNode.parent.color;
+                deletedNode.parent.color = "BLACK";
+                deletedNode.parent.leftChild.rightChild.color = "BLACK";
+//                deletedNode=T.tail;
+                rightRotate(T,deletedNode.parent);
+            }else if(deletedNode == deletedNode.parent.leftChild && deletedNode.parent.rightChild.leftChild.color == "RED"){  //情况3,近侄子节点为红色
+                deletedNode.parent.rightChild.color=deletedNode.parent.color;
+                deletedNode.parent.color = "BLACK";
+                deletedNode.parent.rightChild.leftChild.color = "BLACK";
+//                deletedNode=T.tail;
+                leftRotate(T,deletedNode.parent);
+            }
+
+            if (deletedNode.parent.color == "RED") {  //父节点为红色，情况4
+                //将父节点变为黑色，兄弟节点变为红色，自己删除。
+                deletedNode.parent.color = "BLACK";
+                if (deletedNode == deletedNode.parent.leftChild) {
+                    leftRotate(T,deletedNode.parent);
+                }else {
+                    rightRotate(T,deletedNode.parent);
+                }
+                return T;
+            }
+
+            if (deletedNode.parent.color == "BLACK") {   //情况5：父亲节点p，兄弟节点s和兄弟节点的两个孩子（只能为NULL节点）都为黑色的情况
+                return rbDeleteNodeFixUp(T,deletedNode.parent);
+
+            }
+        }
+        return null;
+    }
+
+
+
+
+
+    /**
+     * 红黑树删除,  来自算法导论
+     * @param T  红黑树
+     * @param deletedNode  删除节点
+     */
     public void rbDelete(RedBlackTree T, Node deletedNode) {
         Node y=deletedNode;  //复制deletedNode
         y.originalColor=y.color;

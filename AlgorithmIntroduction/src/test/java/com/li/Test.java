@@ -43,4 +43,8 @@ public class Test {
             System.out.println(arrayList.get(i));
         }
     }
+
+    public void deleteInt(List<Integer> list) {
+        list.remove(0);
+    }
 }

@@ -1,5 +1,7 @@
 import java.util.Date;
 import java.util.Deque;
+import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @program: GradleTestUseSubModule
@@ -14,6 +16,9 @@ public static void main(String[] args){
     Deque deque;//双端队列，工作密取。
 
     Integer integer;
+
+    HashMap map;
+    ConcurrentHashMap concurrentHashMap;
 
     StringBuffer stringBuffer;
 }

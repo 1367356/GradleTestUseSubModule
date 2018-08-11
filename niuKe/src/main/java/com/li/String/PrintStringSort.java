@@ -8,7 +8,7 @@ package com.li.String;
  **/
 public class PrintStringSort {
     public static void main(String[] args){
-        String str="abc";
+        String str="abcd";
         char[] chars = str.toCharArray();
         int low=0;
 

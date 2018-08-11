@@ -1,5 +1,9 @@
 package com.li.chapter12;
 
+import org.junit.Test;
+
+import java.util.Stack;
+
 /**
  * @program: GradleTestUseSubModule
  * @author: Yafei Li
@@ -13,6 +17,7 @@ public class ErChaSouSuoShu {
         Node leftChild,rightChild,parentNode;  //左子节点，右子节点，父节点
     }
 
+    Node root=createErChaSouSuoShu();
     /**
      * 创建二叉搜索树
      * @return
@@ -100,11 +105,17 @@ public class ErChaSouSuoShu {
                         Node minimumNode = minimumNode(root.rightChild);  //右子树的最小节点，取代删除节点的位置
 
                         minimumNode.parentNode.leftChild=minimumNode.rightChild;   //将最小节点的右节点放到最下节点父节点的左节点处。
+                        minimumNode.rightChild.parentNode=minimumNode.parentNode;
+
                         minimumNode.rightChild=root.rightChild;  //最小节点的右节点为删除节点的右节点
+                        root.rightChild.parentNode=minimumNode;
+
                         if (root.parentNode.leftChild == root) {  //如果删除的节点是父节点的左子节点，那么将父节点的左子节点指向代替root的值
                             root.parentNode.leftChild=minimumNode;  //最小节点放到删除节点父节点的左孩子节点处
+                            minimumNode.parentNode=root.parentNode;
                         }else {
                             root.parentNode.rightChild=minimumNode;//最小节点放到删除节点父节点的右孩子节点处
+                            minimumNode.parentNode=root.parentNode;
                         }
                     }
                 }
@@ -136,6 +147,36 @@ public class ErChaSouSuoShu {
             mediumOrder(node.rightChild);
         }
     }
+
+    /**
+     * 使用前序遍历打印搜索二叉树中节点的值，迭代器实现
+     */
+    public void iteratorTraversal(Node node, Stack<Node> stack) {
+        Node currentNode=node;
+        while (currentNode != null) {
+            System.out.println(currentNode.key);
+            if (currentNode.rightChild != null) {
+                stack.push(currentNode.rightChild);
+            }
+            currentNode = currentNode.leftChild;
+        }
+    }
+   //迭代实现前序遍历
+    @Test
+    public void preorderTraverse() {
+        Stack<Node> stack=new Stack<>();
+        Node currentNode = createErChaSouSuoShu();
+
+        while (true) {
+            iteratorTraversal(currentNode, stack);
+            if (stack.isEmpty()) {
+                break;
+            }
+            currentNode=stack.pop();
+        }
+    }
+
+
 
     public static void main(String[] args){
         ErChaSouSuoShu erChaSouSuoShu=new ErChaSouSuoShu();
