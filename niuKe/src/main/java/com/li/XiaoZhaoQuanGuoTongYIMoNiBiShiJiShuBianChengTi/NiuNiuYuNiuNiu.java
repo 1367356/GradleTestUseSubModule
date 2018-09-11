@@ -15,7 +15,7 @@ public class NiuNiuYuNiuNiu {
     public static void main(String[] args){
         NiuNiuYuNiuNiu niuNiuYuNiuNiu=new NiuNiuYuNiuNiu();
         Class clazz = niuNiuYuNiuNiu.getClass();
-        InputStream ins = clazz.getResourceAsStream("/data2.txt");
+        InputStream ins = clazz.getResourceAsStream("/zhongxing/data2.txt");
         Scanner scanner = new Scanner(ins);
         
         int[] arr = new int[13];

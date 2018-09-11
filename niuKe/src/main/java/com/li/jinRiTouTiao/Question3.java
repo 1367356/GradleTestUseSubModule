@@ -39,7 +39,7 @@ public class Question3 {
         }
 
         int[][] maxb = new int[n][n];
-//        maxb[0][0] = b[0];
+//        maxb[0][0] = n[0];
         for (int i = 0; i < n; i++) {
             maxb[i][i]=b[i];
         }

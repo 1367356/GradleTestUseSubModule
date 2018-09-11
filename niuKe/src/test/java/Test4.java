@@ -7,7 +7,7 @@ import java.util.concurrent.locks.AbstractQueuedSynchronizer;
  **/
 public class Test4 {
     public static void main(String[] args){
-        String s = "a*B";
+        String s = "m*B";
         char c = s.charAt(1);
         System.out.println(c);
 

@@ -14,7 +14,7 @@ import java.util.*;
 数据范围：
 1 <= N <= 50
 1 <= M <= 50
-字符串只包含小写英文字母(a-z)。
+字符串只包含小写英文字母(m-z)。
 输出描述:
 若有球王，则输出一行仅包含一个整数 X，表示编号为 X (0 <= X < N) 的候选球星是球王；
 若没有球王，则输出一行仅包含一个整数 -1 。
@@ -23,7 +23,7 @@ public class Main4 {
     public static void main(String[] args){
         Main4 main=new Main4();
         Class clazz = main.getClass();
-        InputStream ins = clazz.getResourceAsStream("/data5.txt");
+        InputStream ins = clazz.getResourceAsStream("/zhongxing/data5.txt");
         Scanner scanner = new Scanner(ins);
 
 //        int N=scanner.nextInt();

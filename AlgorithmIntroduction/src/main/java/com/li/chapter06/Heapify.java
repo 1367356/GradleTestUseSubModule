@@ -10,7 +10,7 @@ public class Heapify {
 
     public static void main(String[] args){
         Heapify heapify=new Heapify();
-        int[] arr = {2, 3, 4, 32, 2, 54, 7, 32, 20};
+        int[] arr = {1,3,4,8,11,14};
 //        int[] arr = {4, 3, 5};
         heapify.buildMaxHeapify(arr);
         IntStream stream = Arrays.stream(arr);

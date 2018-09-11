@@ -1,3 +1,5 @@
+import java.nio.channels.Selector;
+import java.nio.channels.spi.SelectorProvider;
 import java.util.Date;
 import java.util.Deque;
 import java.util.HashMap;
@@ -21,5 +23,8 @@ public static void main(String[] args){
     ConcurrentHashMap concurrentHashMap;
 
     StringBuffer stringBuffer;
+
+    Selector selector;
+    SelectorProvider selectorProvider;
 }
 }

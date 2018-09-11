@@ -1,0 +1,8 @@
+2
+2 2
+C B
+W C
+3 3
+W C Y
+W b R
+W Y W

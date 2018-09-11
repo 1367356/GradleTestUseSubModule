@@ -119,7 +119,7 @@ public class RedBlackTree {
      * @param node
      */
     public void insertFixedUp(RedBlackTree T, Node node) {
-        while (node.parent.color == "RED") {  //父节点为红，  父节点为黑时，不用处理，不会违反性质。
+        while (node.parent.color == "RED") {  //父节点为红。  如果父节点为黑时，不用处理，不会违反性质。
             if (node.parent == node.parent.parent.leftChild) {  //插入节点的父节点是左孩子
                 Node uncleNode=node.parent.parent.rightChild;// 叔节点
                 if (uncleNode.color == "RED") {    //情况1.

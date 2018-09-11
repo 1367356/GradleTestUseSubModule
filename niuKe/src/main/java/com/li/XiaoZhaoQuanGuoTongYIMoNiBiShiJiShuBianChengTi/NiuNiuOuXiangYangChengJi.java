@@ -13,7 +13,7 @@ public class NiuNiuOuXiangYangChengJi {
     public static void main(String[] args){
         NiuNiuYuNiuNiu niuNiuYuNiuNiu=new NiuNiuYuNiuNiu();
         Class clazz = niuNiuYuNiuNiu.getClass();
-        InputStream ins = clazz.getResourceAsStream("/data3.txt");
+        InputStream ins = clazz.getResourceAsStream("/zhongxing/data3.txt");
         Scanner scanner = new Scanner(ins);
 
         int n = scanner.nextInt();  //n
@@ -41,8 +41,8 @@ public class NiuNiuOuXiangYangChengJi {
             });
             map.putIfAbsent(i0, i1+i0);
         }
-//        set.parallelStream().sorted((a,b)->{
-//           return a>b?0:1;
+//        set.parallelStream().sorted((m,n)->{
+//           return m>n?0:1;
 //        });
         Iterator<Integer> sets = set.iterator();
         int startTime=sets.next();
