@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Question4 {
     public static void main(String[] args){
         Class clazz = Question4.class.getClass();
-        InputStream ins = Question4.class.getResourceAsStream("/jinRiTouTiao/question4.txt");
+        InputStream ins = Question4.class.getResourceAsStream("/month9day16/jinRiTouTiao/question4.txt");
         Scanner scanner = new Scanner(ins);
 
         String s = scanner.nextLine();

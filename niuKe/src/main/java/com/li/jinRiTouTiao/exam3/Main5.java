@@ -13,7 +13,7 @@ import java.util.*;
 public class Main5 {
     public static void main(String[] args){
         Class clazz = Main5.class.getClass();
-        InputStream ins = clazz.getResourceAsStream("/jinRiTouTiao/exam3/question5.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/jinRiTouTiao/exam3/question5.txt");
         Scanner scanner = new Scanner(ins);
         int N = scanner.nextInt();
         int M=scanner.nextInt();

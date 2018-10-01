@@ -28,7 +28,7 @@ public class NiuNiuYuShiJieBeiMenPiao {
         /**
          * txt文件中，例如  1 2 4 8 8    1是起始节点，2 相邻节点，4是1,2之间的权重，8是相邻节点，8是1,8之间的权重。
          */
-        InputStream ins = clazz.getResourceAsStream("/zhongxing/data.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/zhongxing/data.txt");
         Scanner scanner = new Scanner(ins);
 
         int n = scanner.nextInt();  //n个小伙伴，共n+1个人

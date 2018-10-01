@@ -16,7 +16,7 @@ public class Main2 {
 
         Main main1=new Main();
         Class clazz = main1.getClass();
-        InputStream Systemin = clazz.getResourceAsStream("/xiecheng/data2.txt");
+        InputStream Systemin = clazz.getResourceAsStream("/month9day16/xiecheng/data2.txt");
         Scanner scanner = new Scanner(Systemin);
 
         String s=scanner.nextLine();

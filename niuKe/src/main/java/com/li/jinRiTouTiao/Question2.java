@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Question2 {
     public static void main(String[] args){
         Class clazz = Question2.class.getClass();
-        InputStream ins = clazz.getResourceAsStream("/jinRiTouTiao/question2.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/jinRiTouTiao/question2.txt");
         Scanner scanner = new Scanner(ins);
 
         String s = scanner.nextLine();

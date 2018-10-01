@@ -13,7 +13,7 @@ public class ChengShiWangLuo {
     public static void main(String[] args){
         ChengShiWangLuo chengShiWangLuo=new ChengShiWangLuo();
         Class clazz = chengShiWangLuo.getClass();
-        InputStream ins = clazz.getResourceAsStream("/zhongxing/data3.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/zhongxing/data3.txt");
         Scanner scanner = new Scanner(ins);
 
     }

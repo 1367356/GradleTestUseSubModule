@@ -15,7 +15,7 @@ public class Main2{
 
         Main2 niuNiuYuNiuNiu=new Main2();
         Class clazz = niuNiuYuNiuNiu.getClass();
-        InputStream Systemin = clazz.getResourceAsStream("/baichizan/data3.txt");
+        InputStream Systemin = clazz.getResourceAsStream("/month9day16/baichizan/data3.txt");
         Scanner sc = new Scanner(Systemin);
 
         String s = longestPalindrome(sc.nextLine());

@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class ThoughtWorksJob {
     public static void main(String[] args){
         ThoughtWorksJob thoughtWorksJob=new ThoughtWorksJob();
-        InputStream ins = thoughtWorksJob.getClass().getResourceAsStream("/zhongxing/test.txt");
+        InputStream ins = thoughtWorksJob.getClass().getResourceAsStream("/month9day16/zhongxing/test.txt");
         Scanner scanner = new Scanner(ins);
 
 //        Scanner scanner = new Scanner(System.in);

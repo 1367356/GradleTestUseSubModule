@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Main4 {
     public static void main(String[] args){
         Class clazz = Main4.class.getClass();
-        InputStream ins = clazz.getResourceAsStream("/jinRiTouTiao/exam3/question4.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/jinRiTouTiao/exam3/question4.txt");
         Scanner scanner = new Scanner(ins);
         int Num = scanner.nextInt();
         int[] arrs = new int[Num];

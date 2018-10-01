@@ -14,7 +14,7 @@ public class Question2 {
 
         Class clazz = Question2.class.getClass();
 
-        InputStream ins = clazz.getResourceAsStream("/wangYi/question2.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/wangYi/question2.txt");
         Scanner scanner = new Scanner(ins);
 
         int n=scanner.nextInt();

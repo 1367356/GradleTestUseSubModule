@@ -12,7 +12,7 @@ public class Main3 {
 
         Main3 niuNiuYuNiuNiu=new Main3();
         Class clazz = niuNiuYuNiuNiu.getClass();
-        InputStream Systemin = clazz.getResourceAsStream("/baichizan/data3.txt");
+        InputStream Systemin = clazz.getResourceAsStream("/month9day16/baichizan/data3.txt");
         Scanner sc = new Scanner(Systemin);
             int max=0;//记录最大值
             int x=0;//记录原位置的下标

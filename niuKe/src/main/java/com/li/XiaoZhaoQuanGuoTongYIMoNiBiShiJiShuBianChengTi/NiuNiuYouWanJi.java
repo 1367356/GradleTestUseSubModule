@@ -24,7 +24,7 @@ public class NiuNiuYouWanJi {
 
     public void test() {
         Class clazz = this.getClass();
-        InputStream ins = clazz.getResourceAsStream("/zhongxing/data1.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/zhongxing/data1.txt");
         Scanner scanner = new Scanner(ins);
         String s1 = scanner.nextLine();
         int n = Integer.parseInt(s1);

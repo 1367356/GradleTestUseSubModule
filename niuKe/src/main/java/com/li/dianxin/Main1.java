@@ -7,7 +7,7 @@ public class Main1{
 
     public static void main(String[] args) {
         Class clazz = com.li.jingdong.Main1.class.getClass();
-        InputStream Systemin = clazz.getResourceAsStream("/dianxin/main1.txt");
+        InputStream Systemin = clazz.getResourceAsStream("/month9day16/dianxin/main1.txt");
         Scanner scanner = new Scanner(Systemin);
         String  line=scanner.nextLine();
         String[] split = line.split(" ");

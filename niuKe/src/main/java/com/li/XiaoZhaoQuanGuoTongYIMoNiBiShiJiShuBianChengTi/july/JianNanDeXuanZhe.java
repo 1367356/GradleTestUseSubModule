@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class JianNanDeXuanZhe {
     public static void main(String[] args){
         Class clazz = JianNanDeXuanZhe.class.getClass();
-        InputStream ins = clazz.getResourceAsStream("/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/JianNanDeXuanZhe.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/JianNanDeXuanZhe.txt");
 
         Scanner scanner = new Scanner(ins);
 

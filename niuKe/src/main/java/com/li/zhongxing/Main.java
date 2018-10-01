@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args){
         Main main1=new Main();
         Class clazz = main1.getClass();
-        InputStream Systemin = clazz.getResourceAsStream("/zhongxing/data1.txt");
+        InputStream Systemin = clazz.getResourceAsStream("/month9day16/zhongxing/data1.txt");
         Scanner scanner = new Scanner(Systemin);
         int n = scanner.nextInt();
         int cap=scanner.nextInt();

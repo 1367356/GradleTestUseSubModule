@@ -7,7 +7,7 @@ public class Main2 {
     public static void main(String[] args){
         Main2 main1=new Main2();
         Class clazz = main1.getClass();
-        InputStream Systemin = clazz.getResourceAsStream("/meituan/data2");
+        InputStream Systemin = clazz.getResourceAsStream("/month9day16/meituan/data2");
         Scanner scanner = new Scanner(Systemin);
 
         int n=scanner.nextInt();

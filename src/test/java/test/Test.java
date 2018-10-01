@@ -1,15 +1,20 @@
 package test;
 
 public class Test {
-    public void test1() throws ClassNotFoundException, IllegalAccessException, InstantiationException {
-        Class.forName("Test");
-//        Test test=new Test();
-//
-//        new Test().getClass().newInstance();
-//        Test[] tests = new Test[2];
+
+    Test() {
+        System.out.println("test");
+    }
+    {
+        System.out.println("constructor");
     }
 
     public static void main(String[] args){
 
     }
+
+    static class A {
+        static String Hello="hello";
+    }
 }
+

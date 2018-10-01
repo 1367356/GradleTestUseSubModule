@@ -25,7 +25,7 @@ public class Main {
     public static void main(String[] args){
         Main main=new Main();
         Class clazz = main.getClass();
-        InputStream ins = clazz.getResourceAsStream("/zhongxing/data5.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/zhongxing/data5.txt");
         Scanner scanner = new Scanner(ins);
 
 //        int N=scanner.nextInt();

@@ -30,7 +30,7 @@ public class Xor {
 
         Xor main1=new Xor();
         Class clazz = main1.getClass();
-        InputStream Systemin = clazz.getResourceAsStream("/didi/data1.txt");
+        InputStream Systemin = clazz.getResourceAsStream("/month9day16/didi/data1.txt");
         Scanner scanner=new Scanner(Systemin);
         int n=scanner.nextInt();
         Map<Integer,Integer> map=new HashMap();

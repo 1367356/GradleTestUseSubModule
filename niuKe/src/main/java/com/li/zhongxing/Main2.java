@@ -11,7 +11,7 @@ public class Main2 {
     public static void main(String[] args){
         Main2 main1=new Main2();
         Class clazz = main1.getClass();
-        InputStream Systemin = clazz.getResourceAsStream("/zhongxing/data2.txt");
+        InputStream Systemin = clazz.getResourceAsStream("/month9day16/zhongxing/data2.txt");
         Scanner scanner = new Scanner(Systemin);
 
         char[] chars = {'a', 'd', 'r'};

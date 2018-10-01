@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class NumberCompare {
     public static void main(String[] args) {
         Class clazz = JianNanDeXuanZhe.class.getClass();
-        InputStream ins = clazz.getResourceAsStream("/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NumberCompare.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NumberCompare.txt");
 
         Scanner scanner = new Scanner(ins);
 

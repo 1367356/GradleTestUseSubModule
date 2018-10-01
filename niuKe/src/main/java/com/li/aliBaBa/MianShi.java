@@ -12,7 +12,7 @@ public class MianShi {
     public static void main(String[] args){
         MianShi mianShi=new MianShi();
         Class clazz = mianShi.getClass();
-        InputStream ins = clazz.getResourceAsStream("/zhongxing/data4.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/zhongxing/data4.txt");
         Scanner scanner = new Scanner(ins);
 
         int n = scanner.nextInt();  //n

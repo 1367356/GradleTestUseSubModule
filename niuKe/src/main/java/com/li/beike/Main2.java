@@ -12,7 +12,7 @@ public class Main2 {
     public static void main(String[] args){
         Main niuNiuYuNiuNiu=new Main();
         Class clazz = niuNiuYuNiuNiu.getClass();
-        InputStream ins = clazz.getResourceAsStream("/zhongxing/data.txt");
+        InputStream ins = clazz.getResourceAsStream("/month9day16/zhongxing/data.txt");
         Scanner scanner = new Scanner(ins);
 
         int n=scanner.nextInt();

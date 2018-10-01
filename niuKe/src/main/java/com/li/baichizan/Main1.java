@@ -56,7 +56,7 @@ public class Main1 {
     public static void main(String[] args) {
         Main2 niuNiuYuNiuNiu=new Main2();
         Class clazz = niuNiuYuNiuNiu.getClass();
-        InputStream Systemin = clazz.getResourceAsStream("/baichizan/data1.txt");
+        InputStream Systemin = clazz.getResourceAsStream("/month9day16/baichizan/data1.txt");
         Scanner scanner = new Scanner(Systemin);
 
         String num1 = scanner.nextLine();

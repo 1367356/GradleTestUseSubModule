@@ -12,7 +12,7 @@ public class Main5 {
     public static void main(String[] args){
         Main5 main1=new Main5();
         Class clazz = main1.getClass();
-        InputStream Systemin = clazz.getResourceAsStream("/haoweilai/main5");
+        InputStream Systemin = clazz.getResourceAsStream("/month9day16/haoweilai/main5");
         Scanner scanner = new Scanner(Systemin);
 
         int N=100;

@@ -9,180 +9,316 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0e3b5ae-7ba6-4e94-a06c-a1a4a86c90c0" name="Default" comment="ExecutorService构建多线程生产者消费者">
-      <change beforePath="" afterPath="$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/sortAlgorithm/Sort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/comparableAndComparator/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ThinkingInJava/src/main/java/functionExecutionSequence/ClassA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/two/LinkedListContainCircle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/main/java/two/UglyNumber.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/codingForOffer/src/test/java/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter06/TestLock.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/chapter13/ReentrantLockCompareSynchronized.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/synchronizedAndReentrantLock/LockDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/synchronizedAndReentrantLock/SynDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/javaConcurrency/src/main/java/synchronizedAndReentrantLock/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/beike/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/beike/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/beike/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/dianxin/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/didi/Xor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main6.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/huawei/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/huawei/Question1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/huawei/Question3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/PrintLeftView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam2/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam2/Question4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/keDaXunFei/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/keDaXunFei/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/keDaXunFei/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/DFS.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/tujia/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/xiecheng/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/xiecheng/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/xiecheng/OtherMain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/xiecheng/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhongxing/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhongxing/Main2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/dianxin/main1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/didi/data1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/haikang/data1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/haikang/data2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/haikang/data3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main1" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main5" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main6" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question4.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question5.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/question4.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/question5.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/question6.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main4.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/kedaxunfei/data1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/meituan/data2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/meituan/data3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/shangtang/data1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/shangtang/data2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/shangtang/data3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/tujia/main" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/xiecheng/data1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/xiecheng/data2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/zhaoyin/data1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/zhaoyin/data2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/zhaoyin/data3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/DownLoadLargeFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/FtpClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/FtpServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/MultiplyThreadDownThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/ftpDown.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/didi/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/fenghuo/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/huawei/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/huawei/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/huawei/Main3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/migu/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BplusNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BplusTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/tengxun/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/tengxun/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/tengxun/Main3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/aiqiyi/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/aiqiyi/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/aiqiyi/Main3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main4.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/duxiaoman/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/duxiaoman/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/sina/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/sina/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/sina/Main3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/souhu/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/souhu/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/souhu/Main3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangyihuyu/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangyihuyu/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangyihuyu/Main3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/xunlei/Main1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/xunlei/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/xunlei/Main3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/fenghuo/data1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/huawei/data1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/huawei/data2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/huawei/data3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/migu/data1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/aiqiyi/data1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/aiqiyi/data2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/aiqiyi/data3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/baichizan/data1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/baichizan/data2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/baichizan/data3.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/duxiaoman/data1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/duxiaoman/data2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/haikang/data1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/sina/data1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/sina/data2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/sina/data3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/souhu/data1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/souhu/data2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/souhu/data3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/wangyihuyu/data1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/xunlei/main1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/xunlei/main2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/xunlei/main3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/pingCap/data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/pingCap/insertData" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/pingCap/searchData" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/tengxun/data1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/tengxun/data3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/test/java/GenerateData.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/test/java/Single.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/niuKe/src/test/java/Test5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/test/Test1.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SpringBootFtp/SpringBootFtp_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/SpringBootFtp/SpringBootFtp_main.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmIntroduction/out/production/classes/com/li/chapter06/Heapify.class" afterPath="$PROJECT_DIR$/AlgorithmIntroduction/out/production/classes/com/li/chapter06/Heapify.class" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmIntroduction/out/production/classes/com/li/chapter12/ErChaSouSuoShu.class" afterPath="$PROJECT_DIR$/AlgorithmIntroduction/out/production/classes/com/li/chapter12/ErChaSouSuoShu.class" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/chapter06/Heapify.java" afterPath="$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/chapter06/Heapify.java" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/chapter13/RedBlackTree.java" afterPath="$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/chapter13/RedBlackTree.java" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter17/class02/CollectionDataGeneration.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter17/class02/CollectionDataGeneration.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class07/BinaryFile.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class07/BinaryFile.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/ChannelCopy.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/ChannelCopy.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/FileLocking.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/FileLocking.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/GetChannel.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/GetChannel.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/GetData.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/GetData.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/LargemappedFiles.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/LargemappedFiles.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/LockingMappedFiles$LockAndModify.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/LockingMappedFiles$LockAndModify.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/LockingMappedFiles.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/LockingMappedFiles.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/TransferTo.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class10/TransferTo.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class12/Logon.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class12/Logon.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class12/ThawAlien.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class12/ThawAlien.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class13/People.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class13/People.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class13/Person.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter18/class13/Person.class" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter20/class02/UseCaseTracker.class" afterPath="$PROJECT_DIR$/ThinkingInJava/out/production/classes/chapter20/class02/UseCaseTracker.class" />
-      <change beforePath="$PROJECT_DIR$/codingForOffer/out/production/classes/two/ErChaShuBianLi.class" afterPath="$PROJECT_DIR$/codingForOffer/out/production/classes/two/ErChaShuBianLi.class" />
+      <change beforePath="$PROJECT_DIR$/SpringBootFtp/out/production/classes/com/li/ftpController/FtpController.class" afterPath="$PROJECT_DIR$/SpringBootFtp/out/production/classes/com/li/ftpController/FtpController.class" />
+      <change beforePath="$PROJECT_DIR$/SpringBootFtp/out/production/classes/com/li/ftpController/FtpUtil.class" afterPath="$PROJECT_DIR$/SpringBootFtp/out/production/classes/com/li/ftpController/FtpUtil.class" />
+      <change beforePath="$PROJECT_DIR$/SpringBootFtp/out/production/classes/com/li/utils/CreateDirctory.class" afterPath="$PROJECT_DIR$/SpringBootFtp/out/production/classes/com/li/utils/CreateDirctory.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuOuXiangYangChengJi.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuOuXiangYangChengJi.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuShuXingXing.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuShuXingXing.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYouWanJi.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYouWanJi.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYuNiuNiu.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYuNiuNiu.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYuShiJieBeiMenPiao.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYuShiJieBeiMenPiao.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/july/JianNanDeXuanZhe.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/july/JianNanDeXuanZhe.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/july/NumberCompare.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/july/NumberCompare.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/aliBaBa/MianShi.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/aliBaBa/MianShi.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/baichizan/Main1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/baichizan/Main1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/baichizan/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/baichizan/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/baichizan/Main3.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/baichizan/Main3.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/beike/Main.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/beike/Main.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/beike/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/beike/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/biTeDaLu/Question1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/biTeDaLu/Question1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/dianxin/Main1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/dianxin/Main1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/didi/Xor.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/didi/Xor.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/exam360/Main.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/exam360/Main.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/exam360/Main1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/exam360/Main1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/exam360/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/exam360/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/exam360/Main3.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/exam360/Main3.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haikangweishi/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haikangweishi/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haikangweishi/Main3.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haikangweishi/Main3.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haoweilai/Main1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haoweilai/Main1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haoweilai/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haoweilai/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haoweilai/Main3.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haoweilai/Main3.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haoweilai/Main4.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haoweilai/Main4.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haoweilai/Main5.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/haoweilai/Main5.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/Question1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/Question1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/Question2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/Question2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/Question3.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/Question3.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/exam2/Question4.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/exam2/Question4.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/exam3/Main1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/exam3/Main1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/exam3/Main4.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/exam3/Main4.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/exam3/Main5.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jinRiTouTiao/exam3/Main5.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jingdong/Main1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/jingdong/Main1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/keDaXunFei/Main1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/keDaXunFei/Main1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/keDaXunFei/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/keDaXunFei/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/meiTuan/DFS.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/meiTuan/DFS.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/meiTuan/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/meiTuan/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/meiTuan/Main3.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/meiTuan/Main3.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/meiTuan/bianChengDaSai/ChengShiWangLuo.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/meiTuan/bianChengDaSai/ChengShiWangLuo.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/pinDuoDuo/Main.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/pinDuoDuo/Main.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/pinDuoDuo/Main3.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/pinDuoDuo/Main3.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/pinDuoDuo/Main4.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/pinDuoDuo/Main4.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/shangtang/Main1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/shangtang/Main1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/shangtang/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/shangtang/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/shangtang/Main3.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/shangtang/Main3.class" />
       <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/thoughtWork/ThoughtWorksJob.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/thoughtWork/ThoughtWorksJob.class" />
-      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/data.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/data1.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/data2.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/data3.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/data4.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/data5.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/test.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/OPPO/MinimumStep.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/OPPO/MinimumStep.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/tujia/Main1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/tujia/Main1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/wangYi/Question1.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/wangYi/Question1.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/wangYi/Question2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/wangYi/Question2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/wangYi/Question3.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/wangYi/Question3.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/xiecheng/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/xiecheng/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/zhaoyinwangluo/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/zhaoyinwangluo/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/zhaoyinwangluo/Main3.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/zhaoyinwangluo/Main3.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/zhongxing/Main.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/zhongxing/Main.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/zhongxing/Main2.class" afterPath="$PROJECT_DIR$/niuKe/out/production/classes/com/li/zhongxing/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/JianNanDeXuanZhe.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/KuoHaoPiPei.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NumberCompare.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/baichizan/data1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/baichizan/data2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/baichizan/data3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/biTeDaLu/data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/biTeDaLu/question1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/dianxin/main1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/didi/data1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/haikang/data1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/haikang/data2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/haikang/data3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/haoweilai/main1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/haoweilai/main2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/haoweilai/main3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/haoweilai/main4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/haoweilai/main5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/haoweilai/main6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/exam3/question1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/exam3/question2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/exam3/question3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/exam3/question4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/exam3/question5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/question1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/question2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/question3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/question4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/question5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jinRiTouTiao/question6.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jingdong/main1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jingdong/main2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jingdong/main3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/jingdong/main4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/kedaxunfei/data1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/kedaxunfei/data2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/meituan/data1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/meituan/data2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/meituan/data3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/shangtang/data1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/shangtang/data2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/shangtang/data3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/tujia/main" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/wangYi/data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/wangYi/question1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/wangYi/question2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/wangYi/question3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/xiecheng/data1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/xiecheng/data2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/zhaoyin/data1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/zhaoyin/data2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/zhaoyin/data3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/zhongxing/data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/zhongxing/data1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/zhongxing/data2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/zhongxing/data3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/zhongxing/data4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/zhongxing/data5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/out/production/resources/zhongxing/test.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuOuXiangYangChengJi.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuOuXiangYangChengJi.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuShuXingXing.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuShuXingXing.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYouWanJi.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYouWanJi.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYuNiuNiu.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYuNiuNiu.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYuShiJieBeiMenPiao.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NiuNiuYuShiJieBeiMenPiao.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/july/JianNanDeXuanZhe.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/july/JianNanDeXuanZhe.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/july/NumberCompare.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/july/NumberCompare.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/aliBaBa/MianShi.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/aliBaBa/MianShi.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main3.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main3.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/beike/Main.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/beike/Main.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/beike/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/beike/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/biTeDaLu/Question1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/biTeDaLu/Question1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/dianxin/Main1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/dianxin/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/didi/Xor.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/didi/Xor.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/exam360/Main3.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main3.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main3.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main4.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main4.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main5.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/haoweilai/Main5.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/Question1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/Question1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/Question2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/Question2.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/Question3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/Question3.java" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/ShouChuan.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/ShouChuan.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam2/Question4.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam2/Question4.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main4.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main4.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main5.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main5.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/keDaXunFei/Main1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/keDaXunFei/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/keDaXunFei/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/keDaXunFei/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/DFS.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/DFS.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/Main3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/Main3.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/bianChengDaSai/ChengShiWangLuo.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/bianChengDaSai/ChengShiWangLuo.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/pinDuoDuo/Main.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/pinDuoDuo/Main.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/pinDuoDuo/Main3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/pinDuoDuo/Main3.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/pinDuoDuo/Main4.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/pinDuoDuo/Main4.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main3.java" />
       <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/thoughtWork/ThoughtWorksJob.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/thoughtWork/ThoughtWorksJob.java" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/data.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/data1.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/data2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/kedaxunfei/data2.txt" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/data3.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data3.txt" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/data4.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data4.txt" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/data5.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data5.txt" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/test.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/test.txt" />
-      <change beforePath="$PROJECT_DIR$/niuKe/src/test/java/Test4.java" afterPath="$PROJECT_DIR$/niuKe/src/test/java/Test4.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test.java" afterPath="$PROJECT_DIR$/src/main/java/Test.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/Question1.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/Question1.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/Question2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/Question2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/Question3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangYi/Question3.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/xiecheng/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/xiecheng/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main3.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main3.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhongxing/Main.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhongxing/Main.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhongxing/Main2.java" afterPath="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhongxing/Main2.java" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/JianNanDeXuanZhe.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/JianNanDeXuanZhe.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/KuoHaoPiPei.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/KuoHaoPiPei.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NumberCompare.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/XiaoZhaoQuanGuoTongYIMoNiBiShiJiShuBianChengTi/NumberCompare.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/tengxun/data2" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/biTeDaLu/data.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/biTeDaLu/data.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/biTeDaLu/question1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/biTeDaLu/question1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/dianxin/main1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/dianxin/main1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/didi/data1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/didi/data1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/haikang/data1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/didi/data1" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/haikang/data2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/haikang/data2.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/haikang/data3.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/haikang/data3.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main1" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/haoweilai/main1" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main2" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/haoweilai/main2" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main3" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/haoweilai/main3" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main4" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/haoweilai/main4" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main5" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/haoweilai/main5" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/haoweilai/main6" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/haoweilai/main6" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/exam3/question1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/exam3/question2.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question3.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/exam3/question3.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question4.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/exam3/question4.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question5.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/exam3/question5.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/question1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/question1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/question2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/question2.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/question3.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/question3.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/question4.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/question4.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/question5.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/question5.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/question6.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jinRiTouTiao/question6.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jingdong/main1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jingdong/main2.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main3.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jingdong/main3.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main4.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/jingdong/main4.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/kedaxunfei/data1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/kedaxunfei/data1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/kedaxunfei/data2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/kedaxunfei/data2.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/meituan/data1" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/meituan/data1" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/meituan/data2" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/meituan/data2" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/meituan/data3" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/meituan/data3" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/shangtang/data1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/shangtang/data1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/shangtang/data2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/shangtang/data2.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/shangtang/data3.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/shangtang/data3.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/tujia/main" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/tujia/main" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/wangYi/data.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/wangYi/data.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/wangYi/question1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/wangYi/question1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/wangYi/question2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/wangYi/question2.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/wangYi/question3.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/wangYi/question3.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/xiecheng/data1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/xiecheng/data1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/xiecheng/data2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/xiecheng/data2.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/zhaoyin/data1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/zhaoyin/data1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/zhaoyin/data2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/zhaoyin/data2.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/zhaoyin/data3.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/zhaoyin/data3.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/zhongxing/data.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data1.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/zhongxing/data1.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data2.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/zhongxing/data2.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data3.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/zhongxing/data3.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data4.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/zhongxing/data4.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/data5.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/zhongxing/data5.txt" />
+      <change beforePath="$PROJECT_DIR$/niuKe/src/main/resources/zhongxing/test.txt" afterPath="$PROJECT_DIR$/niuKe/src/main/resources/month9day16/zhongxing/test.txt" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Test.class" afterPath="$PROJECT_DIR$/out/production/classes/Test.class" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/test/Test.class" afterPath="$PROJECT_DIR$/out/test/classes/test/Test.class" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/Test.java" afterPath="$PROJECT_DIR$/src/test/java/test/Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -7426,34 +7562,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main1.java">
+      <file leaf-file-name="BplusTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BplusTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="297">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#965#966#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1028#1029#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main2.java">
+      <file leaf-file-name="insertData" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/pingCap/insertData">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="924">
+              <caret line="99989" column="29" lean-forward="true" selection-start-line="99989" selection-start-column="29" selection-end-line="99989" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main3.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main3.java">
+      <file leaf-file-name="searchData" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/pingCap/searchData">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+            <state relative-caret-position="108">
+              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BplusNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BplusNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2430">
+              <caret line="90" column="30" lean-forward="false" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -7476,9 +7642,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>dynamic</find>
-      <find>javac</find>
-      <find>com.sun.tools</find>
       <find>tools</find>
       <find>the method</find>
       <find>flow</find>
@@ -7506,6 +7669,9 @@
       <find>mindis</find>
       <find>codingforoffer</find>
       <find>SearchAndSort</find>
+      <find>map排序</find>
+      <find>LinkedList</find>
+      <find>抖音红人</find>
     </findStrings>
     <replaceStrings>
       <replace>User</replace>
@@ -14659,57 +14825,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/meiTuan/DFS.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/keDaXunFei/Main1.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/kedaxunfei/data2.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/keDaXunFei/Main.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/keDaXunFei/Main2.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/shangtang/data1.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/shangtang/data2.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/shangtang/data3.txt" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/aiqiyi/Main2.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/aiqiyi/Main1.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/aiqiyi/data1" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangyihuyu/Main1.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangyihuyu/Main2.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/wangyihuyu/Main3.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/aiqiyi/Main3.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/souhu/Main2.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/souhu/Main3.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/sina/Main3.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/souhu/data1" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/souhu/Main1.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/sina/Main1.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/aiqiyi/data2" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/sina/data2" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/sina/Main2.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/after9月16日的考试/Main.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/tengxun/data1" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/tengxun/Main1.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/tengxun/Main3.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/tengxun/data2" />
         <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main3.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main2.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/shangtang/Main1.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main2.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main3.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main1.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main2.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main3.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/haikang/data1.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main1.java" />
-        <option value="$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/chapter06/Heapify.java" />
-        <option value="$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/sortAlgorithm/Sort.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question1.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main1.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question4.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main4.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question3.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main3.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main2.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question5.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data3.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main1.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data1.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main3.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main2.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main5.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main2.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main2.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main1.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main3.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main4.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/dianxin/main1.txt" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/dianxin/Main1.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main1.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/functionExecutionSequence/ClassA.java" />
-        <option value="$PROJECT_DIR$/ThinkingInJava/src/main/java/comparableAndComparator/Main.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main5.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/resources/tujia/main" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/tujia/Main1.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main1.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main2.java" />
-        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main3.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/tengxun/Main2.java" />
+        <option value="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/MultiplyThreadDownThread.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/fenghuo/data1" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/Main.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/fenghuo/Main1.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/test/java/Test5.java" />
+        <option value="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/ftpDown.java" />
+        <option value="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/FtpServer.java" />
+        <option value="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/FtpClient.java" />
+        <option value="$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/DownLoadLargeFile.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/didi/data1" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/didi/Main1.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/huawei/Main3.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/huawei/Main1.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/huawei/data2" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/huawei/Main2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/Test.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/migu/data1" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/migu/Main.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BTree.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/test/java/Single.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/pingCap/data" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/TreeNode.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BplusNode.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/test/java/GenerateData.java" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/pingCap/insertData" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/resources/pingCap/searchData" />
+        <option value="$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BplusTree.java" />
       </list>
     </option>
   </component>
@@ -14727,8 +14893,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="695" />
-    <option name="y" value="57" />
+    <option name="x" value="629" />
+    <option name="y" value="130" />
     <option name="width" value="1322" />
     <option name="height" value="1106" />
   </component>
@@ -14787,6 +14953,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -14827,7 +14996,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
@@ -14836,8 +15005,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="baichizan" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="afterMonth9Day16" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
@@ -14846,9 +15015,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="li" type="462c0819:PsiDirectoryNode" />
-              <item name="baichizan" type="462c0819:PsiDirectoryNode" />
-              <item name="exam2" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="afterMonth9Day16" type="462c0819:PsiDirectoryNode" />
+              <item name="pingCap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
@@ -14865,15 +15034,53 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="tujia" type="462c0819:PsiDirectoryNode" />
+              <item name="pingCap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="niuKe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTestUseSubModule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTestUseSubModule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -14892,31 +15099,31 @@
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../springboot-ftpclient" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\zhongxing" />
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\DesignPattern\src\main\java\com\li\MyAdapterPattern\ClassAdapter" />
-      <recent name="D:\software\github\github下载\spring-boot-forum-master\spring-boot-forum-master\src\main\resources" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\dianxin" />
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\jingdong" />
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\baichizan" />
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\jinRiTouTiao\exam3" />
-      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\haikang" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.li.baichizan.exam2" />
-      <recent name="com.li.dianxin" />
-      <recent name="com.li.jingdong" />
-      <recent name="com.li.baichizan" />
-      <recent name="com.li.jinRiTouTiao.exam3" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.li.chapter10.class04" />
       <recent name="com.li.MyProxyPattern" />
       <recent name="chapter08.SecondTime.PuzzleFrameWork" />
       <recent name="chapter04" />
       <recent name="chapter17.class10" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\pingCap" />
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\huawei" />
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\tengxun" />
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\souhu" />
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\sina" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.afterMonth9Day16.huawei" />
+      <recent name="com.afterMonth9Day16.didi" />
+      <recent name="com.afterMonth9Day16.fenghuo" />
+      <recent name="com.afterMonth9Day16.tengxun" />
+      <recent name="com.li.sina" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\niuKe\src\main\resources\zhongxing" />
+      <recent name="D:\software\github\github下载\GradleTestUseSubModule\DesignPattern\src\main\java\com\li\MyAdapterPattern\ClassAdapter" />
+      <recent name="D:\software\github\github下载\spring-boot-forum-master\spring-boot-forum-master\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -14931,7 +15138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main1">
+  <component name="RunManager" selected="Application.BplusTree">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -14939,52 +15146,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="ClassA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="functionExecutionSequence.*" />
+          <option name="PATTERN" value="com.afterMonth9Day16.pingCap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="functionExecutionSequence.ClassA" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJava_main" />
-      <envs />
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="comparableAndComparator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="comparableAndComparator.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkingInJava_main" />
-      <envs />
-    </configuration>
-    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.li.dianxin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.dianxin.Main1" />
+      <option name="MAIN_CLASS_NAME" value="com.afterMonth9Day16.pingCap.BTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -14996,14 +15165,14 @@
       <module name="niuKe_main" />
       <envs />
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BplusTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.li.tujia.*" />
+          <option name="PATTERN" value="com.afterMonth9Day16.pingCap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.tujia.Main1" />
+      <option name="MAIN_CLASS_NAME" value="com.afterMonth9Day16.pingCap.BplusTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -15015,14 +15184,28 @@
       <module name="niuKe_main" />
       <envs />
     </configuration>
-    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="GenerateData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="GenerateData" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="niuKe_test" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.li.jingdong.*" />
+          <option name="PATTERN" value="com.afterMonth9Day16.migu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.li.jingdong.Main5" />
+      <option name="MAIN_CLASS_NAME" value="com.afterMonth9Day16.migu.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -15032,6 +15215,25 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="niuKe_main" />
+      <envs />
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.Test1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GradleTestUseSubModule_test" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -15121,19 +15323,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main1 (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main5" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ClassA" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main1" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BTree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BplusTree" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GenerateData" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main5" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ClassA" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main1 (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BplusTree" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GenerateData" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BTree" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -15197,14 +15399,14 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_test - 2018.08.22 at 19h 51m 49s.xml">
-      <configuration name="Main.test" configurationId="JUnit" />
+    <history-entry file="Main1_getMiniumNum - 2018.09.16 at 11h 00m 25s.xml">
+      <configuration name="Main1.getMiniumNum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test - 2018.08.22 at 19h 53m 27s.xml">
-      <configuration name="Main.test" configurationId="JUnit" />
+    <history-entry file="Main1_getMiniumNum - 2018.09.16 at 11h 00m 35s.xml">
+      <configuration name="Main1.getMiniumNum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_test - 2018.08.22 at 19h 53m 40s.xml">
-      <configuration name="Main.test" configurationId="JUnit" />
+    <history-entry file="Main1_getMiniumNum - 2018.09.16 at 11h 01m 00s.xml">
+      <configuration name="Main1.getMiniumNum" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Main_test - 2018.08.22 at 19h 54m 30s.xml">
       <configuration name="Main.test" configurationId="JUnit" />
@@ -15248,19 +15450,19 @@
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2589928" sideWeight="0.55633044" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13429257" sideWeight="0.20010729" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.015021459" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2913669" sideWeight="0.7998927" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34772182" sideWeight="0.7998927" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.027577939" sideWeight="0.49356222" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22182254" sideWeight="0.49570817" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14055794" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19581544" sideWeight="0.77458036" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2027897" sideWeight="0.77458036" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19420601" sideWeight="0.48672566" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21995708" sideWeight="0.7565947" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50359714" sideWeight="0.6630901" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2410072" sideWeight="0.6630901" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2167382" sideWeight="0.22541967" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -15805,6 +16007,42 @@
           <properties />
           <option name="timeStamp" value="224" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main1.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/tengxun/Main2.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/DownLoadLargeFile.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/huawei/Main2.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/migu/Main.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BplusTree.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/javaConcurrency/src/main/java/chapter08/SecondTime/class5/RecuriveAlgorithmToParaller.java</url>
           <line>20</line>
@@ -15828,7 +16066,7 @@
           <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="227" />
+      <option name="time" value="255" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -15843,250 +16081,265 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/zhaoyin/data1.txt">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/tengxun/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="521">
+          <caret line="56" column="20" lean-forward="false" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/zhaoyinwangluo/Main1.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="55" column="41" lean-forward="false" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/conn/socket/PlainConnectionSocketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.5/542498265bc5a238dcb0275172b8070bd51e30af/httpcore-4.4.5-sources.jar!/org/apache/http/config/RegistryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9342">
+          <caret line="418" column="0" lean-forward="false" selection-start-line="418" selection-start-column="0" selection-end-line="418" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.2/b9f9e3e5255b6ddc3bf21be05428c7a60d00e042/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21978">
+          <caret line="936" column="0" lean-forward="false" selection-start-line="936" selection-start-column="0" selection-end-line="936" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.5/542498265bc5a238dcb0275172b8070bd51e30af/httpcore-4.4.5-sources.jar!/org/apache/http/message/AbstractHttpMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="103" column="62" lean-forward="false" selection-start-line="103" selection-start-column="57" selection-end-line="103" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/io/DataInputStream.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main2.java">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/fenghuo/data1">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        <state relative-caret-position="54">
+          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main3.java">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/test/java/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/haikang/data2.txt">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/test/java/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/fenghuo/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/MultiplyThreadDownThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/haikang/data3.txt">
+    <entry file="file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/ftpDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="837">
+          <caret line="37" column="42" lean-forward="false" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/haikang/data1.txt">
+    <entry file="file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/FtpClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="4212">
+          <caret line="160" column="43" lean-forward="false" selection-start-line="160" selection-start-column="33" selection-end-line="160" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/haikangweishi/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/chapter06/Heapify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/chapter22/DeepthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/chapter22/BreathFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1759">
-          <caret line="76" column="29" lean-forward="false" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/chapter24/mydijstra/MyDijStraAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/chapter13/RedBlackTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmIntroduction/src/main/java/com/li/sortAlgorithm/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="135" column="41" lean-forward="true" selection-start-line="135" selection-start-column="41" selection-end-line="135" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/Question1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main1.java">
+    <entry file="file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/FtpServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="43" />
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBootFtp/src/main/java/com/li/multiplyThread/DownLoadLargeFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5670">
+          <caret line="231" column="84" lean-forward="false" selection-start-line="231" selection-start-column="84" selection-end-line="231" selection-end-column="84" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#10427#10428#0" expanded="false" />
+            <element signature="e#10461#10462#0" expanded="false" />
+            <element signature="e#10503#10504#0" expanded="false" />
+            <element signature="e#10541#10542#0" expanded="false" />
+            <element signature="e#10580#10581#0" expanded="false" />
+            <element signature="e#10619#10620#0" expanded="false" />
+            <element signature="e#10671#10672#0" expanded="false" />
+            <element signature="e#10719#10720#0" expanded="false" />
+            <element signature="e#10756#10757#0" expanded="false" />
+            <element signature="e#10795#10796#0" expanded="false" />
+            <element signature="e#10845#10846#0" expanded="false" />
+            <element signature="e#10893#10894#0" expanded="false" />
+            <element signature="e#10929#10930#0" expanded="false" />
+            <element signature="e#10968#10969#0" expanded="false" />
+            <element signature="e#11017#11018#0" expanded="false" />
+            <element signature="e#11065#11066#0" expanded="false" />
+            <element signature="e#11105#11106#0" expanded="false" />
+            <element signature="e#11146#11147#0" expanded="false" />
+            <element signature="e#11201#11202#0" expanded="false" />
+            <element signature="e#11253#11254#0" expanded="false" />
+            <element signature="e#11292#11293#0" expanded="false" />
+            <element signature="e#11331#11332#0" expanded="false" />
+            <element signature="e#11383#11384#0" expanded="false" />
+            <element signature="e#11431#11432#0" expanded="false" />
+            <element signature="e#11482#11483#0" expanded="false" />
+            <element signature="e#11525#11526#0" expanded="false" />
+            <element signature="e#11593#11594#0" expanded="false" />
+            <element signature="e#11649#11650#0" expanded="false" />
+            <element signature="e#11691#11692#0" expanded="false" />
+            <element signature="e#11756#11757#0" expanded="false" />
+            <element signature="e#11799#11800#0" expanded="false" />
+            <element signature="e#11869#11870#0" expanded="false" />
+            <element signature="e#11911#11912#0" expanded="false" />
+            <element signature="e#11976#11977#0" expanded="false" />
+            <element signature="e#12015#12016#0" expanded="false" />
+            <element signature="e#12071#12072#0" expanded="false" />
+            <element signature="e#18158#18159#0" expanded="false" />
+            <element signature="e#18192#18193#0" expanded="false" />
+            <element signature="e#18234#18235#0" expanded="false" />
+            <element signature="e#18272#18273#0" expanded="false" />
+            <element signature="e#18311#18312#0" expanded="false" />
+            <element signature="e#18350#18351#0" expanded="false" />
+            <element signature="e#18402#18403#0" expanded="false" />
+            <element signature="e#18450#18451#0" expanded="false" />
+            <element signature="e#18496#18497#0" expanded="false" />
+            <element signature="e#18542#18543#0" expanded="false" />
+            <element signature="e#18608#18609#0" expanded="false" />
+            <element signature="e#18670#18671#0" expanded="false" />
+            <element signature="e#18706#18707#0" expanded="false" />
+            <element signature="e#18745#18746#0" expanded="false" />
+            <element signature="e#18794#18795#0" expanded="false" />
+            <element signature="e#18842#18843#0" expanded="false" />
+            <element signature="e#18877#18878#0" expanded="false" />
+            <element signature="e#18914#18915#0" expanded="false" />
+            <element signature="e#18960#18961#0" expanded="false" />
+            <element signature="e#19004#19005#0" expanded="false" />
+            <element signature="e#19039#19040#0" expanded="false" />
+            <element signature="e#19076#19077#0" expanded="false" />
+            <element signature="e#19122#19123#0" expanded="false" />
+            <element signature="e#19166#19167#0" expanded="false" />
+            <element signature="e#19203#19204#0" expanded="false" />
+            <element signature="e#19240#19241#0" expanded="false" />
+            <element signature="e#19289#19290#0" expanded="false" />
+            <element signature="e#19333#19334#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question3.txt">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/didi/data1">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/jinRiTouTiao/exam3/question5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data2.txt">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/huawei/data3">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/baichizan/data1.txt">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/huawei/data2">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jinRiTouTiao/exam3/Main5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-449">
-          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state relative-caret-position="1404">
+          <caret line="53" column="45" lean-forward="false" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main3.txt">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/huawei/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/huawei/data1">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/jingdong/main1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main2.java">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/didi/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main4.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -16094,275 +16347,421 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1917">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/dianxin/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="51" column="39" lean-forward="false" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/dianxin/main1.txt">
+    <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/functionExecutionSequence/ClassA.java">
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="e#551#552#0" expanded="false" />
-            <element signature="e#611#612#0" expanded="false" />
-            <element signature="e#765#766#0" expanded="false" />
-            <element signature="e#825#826#0" expanded="false" />
-            <element signature="e#1032#1033#0" expanded="false" />
-            <element signature="e#1092#1093#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkingInJava/src/main/java/comparableAndComparator/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#889#890#0" expanded="false" />
-            <element signature="e#921#922#0" expanded="false" />
-            <element signature="e#1025#1026#0" expanded="false" />
-            <element signature="e#1074#1075#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/lang/Integer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="63" />
-          <folding>
-            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1517832771462" expanded="true" signature="2080:2746" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="2810:2883" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="2931:2942" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="2976:2982" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="3032:3043" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="3077:3083" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="3134:3145" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="3179:3185" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="3251:3501" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="3589:3857" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="3903:4207" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="4260:4271" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="4314:4320" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="4380:5158" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="5196:5327" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="5412:7276" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="7351:7393" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="7486:8469" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="8552:8602" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="8690:8734" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="8812:8854" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="8900:9034" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="9064:9075" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9093:9099" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="9162:9210" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="9239:9250" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9274:9280" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="9311:9322" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9347:9353" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="9380:9391" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9409:9415" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="9444:9455" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9479:9485" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="9516:9527" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9552:9558" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="9591:9602" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9628:9634" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="9664:9675" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9703:9709" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="9736:9747" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9775:9781" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="9823:9834" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="9846:9852" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="9893:10040" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="10091:10102" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="10141:10147" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="10209:10315" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="10381:10772" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="10849:12306" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="12346:12357" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="12396:12402" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="12453:12464" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="12513:12519" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="12578:12589" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="12644:12650" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="12699:12710" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="12742:12748" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="12806:12817" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="12875:12881" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="12943:13017" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="13065:13244" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="13290:13301" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="13321:13327" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="13382:13974" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="14030:14711" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="14754:14995" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="15049:15060" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="15097:15103" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="15158:15169" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="15206:15212" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="15254:15569" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="15609:15620" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="15653:15659" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="15706:15800" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="15847:15858" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="15877:15883" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="15930:15941" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="15969:15975" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="16022:16033" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="16061:16067" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="16107:17007" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="16247:16258" ph="{}" />
-            <marker date="1517832771462" expanded="true" signature="16275:17001" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/Comparator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1674">
-          <caret line="81" column="12" lean-forward="false" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
-          <folding>
-            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1517832771462" expanded="false" signature="133:415" ph="..." />
-            <marker date="1517832771462" expanded="false" signature="575:586" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="624:630" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="700:935" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="800:926" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="1048:1113" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="1228:1287" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="1363:1425" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="1503:1566" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="1648:1713" ph="{...}" />
-            <marker date="1517832771462" expanded="false" signature="1788:1799" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="1833:1839" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="1914:1925" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="1964:1970" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="2039:2050" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="2088:2094" ph=" }" />
-            <marker date="1517832771462" expanded="false" signature="2162:2173" ph=" { " />
-            <marker date="1517832771462" expanded="false" signature="2212:2218" ph=" }" />
-            <marker date="1517832771462" expanded="true" signature="2329:2557" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="2467:2548" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="2670:2872" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="2771:2863" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="2947:3152" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="3048:3143" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="3229:3433" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="3330:3424" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="3514:3724" ph="{...}" />
-            <marker date="1517832771462" expanded="true" signature="3615:3715" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/jingdong/Main5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/tujia/main">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="18" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/tujia/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-984">
-          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/Main3.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="14" column="68" lean-forward="false" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="68" />
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/GenerateSqlData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/huawei/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/huawei/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/migu/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1998">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main1.java">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/migu/data1">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BTree.java" />
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9882">
+          <caret line="406" column="15" lean-forward="false" selection-start-line="406" selection-start-column="15" selection-end-line="406" selection-end-column="15" />
+          <folding>
+            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517832771462" expanded="false" signature="133:549" ph="..." />
+            <marker date="1517832771462" expanded="false" signature="987:998" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="1020:1026" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="1059:1130" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="1162:1173" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="1219:1225" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="1278:1919" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="1971:3538" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="3544:3562" ph="/**...*/" />
+            <marker date="1517832771462" expanded="true" signature="3640:4096" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="4102:4120" ph="/**...*/" />
+            <marker date="1517832771462" expanded="false" signature="4177:4188" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="4221:4227" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="4298:4608" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="4710:4944" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="5011:5241" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="5323:5380" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="5426:5437" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5479:5485" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="5538:5644" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="5676:5687" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5722:5728" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="5767:5885" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="5924:5935" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5994:6000" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="6039:6050" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="6068:6074" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="6099:6110" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="6135:6141" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="6171:6182" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="6212:6218" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="6253:6438" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="6477:6708" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="6751:6999" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="7051:7286" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="7342:7580" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="7622:7633" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="7696:7702" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="7772:8174" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="8180:8198" ph="/**...*/" />
+            <marker date="1517832771462" expanded="true" signature="8283:8867" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="8945:9133" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="9176:9364" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="9394:9405" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="9466:9472" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="9513:10174" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="10227:10238" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="10284:10290" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="10361:10756" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="10810:11684" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="11735:11894" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="11934:12369" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="12418:12429" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="12479:12485" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="12563:13068" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="13160:14162" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="14217:14693" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="14737:14748" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="14780:14786" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="14828:14839" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="14907:14913" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="14941:15257" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="15291:15302" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="15331:15337" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="15382:15881" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="15940:16402" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="16440:16451" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="16504:16510" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="16559:16934" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="16997:17444" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="17481:17492" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="17521:17527" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="17575:17680" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="17761:17850" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="17951:19077" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="19118:19129" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="19178:19184" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="19236:19345" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="19430:19523" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="19628:20773" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="20813:21187" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="21237:21735" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="21792:21803" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="21837:21843" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="21883:22191" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="22241:22963" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="23004:23015" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="23050:23056" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="23104:23115" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="23157:23163" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="23222:23300" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="23356:23367" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="23427:23433" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="23499:23627" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="23678:25234" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="25274:25285" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="25312:25318" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="25391:25759" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="25849:26188" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="26233:29182" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="29215:29226" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="29271:29277" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="29322:32648" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="32681:32692" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="32737:32743" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="32770:33135" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="33165:33176" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="33188:33194" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="33228:33376" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="33438:33449" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="33504:33510" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="33586:33661" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="33708:33719" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="33766:33772" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="33819:33830" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="33854:33860" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="33927:33938" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="33974:33980" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="34051:34062" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="34098:34104" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="34155:34166" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="34190:34196" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="34244:34255" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="34286:34292" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="34338:34424" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="34468:34479" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="34509:34515" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="34560:34571" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="34598:34604" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="34650:34661" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="34689:34695" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="34742:34753" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="34782:34788" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="34921:36008" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="35043:35054" ph="{}" />
+            <marker date="1517832771462" expanded="true" signature="35109:35902" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="35940:35955" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="35992:36002" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/test/java/Single.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="53" />
+          <folding>
+            <element signature="e#290#291#0" expanded="false" />
+            <element signature="e#325#326#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/tengxun/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/pingCap/data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/util/AbstractMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="321" column="26" lean-forward="false" selection-start-line="321" selection-start-column="15" selection-end-line="321" selection-end-column="26" />
+          <folding>
+            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517832771462" expanded="false" signature="133:182" ph="..." />
+            <marker date="1517832771462" expanded="true" signature="341:348" ph="{}" />
+            <marker date="1517832771462" expanded="false" signature="371:382" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="412:418" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="448:459" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="483:489" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="537:1081" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="1127:1667" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="1699:2260" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="2294:2305" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="2347:2353" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="2388:3116" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="3177:3379" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="3404:3415" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="3439:3445" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="3474:4760" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="3579:4679" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="3627:4201" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="3674:4182" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="3823:3854" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="3878:3904" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="3945:3976" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="4015:4041" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="4087:4118" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="4134:4160" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="4236:4259" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="4290:4308" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="4350:4373" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="4407:4425" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="4462:4485" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="4510:4528" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="4582:4605" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="4647:4665" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="4796:6107" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="4908:6012" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="4956:5532" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="5003:5513" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="5152:5183" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5207:5233" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="5274:5305" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5346:5372" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="5418:5449" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5465:5491" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="5567:5590" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5621:5639" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="5681:5704" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5738:5756" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="5793:5816" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5841:5859" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="5913:5936" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5980:5998" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="6198:7566" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="7594:7785" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="7816:8548" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="8613:8752" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="8809:8820" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="8875:8881" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="8962:10225" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="9138:9209" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="9276:9367" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="9394:9409" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="9425:9435" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="9464:9479" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="9497:9507" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="9543:9648" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="9693:9966" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="9998:10125" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="10159:10174" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="10209:10219" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="10315:11562" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="10505:10576" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="10652:10743" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="10770:10785" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="10801:10811" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="10840:10855" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="10873:10883" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="10918:10933" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="10975:10985" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="11030:11303" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="11335:11462" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="11496:11511" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="11546:11556" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1701">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/test/java/GenerateData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="63" lean-forward="false" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/pingCap/searchData">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BplusNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="90" column="30" lean-forward="false" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main2.java">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/resources/pingCap/insertData">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="924">
+          <caret line="99989" column="29" lean-forward="true" selection-start-line="99989" selection-start-column="29" selection-end-line="99989" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/li/baichizan/exam2/Main3.java">
+    <entry file="file://$PROJECT_DIR$/niuKe/src/main/java/com/afterMonth9Day16/pingCap/BplusTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="59" lean-forward="true" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-          <folding />
+        <state relative-caret-position="297">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
